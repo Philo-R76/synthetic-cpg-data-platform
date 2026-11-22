@@ -92,7 +92,7 @@ Install the project's open-source Python dependencies, then run:
 
 ```powershell
 python -m pip install -r requirements.txt
-python -m streamlit run app.py
+python -m streamlit run overview.py
 ```
 
 The app opens on a portfolio overview, with pages for release benchmarks,
