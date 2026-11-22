@@ -1,0 +1,89 @@
+{
+  "description": "Synthetic CPG data for local ingestion, mapping, and quality demos.",
+  "field_notes": {
+    "currency": "Tenant currency with realistic symbol/code variations.",
+    "discount_pct": "Fraction from 0.05 to 0.30, not a whole-number percentage.",
+    "mapping_ground_truth.csv": "Synthetic row-level labels; expected product is retained even when the raw product value is missing.",
+    "product_catalog_history.csv": "Contains an intentional SKU-1001 category change effective 2025-07-01 for visible SCD Type 2 history.",
+    "retailer_sku / item_number / product_code": "Includes canonical, descriptive, and ontology-synonym product values.",
+    "transaction_date / ship_date / start_date / end_date": "ISO date when valid; selected rows contain not-a-date.",
+    "units_sold / shipped_quantity / market_units": "Raw numeric strings; selected rows contain invalid values."
+  },
+  "files": {
+    "pos.csv": {
+      "fields": [
+        "record_id",
+        "tenant_id",
+        "source_system",
+        "transaction_date",
+        "store_id",
+        "retailer_sku",
+        "units_sold",
+        "net_sales",
+        "currency",
+        "sales_channel"
+      ],
+      "rows": 864
+    },
+    "promotions.csv": {
+      "fields": [
+        "record_id",
+        "tenant_id",
+        "source_system",
+        "promotion_id",
+        "retailer_sku",
+        "start_date",
+        "end_date",
+        "discount_pct",
+        "promo_spend",
+        "currency"
+      ],
+      "rows": 864
+    },
+    "shipments.csv": {
+      "fields": [
+        "record_id",
+        "tenant_id",
+        "source_system",
+        "ship_date",
+        "warehouse_id",
+        "retailer_id",
+        "item_number",
+        "shipped_quantity",
+        "shipment_value",
+        "currency",
+        "unit_of_measure"
+      ],
+      "rows": 864
+    },
+    "syndicated.csv": {
+      "fields": [
+        "record_id",
+        "tenant_id",
+        "source_system",
+        "provider",
+        "market",
+        "period",
+        "product_code",
+        "market_units",
+        "market_sales",
+        "currency",
+        "unit_of_measure"
+      ],
+      "rows": 864
+    }
+  },
+  "injected_anomalies": {
+    "invalid_dates": 108,
+    "invalid_numeric_values": 108,
+    "missing_product_values": 144
+  },
+  "note": "All data and benchmark labels are synthetic and do not represent real customers or measured production performance.",
+  "period": "2025-01 through 2025-12",
+  "product_catalog_history_rows": 9,
+  "tenants": [
+    "Tenant_A",
+    "Tenant_B",
+    "Tenant_C"
+  ]
+}

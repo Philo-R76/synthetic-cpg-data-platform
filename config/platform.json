@@ -1,0 +1,7 @@
+{
+  "compute_usd_per_hour": 0.1,
+  "storage_usd_per_gib_month": 0.02,
+  "onboarding_hours_before_config": 40,
+  "onboarding_hours_after_config": 4,
+  "assumptions": "Illustrative local-demo rates and onboarding estimates only; not cloud invoices or measured customer onboarding time."
+}

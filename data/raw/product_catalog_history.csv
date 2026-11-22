@@ -1,0 +1,10 @@
+product_id,canonical_sku,brand,category,product_name,pack_size,pack_unit,effective_from,effective_to,is_current
+SKU-1001,NS-OAT-1L,Northstar,Plant-Based Beverages,Oat Drink Original,1,L,1900-01-01,2025-07-01,false
+SKU-1001,NS-OAT-1L,Northstar,Plant Drinks,Oat Drink Original,1,L,2025-07-01,,true
+SKU-1002,NS-OAT-6X250,Northstar,Plant-Based Beverages,Oat Drink Barista Multipack,6x250,ml,1900-01-01,,true
+SKU-2001,CR-CHOC-150,Crisp Ridge,Snacks,Chocolate Grain Bites,150,g,1900-01-01,,true
+SKU-2002,CR-SALT-200,Crisp Ridge,Snacks,Sea Salt Crisps,200,g,1900-01-01,,true
+SKU-3001,GB-LAUN-1.5,Green Basket,Household Care,Plant Laundry Liquid,1.5,L,1900-01-01,,true
+SKU-3002,GB-DISH-500,Green Basket,Household Care,Citrus Dish Soap,500,ml,1900-01-01,,true
+SKU-4001,SP-SHAM-400,Soft Peak,Personal Care,Daily Moisture Shampoo,400,ml,1900-01-01,,true
+SKU-4002,SP-COND-400,Soft Peak,Personal Care,Daily Moisture Conditioner,400,ml,1900-01-01,,true

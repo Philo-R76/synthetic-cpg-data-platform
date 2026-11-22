@@ -1,0 +1,865 @@
+record_id,tenant_id,source_system,ship_date,warehouse_id,retailer_id,item_number,shipped_quantity,shipment_value,currency,unit_of_measure
+ship-Tenant_A-202501-0001,Tenant_A,warehouse,not-a-date,WH-01,RET-001,NS-OAT-6X250,118,508.91,$,EA
+ship-Tenant_A-202501-0002,Tenant_A,warehouse,2025-01-28,WH-02,RET-007,,81,378.50,USD,CASE
+ship-Tenant_A-202501-0003,Tenant_A,warehouse,2025-01-03,WH-02,RET-023, soft peak daily moisture hair conditioner ,unknown,733.63,$,EA
+ship-Tenant_A-202501-0004,Tenant_A,warehouse,2025-01-06,WH-01,RET-020,Soft Peak Daily Moisture Shampoo,78,364.48,US$,each
+ship-Tenant_A-202501-0005,Tenant_A,warehouse,2025-01-02,WH-01,RET-007,Sea Salt Ridge Crisps,78,179.15,USD,CASE
+ship-Tenant_A-202501-0006,Tenant_A,warehouse,2025-01-24,WH-02,RET-005,Chocolate Grain Bites,102,204.90,$,CS
+ship-Tenant_A-202501-0007,Tenant_A,warehouse,2025-01-15,WH-05,RET-025, soft peak daily moisture hair shampoo ,39,182.24,$,CASE
+ship-Tenant_A-202501-0008,Tenant_A,warehouse,2025-01-17,WH-05,RET-020,Oat Original Northstar,86,216.10,USD,each
+ship-Tenant_A-202501-0009,Tenant_A,warehouse,2025-01-29,WH-01,RET-003, green basket citrus dish soap 500ml ,155,422.96,US$,CS
+ship-Tenant_A-202501-0010,Tenant_A,warehouse,2025-01-20,WH-03,RET-013, soft peak daily moisture hair conditioner ,61,285.04,US$,CASE
+ship-Tenant_A-202501-0011,Tenant_A,warehouse,2025-01-08,WH-01,RET-011,GB-DISH-500,27,73.68,USD,EA
+ship-Tenant_A-202501-0012,Tenant_A,warehouse,2025-01-07,WH-04,RET-015,Daily Moisture Conditioner,118,551.39,USD,EA
+ship-Tenant_A-202501-0013,Tenant_A,warehouse,2025-01-14,WH-04,RET-018, sea salt crisps ,29,66.61,USD,EA
+ship-Tenant_A-202501-0014,Tenant_A,warehouse,2025-01-29,WH-03,RET-015,Soft Peak Daily Moisture Shampoo 400ml,109,509.34,USD,CASE
+ship-Tenant_A-202501-0015,Tenant_A,warehouse,2025-01-24,WH-05,RET-016,Crisp Ridge Sea Salt Crisps,22,50.53,$,each
+ship-Tenant_A-202501-0016,Tenant_A,warehouse,2025-01-08,WH-04,RET-022, crisp ridge sea salt crisps 200g ,30,68.90,$,CASE
+ship-Tenant_A-202501-0017,Tenant_A,warehouse,2025-01-30,WH-01,RET-003,Chocolate Grain Snack Bites,154,309.36,USD,each
+ship-Tenant_A-202501-0018,Tenant_A,warehouse,2025-01-10,WH-03,RET-022,Plant Laundry Liquid,151,923.03,$,EA
+ship-Tenant_A-202501-0019,Tenant_A,warehouse,2025-01-22,WH-01,RET-003,Green Basket Plant Based Laundry Detergent,74,452.35,$,CS
+ship-Tenant_A-202501-0020,Tenant_A,warehouse,2025-01-04,WH-03,RET-019,Soft Peak Daily Moisture Hair Conditioner,19,88.78,USD,each
+ship-Tenant_A-202501-0021,Tenant_A,warehouse,2025-01-29,WH-02,RET-014, sea salt ridge crisps ,51,117.14,US$,EA
+ship-Tenant_A-202501-0022,Tenant_A,warehouse,2025-01-28,WH-03,RET-008, chocolate grain snack bites ,99,198.87,US$,each
+ship-Tenant_A-202501-0023,Tenant_A,warehouse,2025-01-11,WH-03,RET-002,Citrus Dishwshing Liquid,158,431.15,USD,EA
+ship-Tenant_A-202501-0024,Tenant_A,warehouse,2025-01-02,WH-02,RET-012,Barista Oat Drink 6 Pack,147,633.98,$,CS
+ship-Tenant_A-202502-0001,Tenant_A,warehouse,not-a-date,WH-02,RET-020,Green Basket Laundry Liquid,107,654.07,$,CASE
+ship-Tenant_A-202502-0002,Tenant_A,warehouse,2025-02-17,WH-03,RET-017,,31,84.59,US$,CASE
+ship-Tenant_A-202502-0003,Tenant_A,warehouse,2025-02-20,WH-02,RET-023, cr-choc-150 ,unknown,315.38,USD,CS
+ship-Tenant_A-202502-0004,Tenant_A,warehouse,2025-02-15,WH-02,RET-015,Sea Salt Crisps,126,289.40,USD,CASE
+ship-Tenant_A-202502-0005,Tenant_A,warehouse,2025-02-09,WH-02,RET-009,Daily Moisture Conditioner,134,626.16,USD,CS
+ship-Tenant_A-202502-0006,Tenant_A,warehouse,2025-02-05,WH-03,RET-018, oat drink barista multipack ,114,491.66,$,CS
+ship-Tenant_A-202502-0007,Tenant_A,warehouse,2025-02-25,WH-05,RET-008, soft peak daily moisture shampoo 400ml ,149,696.25,US$,CS
+ship-Tenant_A-202502-0008,Tenant_A,warehouse,2025-02-05,WH-01,RET-003, soft peak moisture shampoo ,154,719.61,$,CS
+ship-Tenant_A-202502-0009,Tenant_A,warehouse,2025-02-13,WH-01,RET-024,Crisp Ridge Sea Salt Crisps 200g,130,298.58,US$,EA
+ship-Tenant_A-202502-0010,Tenant_A,warehouse,2025-02-16,WH-03,RET-025,CR-SALT-200,129,296.29,$,CASE
+ship-Tenant_A-202502-0011,Tenant_A,warehouse,2025-02-22,WH-01,RET-023, northstar barista oat multipack ,72,310.52,US$,CASE
+ship-Tenant_A-202502-0012,Tenant_A,warehouse,2025-02-11,WH-03,RET-021,Soft Peak Moisture Shampoo,120,560.74,USD,CS
+ship-Tenant_A-202502-0013,Tenant_A,warehouse,2025-02-09,WH-02,RET-025,Soft Peak Daily Moisture Conditioner 400ml,125,584.10,US$,CS
+ship-Tenant_A-202502-0014,Tenant_A,warehouse,2025-02-11,WH-05,RET-007,Crisp Ridge Chocolate Grain Bites 150g,12,24.11,US$,EA
+ship-Tenant_A-202502-0015,Tenant_A,warehouse,2025-02-08,WH-03,RET-016,Soft Peak Daily Moisture Conditioner 400ml,158,738.30,US$,CASE
+ship-Tenant_A-202502-0016,Tenant_A,warehouse,2025-02-04,WH-04,RET-009, plant laundry liquid ,65,397.33,$,CASE
+ship-Tenant_A-202502-0017,Tenant_A,warehouse,2025-02-02,WH-01,RET-001,Oat Original Northstar,135,339.23,$,CASE
+ship-Tenant_A-202502-0018,Tenant_A,warehouse,2025-02-21,WH-03,RET-003,NS OAT 6X250,154,664.17,$,each
+ship-Tenant_A-202502-0019,Tenant_A,warehouse,2025-02-10,WH-02,RET-021,Soft Peak Daily Moisture Conditioner,35,163.55,$,each
+ship-Tenant_A-202502-0020,Tenant_A,warehouse,2025-02-10,WH-04,RET-003,Northstar Oat Drink Original 1L,82,206.05,USD,each
+ship-Tenant_A-202502-0021,Tenant_A,warehouse,2025-02-05,WH-03,RET-015, sea salt ridge crisps ,155,356.00,USD,EA
+ship-Tenant_A-202502-0022,Tenant_A,warehouse,2025-02-11,WH-05,RET-019, northstar barista oat multipack ,68,293.27,$,EA
+ship-Tenant_A-202502-0023,Tenant_A,warehouse,2025-02-21,WH-03,RET-011, soft peak moistre conditioner ,114,532.70,US$,EA
+ship-Tenant_A-202502-0024,Tenant_A,warehouse,2025-02-11,WH-04,RET-014,Soft Peak Daily Moisture Hair Shampoo,148,691.57,USD,EA
+ship-Tenant_A-202503-0001,Tenant_A,warehouse,not-a-date,WH-02,RET-010,Crisp Ridge Sea Salt Crisps,71,163.07,$,EA
+ship-Tenant_A-202503-0002,Tenant_A,warehouse,2025-03-23,WH-04,RET-018,,72,144.63,US$,each
+ship-Tenant_A-202503-0003,Tenant_A,warehouse,2025-03-27,WH-04,RET-005,Soft Peak Daily Moisture Shampoo,unknown,738.30,USD,CS
+ship-Tenant_A-202503-0004,Tenant_A,warehouse,2025-03-13,WH-04,RET-013,Citrus Dish Soap,131,357.47,USD,each
+ship-Tenant_A-202503-0005,Tenant_A,warehouse,2025-03-05,WH-03,RET-011,Northstar Barista Oat Multipack,130,560.66,US$,CS
+ship-Tenant_A-202503-0006,Tenant_A,warehouse,2025-03-21,WH-04,RET-004, soft peak daily moisture hair conditioner ,33,154.20,$,EA
+ship-Tenant_A-202503-0007,Tenant_A,warehouse,2025-03-08,WH-02,RET-006,Northstar Oat Drink Original,56,140.72,$,EA
+ship-Tenant_A-202503-0008,Tenant_A,warehouse,2025-03-09,WH-02,RET-003,Chocolate Grain Bites,149,299.31,$,CS
+ship-Tenant_A-202503-0009,Tenant_A,warehouse,2025-03-04,WH-03,RET-023,Plant Laundry Liquid,157,959.71,USD,CASE
+ship-Tenant_A-202503-0010,Tenant_A,warehouse,2025-03-26,WH-02,RET-021,Soft Peak Daily Moisture Conditioner,74,345.79,US$,EA
+ship-Tenant_A-202503-0011,Tenant_A,warehouse,2025-03-11,WH-05,RET-012, citrus dishwashing liquid ,43,117.34,$,CASE
+ship-Tenant_A-202503-0012,Tenant_A,warehouse,2025-03-25,WH-01,RET-013,GB DISH 500,103,281.07,USD,EA
+ship-Tenant_A-202503-0013,Tenant_A,warehouse,2025-03-20,WH-04,RET-023,GB-DISH-500,26,70.95,$,CASE
+ship-Tenant_A-202503-0014,Tenant_A,warehouse,2025-03-13,WH-02,RET-014,NS-OAT-6X250,160,690.05,US$,EA
+ship-Tenant_A-202503-0015,Tenant_A,warehouse,2025-03-28,WH-01,RET-013,Citrus Dish Soap,101,275.61,US$,CASE
+ship-Tenant_A-202503-0016,Tenant_A,warehouse,2025-03-07,WH-02,RET-011,Citrus Dish Soap,65,177.37,USD,each
+ship-Tenant_A-202503-0017,Tenant_A,warehouse,2025-03-05,WH-01,RET-006, plant laundry liquid ,92,562.38,USD,CASE
+ship-Tenant_A-202503-0018,Tenant_A,warehouse,2025-03-17,WH-03,RET-015,Soft Peak Daily Moisture Conditioner,143,668.21,USD,EA
+ship-Tenant_A-202503-0019,Tenant_A,warehouse,2025-03-05,WH-05,RET-023,SP-COND-400,159,742.98,USD,CASE
+ship-Tenant_A-202503-0020,Tenant_A,warehouse,2025-03-24,WH-03,RET-015,Barista Oat Drink 6 Pack,115,495.97,USD,CS
+ship-Tenant_A-202503-0021,Tenant_A,warehouse,2025-03-27,WH-02,RET-018,Chocolate Grain Snack Bites,105,210.92,USD,EA
+ship-Tenant_A-202503-0022,Tenant_A,warehouse,2025-03-10,WH-02,RET-022, soft peak moisture shampoo ,64,299.06,US$,CS
+ship-Tenant_A-202503-0023,Tenant_A,warehouse,2025-03-25,WH-01,RET-006,Green Basket Plant Baed Laundry Detergent,78,476.80,$,CASE
+ship-Tenant_A-202503-0024,Tenant_A,warehouse,2025-03-01,WH-04,RET-015, chocolate grain snack bites ,106,212.93,USD,CASE
+ship-Tenant_A-202504-0001,Tenant_A,warehouse,not-a-date,WH-04,RET-009,Chocolate Grain Bites,123,247.08,US$,each
+ship-Tenant_A-202504-0002,Tenant_A,warehouse,2025-04-13,WH-02,RET-025,,87,406.53,$,each
+ship-Tenant_A-202504-0003,Tenant_A,warehouse,2025-04-08,WH-01,RET-014, daily moisture shampoo ,unknown,518.68,$,EA
+ship-Tenant_A-202504-0004,Tenant_A,warehouse,2025-04-11,WH-01,RET-014, soft peak daily moisture shampoo ,102,476.63,USD,EA
+ship-Tenant_A-202504-0005,Tenant_A,warehouse,2025-04-17,WH-03,RET-012,Citrus Dish Soap,59,161.00,$,each
+ship-Tenant_A-202504-0006,Tenant_A,warehouse,2025-04-15,WH-05,RET-011,Oat Drink Barista Multipack,154,664.17,$,CASE
+ship-Tenant_A-202504-0007,Tenant_A,warehouse,2025-04-15,WH-01,RET-020,Northstar Oat Drink Original,29,72.87,USD,CS
+ship-Tenant_A-202504-0008,Tenant_A,warehouse,2025-04-02,WH-05,RET-021,Crisp Ridge Sea Salt Crisps,31,71.20,US$,each
+ship-Tenant_A-202504-0009,Tenant_A,warehouse,2025-04-22,WH-01,RET-018,Green Basket Citrus Dish Soap,94,256.51,$,CS
+ship-Tenant_A-202504-0010,Tenant_A,warehouse,2025-04-22,WH-03,RET-018,Crisp Ridge Chocolate Grain Bites,31,62.27,US$,CS
+ship-Tenant_A-202504-0011,Tenant_A,warehouse,2025-04-06,WH-02,RET-005,Soft Peak Daily Moisture Hair Shampoo,67,313.08,USD,EA
+ship-Tenant_A-202504-0012,Tenant_A,warehouse,2025-04-06,WH-01,RET-014, green basket citrus dishwashing soap ,122,332.91,USD,CASE
+ship-Tenant_A-202504-0013,Tenant_A,warehouse,2025-04-29,WH-03,RET-025,Crisp Ridge Sea Salt Crisps,128,293.99,USD,CS
+ship-Tenant_A-202504-0014,Tenant_A,warehouse,2025-04-30,WH-01,RET-025,Oat Original Northstar,82,206.05,USD,each
+ship-Tenant_A-202504-0015,Tenant_A,warehouse,2025-04-13,WH-03,RET-008,Soft Peak Daily Moisture Conditioner,30,140.18,$,EA
+ship-Tenant_A-202504-0016,Tenant_A,warehouse,2025-04-23,WH-01,RET-009,Green Basket Plant Laundry Liquid 1.5L,30,183.38,US$,each
+ship-Tenant_A-202504-0017,Tenant_A,warehouse,2025-04-14,WH-04,RET-020,Plant Laundry Liquid,38,232.29,$,EA
+ship-Tenant_A-202504-0018,Tenant_A,warehouse,2025-04-06,WH-01,RET-017,Northstar Original Oat Beverage,102,256.31,$,EA
+ship-Tenant_A-202504-0019,Tenant_A,warehouse,2025-04-24,WH-02,RET-002,Northstar Oat Drink Original,95,238.72,$,CASE
+ship-Tenant_A-202504-0020,Tenant_A,warehouse,2025-04-15,WH-01,RET-011, chocolate grain bites ,61,122.54,USD,CASE
+ship-Tenant_A-202504-0021,Tenant_A,warehouse,2025-04-04,WH-04,RET-011,GB-DISH-500,122,332.91,US$,each
+ship-Tenant_A-202504-0022,Tenant_A,warehouse,2025-04-06,WH-03,RET-022,SP-SHAM-400,30,140.18,$,CASE
+ship-Tenant_A-202504-0023,Tenant_A,warehouse,2025-04-20,WH-03,RET-017,Soft Peak Daily Moistre Hair Conditioner,113,528.03,US$,each
+ship-Tenant_A-202504-0024,Tenant_A,warehouse,2025-04-13,WH-03,RET-012,Northstar Barista Oat Multipack,125,539.10,$,CS
+ship-Tenant_A-202505-0001,Tenant_A,warehouse,not-a-date,WH-03,RET-025,Plant Laundry Liquid,40,244.51,US$,CASE
+ship-Tenant_A-202505-0002,Tenant_A,warehouse,2025-05-29,WH-03,RET-023,,91,392.46,$,EA
+ship-Tenant_A-202505-0003,Tenant_A,warehouse,2025-05-08,WH-03,RET-015,CR-SALT-200,unknown,358.30,US$,each
+ship-Tenant_A-202505-0004,Tenant_A,warehouse,2025-05-11,WH-03,RET-005,Soft Peak Daily Moisture Shampoo 400ml,142,663.54,$,each
+ship-Tenant_A-202505-0005,Tenant_A,warehouse,2025-05-23,WH-03,RET-007, crisp ridge chocolate grain bites ,30,60.26,USD,CASE
+ship-Tenant_A-202505-0006,Tenant_A,warehouse,2025-05-20,WH-01,RET-021,Chocolate Grain Bites,30,60.26,US$,CASE
+ship-Tenant_A-202505-0007,Tenant_A,warehouse,2025-05-26,WH-01,RET-006,Green Basket Laundry Liquid,28,171.16,$,CS
+ship-Tenant_A-202505-0008,Tenant_A,warehouse,2025-05-13,WH-03,RET-008,Citrus Dishwashing Liquid,37,100.97,USD,CS
+ship-Tenant_A-202505-0009,Tenant_A,warehouse,2025-05-29,WH-02,RET-025,Soft Peak Daily Moisture Hair Shampoo,90,420.55,USD,each
+ship-Tenant_A-202505-0010,Tenant_A,warehouse,2025-05-07,WH-04,RET-020,Northstar Oat Drink Barista Multipack 6x250ml,82,353.65,$,CS
+ship-Tenant_A-202505-0011,Tenant_A,warehouse,2025-05-19,WH-01,RET-013,Green Basket Citrus Dish Soap 500ml,83,226.49,$,CS
+ship-Tenant_A-202505-0012,Tenant_A,warehouse,2025-05-31,WH-04,RET-017,Soft Peak Daily Moisture Shampoo,140,654.19,US$,EA
+ship-Tenant_A-202505-0013,Tenant_A,warehouse,2025-05-13,WH-05,RET-017,Crisp Ridge Chocolate Grain Bites,96,192.84,$,CS
+ship-Tenant_A-202505-0014,Tenant_A,warehouse,2025-05-24,WH-03,RET-021,Northstar Oat Drink Barista Multipack 6x250ml,131,564.98,$,each
+ship-Tenant_A-202505-0015,Tenant_A,warehouse,2025-05-07,WH-04,RET-023,CR-SALT-200,48,110.25,USD,each
+ship-Tenant_A-202505-0016,Tenant_A,warehouse,2025-05-22,WH-04,RET-018,Crisp Ridge Cocoa Grain Bites,54,108.48,US$,CASE
+ship-Tenant_A-202505-0017,Tenant_A,warehouse,2025-05-10,WH-03,RET-016,Crisp Ridge Sea Salt Crisps,135,310.07,US$,CASE
+ship-Tenant_A-202505-0018,Tenant_A,warehouse,2025-05-23,WH-04,RET-007,Citrus Dish Soap,75,204.66,USD,each
+ship-Tenant_A-202505-0019,Tenant_A,warehouse,2025-05-08,WH-03,RET-023, sea salt crisps ,115,264.13,$,CS
+ship-Tenant_A-202505-0020,Tenant_A,warehouse,2025-05-10,WH-02,RET-018,Soft Peak Daily Moisture Conditioner 400ml,156,728.96,US$,EA
+ship-Tenant_A-202505-0021,Tenant_A,warehouse,2025-05-29,WH-03,RET-010,Chocolate Grain Snack Bites,37,74.33,USD,CS
+ship-Tenant_A-202505-0022,Tenant_A,warehouse,2025-05-21,WH-03,RET-019,CR-SALT-200,96,220.49,US$,each
+ship-Tenant_A-202505-0023,Tenant_A,warehouse,2025-05-11,WH-04,RET-025, soft peak daily moiture hair shampoo ,70,327.10,USD,CASE
+ship-Tenant_A-202505-0024,Tenant_A,warehouse,2025-05-10,WH-01,RET-021, green basket citrus dishwashing soap ,89,242.86,USD,CASE
+ship-Tenant_A-202506-0001,Tenant_A,warehouse,not-a-date,WH-02,RET-022,Soft Peak Moisture Conditioner,65,303.73,$,EA
+ship-Tenant_A-202506-0002,Tenant_A,warehouse,2025-06-28,WH-05,RET-016,,62,142.40,$,EA
+ship-Tenant_A-202506-0003,Tenant_A,warehouse,2025-06-24,WH-05,RET-003,Northstar Original Oat Beverage,unknown,163.33,USD,EA
+ship-Tenant_A-202506-0004,Tenant_A,warehouse,2025-06-25,WH-04,RET-013,Northstar Oat Drink Original,107,268.87,$,CS
+ship-Tenant_A-202506-0005,Tenant_A,warehouse,2025-06-08,WH-04,RET-018,Crisp Ridge Cocoa Grain Bites,149,299.31,USD,CS
+ship-Tenant_A-202506-0006,Tenant_A,warehouse,2025-06-25,WH-05,RET-002,NS-OAT-6X250,35,150.95,USD,CS
+ship-Tenant_A-202506-0007,Tenant_A,warehouse,2025-06-25,WH-05,RET-011,Daily Moisture Conditioner,69,322.42,USD,CASE
+ship-Tenant_A-202506-0008,Tenant_A,warehouse,2025-06-29,WH-01,RET-012, green basket plant laundry liquid ,136,831.34,$,CS
+ship-Tenant_A-202506-0009,Tenant_A,warehouse,2025-06-28,WH-05,RET-014,Daily Moisture Shampoo,24,112.15,USD,CS
+ship-Tenant_A-202506-0010,Tenant_A,warehouse,2025-06-24,WH-01,RET-007,Northstar Oat Drink Barista Multipack 6x250ml,20,86.26,USD,each
+ship-Tenant_A-202506-0011,Tenant_A,warehouse,2025-06-08,WH-05,RET-011,Barista Oat Drink 6 Pack,71,306.21,$,CASE
+ship-Tenant_A-202506-0012,Tenant_A,warehouse,2025-06-16,WH-01,RET-019, soft peak daily moisture conditioner 400ml ,115,537.37,US$,each
+ship-Tenant_A-202506-0013,Tenant_A,warehouse,2025-06-27,WH-03,RET-025,Chocolate Grain Bites,96,192.84,USD,CS
+ship-Tenant_A-202506-0014,Tenant_A,warehouse,2025-06-29,WH-01,RET-022,Chocolate Grain Snack Bites,18,36.16,$,EA
+ship-Tenant_A-202506-0015,Tenant_A,warehouse,2025-06-02,WH-01,RET-001,CR-CHOC-150,134,269.18,$,CS
+ship-Tenant_A-202506-0016,Tenant_A,warehouse,2025-06-05,WH-03,RET-009, daily moisture shampoo ,74,345.79,USD,CS
+ship-Tenant_A-202506-0017,Tenant_A,warehouse,2025-06-02,WH-04,RET-002,Barista Oat Drink 6 Pack,151,651.23,USD,EA
+ship-Tenant_A-202506-0018,Tenant_A,warehouse,2025-06-29,WH-01,RET-022,Northstar Barista Oat Multipack,21,90.57,$,CASE
+ship-Tenant_A-202506-0019,Tenant_A,warehouse,2025-06-10,WH-05,RET-011,Chocolate Grain Snack Bites,109,218.96,USD,CS
+ship-Tenant_A-202506-0020,Tenant_A,warehouse,2025-06-20,WH-03,RET-015,Northstar Oat Drink Barista Multipack 6x250ml,17,73.32,$,CS
+ship-Tenant_A-202506-0021,Tenant_A,warehouse,2025-06-08,WH-04,RET-023,SP-SHAM-400,49,228.97,$,each
+ship-Tenant_A-202506-0022,Tenant_A,warehouse,2025-06-03,WH-05,RET-014,Soft Peak Daily Moisture Conditioner,152,710.27,USD,EA
+ship-Tenant_A-202506-0023,Tenant_A,warehouse,2025-06-29,WH-04,RET-006,Green Basket Lundry Liquid,53,323.98,$,each
+ship-Tenant_A-202506-0024,Tenant_A,warehouse,2025-06-12,WH-04,RET-004,Green Basket Laundry Liquid,60,366.77,US$,each
+ship-Tenant_A-202507-0001,Tenant_A,warehouse,not-a-date,WH-04,RET-011,Green Basket Citrus Dish Soap 500ml,61,166.46,USD,each
+ship-Tenant_A-202507-0002,Tenant_A,warehouse,2025-07-04,WH-05,RET-001,,56,261.68,$,CS
+ship-Tenant_A-202507-0003,Tenant_A,warehouse,2025-07-22,WH-04,RET-020,Daily Moisture Conditioner,unknown,130.84,USD,CS
+ship-Tenant_A-202507-0004,Tenant_A,warehouse,2025-07-12,WH-04,RET-025,NS-OAT-6X250,154,664.17,USD,CASE
+ship-Tenant_A-202507-0005,Tenant_A,warehouse,2025-07-22,WH-01,RET-016,Crisp Ridge Sea Salt Crisps 200g,98,225.09,$,EA
+ship-Tenant_A-202507-0006,Tenant_A,warehouse,2025-07-12,WH-03,RET-003,Green Basket Citrus Dish Soap 500ml,125,341.10,US$,CASE
+ship-Tenant_A-202507-0007,Tenant_A,warehouse,2025-07-06,WH-04,RET-021,Chocolate Grain Snack Bites,69,138.61,US$,each
+ship-Tenant_A-202507-0008,Tenant_A,warehouse,2025-07-09,WH-02,RET-012, soft peak daily moisture shampoo 400ml ,147,686.90,$,CASE
+ship-Tenant_A-202507-0009,Tenant_A,warehouse,2025-07-12,WH-05,RET-019,Soft Peak Daily Moisture Hair Shampoo,86,401.86,US$,EA
+ship-Tenant_A-202507-0010,Tenant_A,warehouse,2025-07-20,WH-04,RET-021, citrus dishwashing liquid ,57,155.54,USD,each
+ship-Tenant_A-202507-0011,Tenant_A,warehouse,2025-07-07,WH-04,RET-022,Northstar Oat Drink Original,136,341.74,US$,CS
+ship-Tenant_A-202507-0012,Tenant_A,warehouse,2025-07-06,WH-01,RET-019,GB-LAUN-1.5,140,855.79,US$,EA
+ship-Tenant_A-202507-0013,Tenant_A,warehouse,2025-07-24,WH-03,RET-012,Soft Peak Daily Moisture Hair Conditioner,125,584.10,$,EA
+ship-Tenant_A-202507-0014,Tenant_A,warehouse,2025-07-20,WH-03,RET-018,Citrus Dishwashing Liquid,155,422.96,USD,CASE
+ship-Tenant_A-202507-0015,Tenant_A,warehouse,2025-07-04,WH-02,RET-008,Green Basket Plant Based Laundry Detergent,42,256.74,USD,each
+ship-Tenant_A-202507-0016,Tenant_A,warehouse,2025-07-21,WH-03,RET-015,Green Basket Laundry Liquid,81,495.14,USD,CS
+ship-Tenant_A-202507-0017,Tenant_A,warehouse,2025-07-31,WH-03,RET-011,GB-DISH-500,92,251.05,US$,each
+ship-Tenant_A-202507-0018,Tenant_A,warehouse,2025-07-15,WH-03,RET-006, sp-cond-400 ,43,200.93,US$,CASE
+ship-Tenant_A-202507-0019,Tenant_A,warehouse,2025-07-08,WH-01,RET-007,Soft Peak Moisture Shampoo,34,158.88,US$,CS
+ship-Tenant_A-202507-0020,Tenant_A,warehouse,2025-07-05,WH-01,RET-004,GB-DISH-500,32,87.32,US$,CASE
+ship-Tenant_A-202507-0021,Tenant_A,warehouse,2025-07-24,WH-02,RET-003,Northstar Original Oat Beverage,123,309.07,USD,EA
+ship-Tenant_A-202507-0022,Tenant_A,warehouse,2025-07-08,WH-01,RET-022,Citrus Dish Soap,82,223.76,$,CASE
+ship-Tenant_A-202507-0023,Tenant_A,warehouse,2025-07-16,WH-03,RET-011,Northstar Origial Oat Beverage,13,32.67,$,each
+ship-Tenant_A-202507-0024,Tenant_A,warehouse,2025-07-07,WH-05,RET-025,Northstar Barista Oat Multipack,83,357.96,USD,CS
+ship-Tenant_A-202508-0001,Tenant_A,warehouse,not-a-date,WH-01,RET-010, northstar oat drink barista multipack ,160,690.05,USD,CS
+ship-Tenant_A-202508-0002,Tenant_A,warehouse,2025-08-24,WH-02,RET-023,,13,60.75,$,EA
+ship-Tenant_A-202508-0003,Tenant_A,warehouse,2025-08-29,WH-05,RET-003,Chocolate Grain Snack Bites,unknown,158.70,USD,CASE
+ship-Tenant_A-202508-0004,Tenant_A,warehouse,2025-08-25,WH-01,RET-002, soft peak daily moisture hair conditioner ,140,654.19,USD,EA
+ship-Tenant_A-202508-0005,Tenant_A,warehouse,2025-08-24,WH-01,RET-017,Daily Moisture Shampoo,105,490.64,US$,EA
+ship-Tenant_A-202508-0006,Tenant_A,warehouse,2025-08-03,WH-03,RET-019,Soft Peak Daily Moisture Conditioner,61,285.04,$,CASE
+ship-Tenant_A-202508-0007,Tenant_A,warehouse,2025-08-08,WH-04,RET-024, sea salt crisps ,10,22.97,$,CASE
+ship-Tenant_A-202508-0008,Tenant_A,warehouse,2025-08-08,WH-05,RET-004,Chocolate Grain Snack Bites,31,62.27,$,each
+ship-Tenant_A-202508-0009,Tenant_A,warehouse,2025-08-30,WH-03,RET-008,Chocolate Grain Bites,125,251.10,US$,EA
+ship-Tenant_A-202508-0010,Tenant_A,warehouse,2025-08-18,WH-03,RET-004,Crisp Ridge Chocolate Grain Bites 150g,128,257.13,US$,EA
+ship-Tenant_A-202508-0011,Tenant_A,warehouse,2025-08-13,WH-01,RET-013,CR-CHOC-150,54,108.48,$,CS
+ship-Tenant_A-202508-0012,Tenant_A,warehouse,2025-08-08,WH-05,RET-019, ns-oat-6x250 ,31,133.70,USD,CASE
+ship-Tenant_A-202508-0013,Tenant_A,warehouse,2025-08-02,WH-04,RET-001, northstar oat drink barista multipack ,111,478.72,USD,CS
+ship-Tenant_A-202508-0014,Tenant_A,warehouse,2025-08-08,WH-04,RET-002, daily moisture conditioner ,150,700.92,$,EA
+ship-Tenant_A-202508-0015,Tenant_A,warehouse,2025-08-18,WH-04,RET-009,Northstar Oat Drink Original 1L,92,231.18,US$,each
+ship-Tenant_A-202508-0016,Tenant_A,warehouse,2025-08-04,WH-01,RET-025,Green Basket Citrus Dishwashing Soap,146,398.40,USD,each
+ship-Tenant_A-202508-0017,Tenant_A,warehouse,2025-08-01,WH-02,RET-019,Citrus Dishwashing Liquid,154,420.24,$,each
+ship-Tenant_A-202508-0018,Tenant_A,warehouse,2025-08-17,WH-02,RET-011,NS-OAT-6X250,61,263.08,US$,each
+ship-Tenant_A-202508-0019,Tenant_A,warehouse,2025-08-13,WH-02,RET-006,GB-DISH-500,92,251.05,$,CS
+ship-Tenant_A-202508-0020,Tenant_A,warehouse,2025-08-05,WH-04,RET-025,Crisp Ridge Chocolate Grain Bites 150g,156,313.37,USD,EA
+ship-Tenant_A-202508-0021,Tenant_A,warehouse,2025-08-11,WH-04,RET-001,Crisp Ridge Chocolate Grain Bites,95,190.84,USD,CASE
+ship-Tenant_A-202508-0022,Tenant_A,warehouse,2025-08-06,WH-04,RET-004,NS-OAT-1L,149,374.41,US$,CS
+ship-Tenant_A-202508-0023,Tenant_A,warehouse,2025-08-31,WH-02,RET-024,Northstar Barisa Oat Multipack,106,457.16,USD,EA
+ship-Tenant_A-202508-0024,Tenant_A,warehouse,2025-08-07,WH-03,RET-022, chocolate grain snack bites ,148,297.30,USD,CASE
+ship-Tenant_A-202509-0001,Tenant_A,warehouse,not-a-date,WH-01,RET-001, northstar oat drink original ,61,153.28,$,each
+ship-Tenant_A-202509-0002,Tenant_A,warehouse,2025-09-03,WH-04,RET-012,,104,485.97,$,each
+ship-Tenant_A-202509-0003,Tenant_A,warehouse,2025-09-03,WH-02,RET-018,Oat Drink Original,unknown,402.05,$,EA
+ship-Tenant_A-202509-0004,Tenant_A,warehouse,2025-09-28,WH-05,RET-022,Crisp Ridge Sea Salt Crisps 200g,142,326.15,$,each
+ship-Tenant_A-202509-0005,Tenant_A,warehouse,2025-09-14,WH-03,RET-024,CR-CHOC-150,76,152.67,USD,EA
+ship-Tenant_A-202509-0006,Tenant_A,warehouse,2025-09-17,WH-05,RET-019,SP-COND-400,47,219.62,US$,EA
+ship-Tenant_A-202509-0007,Tenant_A,warehouse,2025-09-16,WH-05,RET-020,Green Basket Plant Laundry Liquid 1.5L,46,281.19,USD,CS
+ship-Tenant_A-202509-0008,Tenant_A,warehouse,2025-09-10,WH-03,RET-024,GB-DISH-500,44,120.07,US$,CS
+ship-Tenant_A-202509-0009,Tenant_A,warehouse,2025-09-16,WH-01,RET-010,Daily Moisture Conditioner,50,233.64,$,CS
+ship-Tenant_A-202509-0010,Tenant_A,warehouse,2025-09-30,WH-04,RET-017,CR-SALT-200,104,238.87,US$,CS
+ship-Tenant_A-202509-0011,Tenant_A,warehouse,2025-09-18,WH-03,RET-001,Daily Moisture Conditioner,33,154.20,US$,CS
+ship-Tenant_A-202509-0012,Tenant_A,warehouse,2025-09-17,WH-02,RET-020,Sea Salt Ridge Crisps,43,98.76,USD,EA
+ship-Tenant_A-202509-0013,Tenant_A,warehouse,2025-09-10,WH-01,RET-001,Soft Peak Daily Moisture Shampoo,159,742.98,$,CASE
+ship-Tenant_A-202509-0014,Tenant_A,warehouse,2025-09-28,WH-05,RET-025,Northstar Oat Drink Barista Multipack,48,207.01,US$,each
+ship-Tenant_A-202509-0015,Tenant_A,warehouse,2025-09-10,WH-05,RET-023, chocolate grain snack bites ,19,38.17,US$,each
+ship-Tenant_A-202509-0016,Tenant_A,warehouse,2025-09-22,WH-02,RET-024,Green Basket Citrus Dishwashing Soap,130,354.74,$,CASE
+ship-Tenant_A-202509-0017,Tenant_A,warehouse,2025-09-10,WH-03,RET-015,Oat Drink Barista Multipack,159,685.74,US$,EA
+ship-Tenant_A-202509-0018,Tenant_A,warehouse,2025-09-02,WH-05,RET-015,Barista Oat Drink 6 Pack,114,491.66,USD,each
+ship-Tenant_A-202509-0019,Tenant_A,warehouse,2025-09-09,WH-01,RET-005,Crisp Ridge Chocolate Grain Bites,135,271.19,USD,CS
+ship-Tenant_A-202509-0020,Tenant_A,warehouse,2025-09-01,WH-02,RET-008, northstar original oat beverage ,11,27.64,US$,CASE
+ship-Tenant_A-202509-0021,Tenant_A,warehouse,2025-09-17,WH-03,RET-016,Northstar Oat Drink Original,44,110.56,$,CASE
+ship-Tenant_A-202509-0022,Tenant_A,warehouse,2025-09-01,WH-01,RET-013,Sea Salt Ridge Crisps,103,236.57,$,CASE
+ship-Tenant_A-202509-0023,Tenant_A,warehouse,2025-09-13,WH-02,RET-023,Northstar Origial Oat Beverage,49,123.13,USD,EA
+ship-Tenant_A-202509-0024,Tenant_A,warehouse,2025-09-24,WH-04,RET-007,Chocolate Grain Snack Bites,37,74.33,$,each
+ship-Tenant_A-202510-0001,Tenant_A,warehouse,not-a-date,WH-01,RET-004,CR-CHOC-150,13,26.11,US$,CS
+ship-Tenant_A-202510-0002,Tenant_A,warehouse,2025-10-15,WH-03,RET-022,,84,192.93,USD,CASE
+ship-Tenant_A-202510-0003,Tenant_A,warehouse,2025-10-20,WH-02,RET-004,Crisp Ridge Chocolate Grain Bites,unknown,194.85,US$,CS
+ship-Tenant_A-202510-0004,Tenant_A,warehouse,2025-10-31,WH-05,RET-022, cr-choc-150 ,133,267.17,USD,CS
+ship-Tenant_A-202510-0005,Tenant_A,warehouse,2025-10-03,WH-05,RET-024,SP-COND-400,144,672.88,US$,each
+ship-Tenant_A-202510-0006,Tenant_A,warehouse,2025-10-13,WH-02,RET-017,Crisp Ridge Sea Salt Crisps 200g,12,27.56,USD,CS
+ship-Tenant_A-202510-0007,Tenant_A,warehouse,2025-10-21,WH-04,RET-019, green basket citrus dish soap ,127,346.56,US$,CS
+ship-Tenant_A-202510-0008,Tenant_A,warehouse,2025-10-18,WH-05,RET-018,NS OAT 1L,87,218.61,USD,each
+ship-Tenant_A-202510-0009,Tenant_A,warehouse,2025-10-16,WH-01,RET-004,Soft Peak Daily Moisture Conditioner,125,584.10,$,each
+ship-Tenant_A-202510-0010,Tenant_A,warehouse,2025-10-27,WH-05,RET-007,NS-OAT-6X250,75,323.46,$,each
+ship-Tenant_A-202510-0011,Tenant_A,warehouse,2025-10-19,WH-05,RET-005,SP-SHAM-400,160,747.65,USD,CS
+ship-Tenant_A-202510-0012,Tenant_A,warehouse,2025-10-05,WH-05,RET-013,Chocolate Grain Snack Bites,92,184.81,USD,CS
+ship-Tenant_A-202510-0013,Tenant_A,warehouse,2025-10-29,WH-03,RET-023, daily moisture conditioner ,150,700.92,$,each
+ship-Tenant_A-202510-0014,Tenant_A,warehouse,2025-10-23,WH-05,RET-022,Crisp Ridge Cocoa Grain Bites,159,319.40,USD,CS
+ship-Tenant_A-202510-0015,Tenant_A,warehouse,2025-10-02,WH-02,RET-002,NS OAT 6X250,74,319.15,USD,CASE
+ship-Tenant_A-202510-0016,Tenant_A,warehouse,2025-10-17,WH-04,RET-022,Sea Salt Ridge Crisps,109,250.35,$,CASE
+ship-Tenant_A-202510-0017,Tenant_A,warehouse,2025-10-25,WH-01,RET-006,Green Basket Citrus Dishwashing Soap,55,150.08,$,each
+ship-Tenant_A-202510-0018,Tenant_A,warehouse,2025-10-01,WH-03,RET-020, plant laundry liquid ,49,299.53,US$,EA
+ship-Tenant_A-202510-0019,Tenant_A,warehouse,2025-10-08,WH-04,RET-018,GB-DISH-500,50,136.44,USD,CS
+ship-Tenant_A-202510-0020,Tenant_A,warehouse,2025-10-16,WH-04,RET-008,Plant Laundry Liquid,98,599.05,$,each
+ship-Tenant_A-202510-0021,Tenant_A,warehouse,2025-10-12,WH-03,RET-021,GB-LAUN-1.5,21,128.37,$,each
+ship-Tenant_A-202510-0022,Tenant_A,warehouse,2025-10-28,WH-04,RET-021,Oat Drink Barista Multipack,147,633.98,$,EA
+ship-Tenant_A-202510-0023,Tenant_A,warehouse,2025-10-03,WH-04,RET-021, northstar barisa oat multipack ,109,470.10,$,CS
+ship-Tenant_A-202510-0024,Tenant_A,warehouse,2025-10-30,WH-05,RET-003,Northstar Barista Oat Multipack,87,375.21,$,CASE
+ship-Tenant_A-202511-0001,Tenant_A,warehouse,not-a-date,WH-01,RET-018,Sea Salt Crisps,105,241.16,$,each
+ship-Tenant_A-202511-0002,Tenant_A,warehouse,2025-11-07,WH-02,RET-008,,51,117.14,US$,CASE
+ship-Tenant_A-202511-0003,Tenant_A,warehouse,2025-11-03,WH-04,RET-011,Soft Peak Moisture Conditioner,unknown,738.30,US$,CASE
+ship-Tenant_A-202511-0004,Tenant_A,warehouse,2025-11-10,WH-03,RET-011,Green Basket Citrus Dish Soap 500ml,155,422.96,$,CS
+ship-Tenant_A-202511-0005,Tenant_A,warehouse,2025-11-16,WH-05,RET-004,Citrus Dish Soap,134,365.66,US$,each
+ship-Tenant_A-202511-0006,Tenant_A,warehouse,2025-11-17,WH-05,RET-007, barista oat drink 6 pack ,113,487.35,$,EA
+ship-Tenant_A-202511-0007,Tenant_A,warehouse,2025-11-19,WH-05,RET-003,Crisp Ridge Chocolate Grain Bites,138,277.21,$,CS
+ship-Tenant_A-202511-0008,Tenant_A,warehouse,2025-11-28,WH-02,RET-025,Chocolate Grain Bites,20,40.18,USD,CS
+ship-Tenant_A-202511-0009,Tenant_A,warehouse,2025-11-02,WH-03,RET-024,Green Basket Citrus Dish Soap 500ml,143,390.22,USD,CASE
+ship-Tenant_A-202511-0010,Tenant_A,warehouse,2025-11-08,WH-04,RET-020,Northstar Barista Oat Multipack,134,577.92,$,EA
+ship-Tenant_A-202511-0011,Tenant_A,warehouse,2025-11-20,WH-01,RET-016, plant laundry liquid ,94,574.60,$,CS
+ship-Tenant_A-202511-0012,Tenant_A,warehouse,2025-11-21,WH-02,RET-009,Oat Drink Original,24,60.31,$,each
+ship-Tenant_A-202511-0013,Tenant_A,warehouse,2025-11-16,WH-05,RET-025,Crisp Ridge Sea Salt Crisps 200g,46,105.65,USD,each
+ship-Tenant_A-202511-0014,Tenant_A,warehouse,2025-11-01,WH-02,RET-020,Oat Drink Barista Multipack,117,504.60,USD,EA
+ship-Tenant_A-202511-0015,Tenant_A,warehouse,2025-11-27,WH-03,RET-002, soft peak moisture conditioner ,117,546.72,USD,CS
+ship-Tenant_A-202511-0016,Tenant_A,warehouse,2025-11-08,WH-03,RET-007, northstar oat drink barista multipack 6x250ml ,114,491.66,USD,EA
+ship-Tenant_A-202511-0017,Tenant_A,warehouse,2025-11-11,WH-05,RET-009,Northstar Oat Drink Original 1L,119,299.02,US$,CASE
+ship-Tenant_A-202511-0018,Tenant_A,warehouse,2025-11-12,WH-05,RET-012,Soft Peak Daily Moisture Hair Shampoo,88,411.21,$,CS
+ship-Tenant_A-202511-0019,Tenant_A,warehouse,2025-11-11,WH-01,RET-003,CR-CHOC-150,109,218.96,$,each
+ship-Tenant_A-202511-0020,Tenant_A,warehouse,2025-11-13,WH-02,RET-021, northstar barista oat multipack ,24,103.51,$,CS
+ship-Tenant_A-202511-0021,Tenant_A,warehouse,2025-11-20,WH-01,RET-006,Northstar Original Oat Beverage,71,178.41,USD,EA
+ship-Tenant_A-202511-0022,Tenant_A,warehouse,2025-11-30,WH-05,RET-012, crisp ridge sea salt potato crisps ,153,351.41,USD,CASE
+ship-Tenant_A-202511-0023,Tenant_A,warehouse,2025-11-18,WH-05,RET-009, oat origina northstar ,39,98.00,USD,CASE
+ship-Tenant_A-202511-0024,Tenant_A,warehouse,2025-11-13,WH-03,RET-017,Soft Peak Daily Moisture Hair Conditioner,115,537.37,$,EA
+ship-Tenant_A-202512-0001,Tenant_A,warehouse,not-a-date,WH-02,RET-016,GB-DISH-500,56,152.81,US$,each
+ship-Tenant_A-202512-0002,Tenant_A,warehouse,2025-12-04,WH-05,RET-002,,11,25.26,USD,CS
+ship-Tenant_A-202512-0003,Tenant_A,warehouse,2025-12-19,WH-05,RET-002,Crisp Ridge Cocoa Grain Bites,unknown,265.16,USD,CASE
+ship-Tenant_A-202512-0004,Tenant_A,warehouse,2025-12-07,WH-05,RET-009,Soft Peak Daily Moisture Conditioner,102,476.63,US$,each
+ship-Tenant_A-202512-0005,Tenant_A,warehouse,2025-12-12,WH-05,RET-005,Soft Peak Daily Moisture Conditioner 400ml,56,261.68,US$,each
+ship-Tenant_A-202512-0006,Tenant_A,warehouse,2025-12-16,WH-05,RET-018,Sea Salt Crisps,44,101.06,USD,CASE
+ship-Tenant_A-202512-0007,Tenant_A,warehouse,2025-12-09,WH-03,RET-012, barista oat drink 6 pack ,95,409.72,US$,CASE
+ship-Tenant_A-202512-0008,Tenant_A,warehouse,2025-12-19,WH-03,RET-011,Citrus Dishwashing Liquid,82,223.76,$,CS
+ship-Tenant_A-202512-0009,Tenant_A,warehouse,2025-12-14,WH-01,RET-006,Chocolate Grain Bites,28,56.25,$,CASE
+ship-Tenant_A-202512-0010,Tenant_A,warehouse,2025-12-15,WH-02,RET-022,Soft Peak Daily Moisture Conditioner,42,196.26,US$,CASE
+ship-Tenant_A-202512-0011,Tenant_A,warehouse,2025-12-02,WH-03,RET-020,NS-OAT-6X250,36,155.26,USD,each
+ship-Tenant_A-202512-0012,Tenant_A,warehouse,2025-12-02,WH-05,RET-009,Chocolate Grain Bites,129,259.14,$,CS
+ship-Tenant_A-202512-0013,Tenant_A,warehouse,2025-12-03,WH-02,RET-010,Green Basket Plant Laundry Liquid,76,464.57,US$,EA
+ship-Tenant_A-202512-0014,Tenant_A,warehouse,2025-12-16,WH-01,RET-018,Oat Original Northstar,69,173.38,US$,CASE
+ship-Tenant_A-202512-0015,Tenant_A,warehouse,2025-12-21,WH-03,RET-021,Soft Peak Daily Moisture Shampoo 400ml,79,369.15,USD,CASE
+ship-Tenant_A-202512-0016,Tenant_A,warehouse,2025-12-16,WH-05,RET-001,Soft Peak Daily Moisture Hair Conditioner,22,102.80,USD,each
+ship-Tenant_A-202512-0017,Tenant_A,warehouse,2025-12-14,WH-03,RET-003, oat drink barista multipack ,18,77.63,US$,each
+ship-Tenant_A-202512-0018,Tenant_A,warehouse,2025-12-04,WH-01,RET-007,Crisp Ridge Sea Salt Crisps,73,167.67,$,CS
+ship-Tenant_A-202512-0019,Tenant_A,warehouse,2025-12-24,WH-03,RET-007, green basket plant laundry liquid ,133,813.00,$,CASE
+ship-Tenant_A-202512-0020,Tenant_A,warehouse,2025-12-19,WH-05,RET-023, soft peak daily moisture shampoo ,20,93.46,USD,CS
+ship-Tenant_A-202512-0021,Tenant_A,warehouse,2025-12-25,WH-05,RET-004,SP-COND-400,49,228.97,$,each
+ship-Tenant_A-202512-0022,Tenant_A,warehouse,2025-12-05,WH-05,RET-010,CR-SALT-200,122,280.21,US$,CS
+ship-Tenant_A-202512-0023,Tenant_A,warehouse,2025-12-27,WH-05,RET-013,Crisp Ridge Cooa Grain Bites,10,20.09,US$,each
+ship-Tenant_A-202512-0024,Tenant_A,warehouse,2025-12-25,WH-04,RET-021, barista oat drink 6 pack ,92,396.78,$,CASE
+ship-Tenant_B-202501-0001,Tenant_B,warehouse,not-a-date,WH-05,RET-020, oat drink original ,135,339.23,$,CASE
+ship-Tenant_B-202501-0002,Tenant_B,warehouse,2025-01-12,WH-05,RET-009,,24,112.15,$,EA
+ship-Tenant_B-202501-0003,Tenant_B,warehouse,2025-01-22,WH-04,RET-024,Crisp Ridge Sea Salt Potato Crisps,unknown,349.11,CAD,EA
+ship-Tenant_B-202501-0004,Tenant_B,warehouse,2025-01-22,WH-03,RET-018,Chocolate Grain Bites,100,200.88,CAD,CASE
+ship-Tenant_B-202501-0005,Tenant_B,warehouse,2025-01-18,WH-04,RET-001,Crisp Ridge Sea Salt Potato Crisps,124,284.80,$,EA
+ship-Tenant_B-202501-0006,Tenant_B,warehouse,2025-01-27,WH-05,RET-019,Sea Salt Crisps,152,349.11,$,each
+ship-Tenant_B-202501-0007,Tenant_B,warehouse,2025-01-19,WH-03,RET-016,Sea Salt Crisps,29,66.61,C$,each
+ship-Tenant_B-202501-0008,Tenant_B,warehouse,2025-01-11,WH-05,RET-001,SP-SHAM-400,68,317.75,C$,CS
+ship-Tenant_B-202501-0009,Tenant_B,warehouse,2025-01-13,WH-02,RET-014, sea salt crisps ,33,75.79,C$,CASE
+ship-Tenant_B-202501-0010,Tenant_B,warehouse,2025-01-17,WH-05,RET-007,Northstar Original Oat Beverage,133,334.20,C$,CS
+ship-Tenant_B-202501-0011,Tenant_B,warehouse,2025-01-30,WH-04,RET-012,Northstar Oat Drink Barista Multipack,115,495.97,$,CASE
+ship-Tenant_B-202501-0012,Tenant_B,warehouse,2025-01-20,WH-03,RET-005,Green Basket Citrus Dishwashing Soap,61,166.46,CAD,EA
+ship-Tenant_B-202501-0013,Tenant_B,warehouse,2025-01-16,WH-02,RET-007,Citrus Dishwashing Liquid,147,401.13,CAD,CASE
+ship-Tenant_B-202501-0014,Tenant_B,warehouse,2025-01-26,WH-01,RET-003, northstar oat drink original ,129,324.15,$,CS
+ship-Tenant_B-202501-0015,Tenant_B,warehouse,2025-01-17,WH-01,RET-006,Green Basket Laundry Liquid,146,892.47,$,each
+ship-Tenant_B-202501-0016,Tenant_B,warehouse,2025-01-01,WH-02,RET-017,Green Basket Plant Laundry Liquid,87,531.81,C$,CASE
+ship-Tenant_B-202501-0017,Tenant_B,warehouse,2025-01-22,WH-04,RET-008, plant laundry liquid ,68,415.67,CAD,each
+ship-Tenant_B-202501-0018,Tenant_B,warehouse,2025-01-28,WH-02,RET-021,Crisp Ridge Cocoa Grain Bites,120,241.06,CAD,each
+ship-Tenant_B-202501-0019,Tenant_B,warehouse,2025-01-14,WH-02,RET-025, chocolate grain snack bites ,80,160.70,C$,each
+ship-Tenant_B-202501-0020,Tenant_B,warehouse,2025-01-23,WH-03,RET-006,Sea Salt Crisps,130,298.58,C$,CS
+ship-Tenant_B-202501-0021,Tenant_B,warehouse,2025-01-22,WH-05,RET-016,Northstar Oat Drink Original,122,306.56,CAD,CASE
+ship-Tenant_B-202501-0022,Tenant_B,warehouse,2025-01-20,WH-04,RET-015,Green Basket Citrus Dish Soap 500ml,37,100.97,$,EA
+ship-Tenant_B-202501-0023,Tenant_B,warehouse,2025-01-10,WH-05,RET-002,Northstar Origial Oat Beverage,85,213.59,C$,each
+ship-Tenant_B-202501-0024,Tenant_B,warehouse,2025-01-06,WH-03,RET-011,Chocolate Grain Snack Bites,33,66.29,C$,each
+ship-Tenant_B-202502-0001,Tenant_B,warehouse,not-a-date,WH-03,RET-019,Soft Peak Moisture Shampoo,53,247.66,C$,each
+ship-Tenant_B-202502-0002,Tenant_B,warehouse,2025-02-21,WH-05,RET-025,,10,61.13,CAD,CASE
+ship-Tenant_B-202502-0003,Tenant_B,warehouse,2025-02-15,WH-02,RET-018,Daily Moisture Conditioner,unknown,51.40,C$,CASE
+ship-Tenant_B-202502-0004,Tenant_B,warehouse,2025-02-28,WH-03,RET-003,CR CHOC 150,86,172.76,CAD,EA
+ship-Tenant_B-202502-0005,Tenant_B,warehouse,2025-02-12,WH-03,RET-016, gb-dish-500 ,26,70.95,C$,each
+ship-Tenant_B-202502-0006,Tenant_B,warehouse,2025-02-21,WH-04,RET-020, crisp ridge sea salt potato crisps ,83,190.63,$,CASE
+ship-Tenant_B-202502-0007,Tenant_B,warehouse,2025-02-26,WH-02,RET-001,Soft Peak Daily Moisture Hair Conditioner,84,392.52,CAD,EA
+ship-Tenant_B-202502-0008,Tenant_B,warehouse,2025-02-07,WH-03,RET-003,Northstar Oat Drink Original,82,206.05,CAD,CASE
+ship-Tenant_B-202502-0009,Tenant_B,warehouse,2025-02-01,WH-04,RET-002,Green Basket Citrus Dish Soap,132,360.20,CAD,each
+ship-Tenant_B-202502-0010,Tenant_B,warehouse,2025-02-19,WH-01,RET-007, soft peak moisture shampoo ,147,686.90,$,CASE
+ship-Tenant_B-202502-0011,Tenant_B,warehouse,2025-02-19,WH-03,RET-023,Green Basket Citrus Dish Soap 500ml,39,106.42,$,CASE
+ship-Tenant_B-202502-0012,Tenant_B,warehouse,2025-02-04,WH-05,RET-001,Soft Peak Daily Moisture Conditioner,123,574.75,C$,CS
+ship-Tenant_B-202502-0013,Tenant_B,warehouse,2025-02-22,WH-05,RET-004,CR-CHOC-150,109,218.96,CAD,EA
+ship-Tenant_B-202502-0014,Tenant_B,warehouse,2025-02-10,WH-03,RET-007,NS-OAT-1L,63,158.31,CAD,each
+ship-Tenant_B-202502-0015,Tenant_B,warehouse,2025-02-20,WH-03,RET-018,Chocolate Grain Bites,148,297.30,$,CASE
+ship-Tenant_B-202502-0016,Tenant_B,warehouse,2025-02-15,WH-01,RET-013,Northstar Oat Drink Barista Multipack,22,94.88,CAD,EA
+ship-Tenant_B-202502-0017,Tenant_B,warehouse,2025-02-18,WH-04,RET-004,Citrus Dish Soap,33,90.05,CAD,CS
+ship-Tenant_B-202502-0018,Tenant_B,warehouse,2025-02-12,WH-04,RET-001,Sea Salt Crisps,126,289.40,C$,EA
+ship-Tenant_B-202502-0019,Tenant_B,warehouse,2025-02-26,WH-03,RET-018, crisp ridge cocoa grain bites ,28,56.25,CAD,CS
+ship-Tenant_B-202502-0020,Tenant_B,warehouse,2025-02-19,WH-02,RET-006,SP-SHAM-400,149,696.25,C$,EA
+ship-Tenant_B-202502-0021,Tenant_B,warehouse,2025-02-03,WH-04,RET-021, northstar oat drink barista multipack 6x250ml ,93,401.09,$,EA
+ship-Tenant_B-202502-0022,Tenant_B,warehouse,2025-02-19,WH-03,RET-019,Crisp Ridge Chocolate Grain Bites 150g,91,182.80,C$,CASE
+ship-Tenant_B-202502-0023,Tenant_B,warehouse,2025-02-18,WH-03,RET-001,Soft Peak Daily Moiture Hair Shampoo,38,177.57,CAD,each
+ship-Tenant_B-202502-0024,Tenant_B,warehouse,2025-02-16,WH-04,RET-005,Soft Peak Moisture Shampoo,102,476.63,CAD,CASE
+ship-Tenant_B-202503-0001,Tenant_B,warehouse,not-a-date,WH-05,RET-006,Soft Peak Moisture Conditioner,118,551.39,CAD,CS
+ship-Tenant_B-202503-0002,Tenant_B,warehouse,2025-03-28,WH-05,RET-019,,115,231.01,$,CASE
+ship-Tenant_B-202503-0003,Tenant_B,warehouse,2025-03-17,WH-05,RET-003, soft peak moisture conditioner ,unknown,668.21,C$,each
+ship-Tenant_B-202503-0004,Tenant_B,warehouse,2025-03-15,WH-04,RET-012,Northstar Oat Drink Original,94,236.20,$,CASE
+ship-Tenant_B-202503-0005,Tenant_B,warehouse,2025-03-10,WH-01,RET-005, soft peak daily moisture hair conditioner ,134,626.16,$,EA
+ship-Tenant_B-202503-0006,Tenant_B,warehouse,2025-03-19,WH-03,RET-023, oat original northstar ,54,135.69,$,each
+ship-Tenant_B-202503-0007,Tenant_B,warehouse,2025-03-16,WH-02,RET-007,Crisp Ridge Cocoa Grain Bites,122,245.07,C$,CASE
+ship-Tenant_B-202503-0008,Tenant_B,warehouse,2025-03-31,WH-04,RET-009,Soft Peak Daily Moisture Conditioner 400ml,109,509.34,$,each
+ship-Tenant_B-202503-0009,Tenant_B,warehouse,2025-03-30,WH-03,RET-009,Green Basket Citrus Dishwashing Soap,79,215.58,$,CASE
+ship-Tenant_B-202503-0010,Tenant_B,warehouse,2025-03-17,WH-01,RET-022,Sea Salt Ridge Crisps,150,344.52,C$,EA
+ship-Tenant_B-202503-0011,Tenant_B,warehouse,2025-03-07,WH-05,RET-022,Soft Peak Daily Moisture Conditioner,24,112.15,CAD,each
+ship-Tenant_B-202503-0012,Tenant_B,warehouse,2025-03-19,WH-04,RET-022,Crisp Ridge Chocolate Grain Bites 150g,85,170.75,CAD,EA
+ship-Tenant_B-202503-0013,Tenant_B,warehouse,2025-03-11,WH-01,RET-016,Northstar Oat Drink Barista Multipack,122,526.16,CAD,each
+ship-Tenant_B-202503-0014,Tenant_B,warehouse,2025-03-15,WH-01,RET-019,Daily Moisture Shampoo,28,130.84,$,CASE
+ship-Tenant_B-202503-0015,Tenant_B,warehouse,2025-03-13,WH-04,RET-014, soft peak daily moisture shampoo ,135,630.83,$,CS
+ship-Tenant_B-202503-0016,Tenant_B,warehouse,2025-03-19,WH-04,RET-002,Soft Peak Moisture Shampoo,87,406.53,$,EA
+ship-Tenant_B-202503-0017,Tenant_B,warehouse,2025-03-22,WH-04,RET-003,Sea Salt Crisps,101,231.98,CAD,CS
+ship-Tenant_B-202503-0018,Tenant_B,warehouse,2025-03-16,WH-01,RET-011,SP-SHAM-400,96,448.59,$,EA
+ship-Tenant_B-202503-0019,Tenant_B,warehouse,2025-03-02,WH-04,RET-020,Chocolate Grain Snack Bites,14,28.12,$,EA
+ship-Tenant_B-202503-0020,Tenant_B,warehouse,2025-03-03,WH-01,RET-007,Northstar Oat Drink Barista Multipack 6x250ml,66,284.64,CAD,CS
+ship-Tenant_B-202503-0021,Tenant_B,warehouse,2025-03-25,WH-01,RET-009,Crisp Ridge Chocolate Grain Bites,26,52.23,CAD,each
+ship-Tenant_B-202503-0022,Tenant_B,warehouse,2025-03-28,WH-04,RET-003, crisp ridge sea salt potato crisps ,14,32.16,$,EA
+ship-Tenant_B-202503-0023,Tenant_B,warehouse,2025-03-17,WH-05,RET-006,Soft Peak Daily Moistre Hair Conditioner,19,88.78,C$,CS
+ship-Tenant_B-202503-0024,Tenant_B,warehouse,2025-03-04,WH-04,RET-025, northstar original oat beverage ,66,165.84,$,each
+ship-Tenant_B-202504-0001,Tenant_B,warehouse,not-a-date,WH-03,RET-020,Chocolate Grain Bites,74,148.65,C$,CS
+ship-Tenant_B-202504-0002,Tenant_B,warehouse,2025-04-08,WH-04,RET-007,,93,233.69,$,CASE
+ship-Tenant_B-202504-0003,Tenant_B,warehouse,2025-04-16,WH-02,RET-020,Daily Moisture Shampoo,unknown,219.62,$,CS
+ship-Tenant_B-202504-0004,Tenant_B,warehouse,2025-04-02,WH-04,RET-006, crisp ridge sea salt crisps ,127,291.69,C$,CASE
+ship-Tenant_B-202504-0005,Tenant_B,warehouse,2025-04-19,WH-02,RET-008,Soft Peak Daily Moisture Hair Shampoo,119,556.06,C$,CASE
+ship-Tenant_B-202504-0006,Tenant_B,warehouse,2025-04-17,WH-01,RET-015,NS-OAT-1L,132,331.69,CAD,CS
+ship-Tenant_B-202504-0007,Tenant_B,warehouse,2025-04-01,WH-05,RET-024,Green Basket Citrus Dish Soap,127,346.56,C$,EA
+ship-Tenant_B-202504-0008,Tenant_B,warehouse,2025-04-03,WH-03,RET-014,Soft Peak Moisture Conditioner,18,84.11,C$,CASE
+ship-Tenant_B-202504-0009,Tenant_B,warehouse,2025-04-30,WH-03,RET-015,Citrus Dishwashing Liquid,108,294.71,$,EA
+ship-Tenant_B-202504-0010,Tenant_B,warehouse,2025-04-24,WH-03,RET-012,Citrus Dish Soap,67,182.83,$,CASE
+ship-Tenant_B-202504-0011,Tenant_B,warehouse,2025-04-16,WH-05,RET-012,Soft Peak Daily Moisture Conditioner 400ml,125,584.10,$,EA
+ship-Tenant_B-202504-0012,Tenant_B,warehouse,2025-04-05,WH-03,RET-014, ns-oat-6x250 ,15,64.69,C$,each
+ship-Tenant_B-202504-0013,Tenant_B,warehouse,2025-04-17,WH-03,RET-016,NS-OAT-6X250,97,418.34,$,CS
+ship-Tenant_B-202504-0014,Tenant_B,warehouse,2025-04-28,WH-02,RET-020,Crisp Ridge Sea Salt Crisps 200g,126,289.40,CAD,each
+ship-Tenant_B-202504-0015,Tenant_B,warehouse,2025-04-05,WH-05,RET-023, cr-salt-200 ,62,142.40,C$,EA
+ship-Tenant_B-202504-0016,Tenant_B,warehouse,2025-04-16,WH-05,RET-017,GB-LAUN-1.5,11,67.24,CAD,CASE
+ship-Tenant_B-202504-0017,Tenant_B,warehouse,2025-04-29,WH-01,RET-013,Soft Peak Daily Moisture Conditioner,88,411.21,CAD,each
+ship-Tenant_B-202504-0018,Tenant_B,warehouse,2025-04-22,WH-04,RET-011, cr-salt-200 ,59,135.51,$,EA
+ship-Tenant_B-202504-0019,Tenant_B,warehouse,2025-04-15,WH-04,RET-015,GB-DISH-500,123,335.64,$,CASE
+ship-Tenant_B-202504-0020,Tenant_B,warehouse,2025-04-28,WH-01,RET-001,Oat Drink Barista Multipack,106,457.16,$,CS
+ship-Tenant_B-202504-0021,Tenant_B,warehouse,2025-04-27,WH-04,RET-008,Crisp Ridge Chocolate Grain Bites 150g,153,307.35,C$,EA
+ship-Tenant_B-202504-0022,Tenant_B,warehouse,2025-04-21,WH-01,RET-020, green basket plant laundry liquid 1.5l ,136,831.34,CAD,CASE
+ship-Tenant_B-202504-0023,Tenant_B,warehouse,2025-04-28,WH-03,RET-015,Barista Oa Drink 6 Pack,47,202.70,C$,each
+ship-Tenant_B-202504-0024,Tenant_B,warehouse,2025-04-17,WH-05,RET-011,Green Basket Laundry Liquid,52,317.87,CAD,CASE
+ship-Tenant_B-202505-0001,Tenant_B,warehouse,not-a-date,WH-02,RET-005, citrus dish soap ,36,98.24,C$,each
+ship-Tenant_B-202505-0002,Tenant_B,warehouse,2025-05-01,WH-02,RET-015,,102,476.63,C$,CASE
+ship-Tenant_B-202505-0003,Tenant_B,warehouse,2025-05-05,WH-04,RET-025,Chocolate Grain Snack Bites,unknown,28.12,CAD,CS
+ship-Tenant_B-202505-0004,Tenant_B,warehouse,2025-05-01,WH-02,RET-006, northstar oat drink barista multipack ,160,690.05,CAD,CASE
+ship-Tenant_B-202505-0005,Tenant_B,warehouse,2025-05-17,WH-05,RET-007,Crisp Ridge Cocoa Grain Bites,13,26.11,$,each
+ship-Tenant_B-202505-0006,Tenant_B,warehouse,2025-05-22,WH-02,RET-017,Soft Peak Daily Moisture Conditioner,118,551.39,CAD,each
+ship-Tenant_B-202505-0007,Tenant_B,warehouse,2025-05-18,WH-01,RET-013,Crisp Ridge Chocolate Grain Bites 150g,136,273.20,$,CASE
+ship-Tenant_B-202505-0008,Tenant_B,warehouse,2025-05-28,WH-04,RET-022,Soft Peak Daily Moisture Shampoo,13,60.75,CAD,EA
+ship-Tenant_B-202505-0009,Tenant_B,warehouse,2025-05-24,WH-02,RET-020,Soft Peak Daily Moisture Shampoo 400ml,96,448.59,CAD,CS
+ship-Tenant_B-202505-0010,Tenant_B,warehouse,2025-05-13,WH-01,RET-004,Soft Peak Daily Moisture Shampoo,126,588.77,C$,CASE
+ship-Tenant_B-202505-0011,Tenant_B,warehouse,2025-05-06,WH-05,RET-020,NS OAT 1L,87,218.61,C$,EA
+ship-Tenant_B-202505-0012,Tenant_B,warehouse,2025-05-18,WH-04,RET-004,Green Basket Laundry Liquid,18,110.03,C$,CS
+ship-Tenant_B-202505-0013,Tenant_B,warehouse,2025-05-10,WH-04,RET-022, green basket laundry liquid ,155,947.48,$,CS
+ship-Tenant_B-202505-0014,Tenant_B,warehouse,2025-05-10,WH-02,RET-012,Soft Peak Daily Moisture Hair Shampoo,21,98.13,C$,CASE
+ship-Tenant_B-202505-0015,Tenant_B,warehouse,2025-05-02,WH-05,RET-003,Soft Peak Daily Moisture Shampoo,89,415.88,$,EA
+ship-Tenant_B-202505-0016,Tenant_B,warehouse,2025-05-29,WH-05,RET-001,Soft Peak Moisture Conditioner,130,607.46,C$,CASE
+ship-Tenant_B-202505-0017,Tenant_B,warehouse,2025-05-22,WH-04,RET-007,Crisp Ridge Sea Salt Crisps,103,236.57,C$,CS
+ship-Tenant_B-202505-0018,Tenant_B,warehouse,2025-05-26,WH-01,RET-019,GB-LAUN-1.5,158,965.82,CAD,CASE
+ship-Tenant_B-202505-0019,Tenant_B,warehouse,2025-05-26,WH-04,RET-013,GB-DISH-500,61,166.46,C$,CASE
+ship-Tenant_B-202505-0020,Tenant_B,warehouse,2025-05-27,WH-05,RET-025,Crisp Ridge Cocoa Grain Bites,146,293.28,$,CS
+ship-Tenant_B-202505-0021,Tenant_B,warehouse,2025-05-10,WH-04,RET-009, chocolate grain bites ,62,124.55,C$,CASE
+ship-Tenant_B-202505-0022,Tenant_B,warehouse,2025-05-27,WH-04,RET-021, oat drink barista multipack ,121,521.85,C$,EA
+ship-Tenant_B-202505-0023,Tenant_B,warehouse,2025-05-01,WH-01,RET-014,Crisp Ridge Cooa Grain Bites,86,172.76,CAD,CASE
+ship-Tenant_B-202505-0024,Tenant_B,warehouse,2025-05-20,WH-02,RET-014,Barista Oat Drink 6 Pack,109,470.10,CAD,each
+ship-Tenant_B-202506-0001,Tenant_B,warehouse,not-a-date,WH-02,RET-009, green basket plant based laundry detergent ,131,800.78,CAD,each
+ship-Tenant_B-202506-0002,Tenant_B,warehouse,2025-06-23,WH-03,RET-021,,108,271.38,$,CASE
+ship-Tenant_B-202506-0003,Tenant_B,warehouse,2025-06-10,WH-04,RET-021,Northstar Oat Drink Original 1L,unknown,128.15,CAD,CASE
+ship-Tenant_B-202506-0004,Tenant_B,warehouse,2025-06-11,WH-05,RET-003,Soft Peak Daily Moisture Conditioner 400ml,76,355.13,$,CASE
+ship-Tenant_B-202506-0005,Tenant_B,warehouse,2025-06-15,WH-03,RET-011,NS-OAT-1L,61,153.28,$,EA
+ship-Tenant_B-202506-0006,Tenant_B,warehouse,2025-06-06,WH-01,RET-014,Soft Peak Daily Moisture Conditioner 400ml,60,280.37,$,CASE
+ship-Tenant_B-202506-0007,Tenant_B,warehouse,2025-06-30,WH-01,RET-013,Northstar Original Oat Beverage,53,133.18,CAD,CS
+ship-Tenant_B-202506-0008,Tenant_B,warehouse,2025-06-30,WH-02,RET-007,NS-OAT-6X250,67,288.96,C$,CASE
+ship-Tenant_B-202506-0009,Tenant_B,warehouse,2025-06-06,WH-02,RET-020,Crisp Ridge Sea Salt Crisps,77,176.85,C$,CS
+ship-Tenant_B-202506-0010,Tenant_B,warehouse,2025-06-13,WH-05,RET-009,Daily Moisture Conditioner,118,551.39,$,EA
+ship-Tenant_B-202506-0011,Tenant_B,warehouse,2025-06-10,WH-01,RET-019,NS-OAT-1L,153,384.46,C$,each
+ship-Tenant_B-202506-0012,Tenant_B,warehouse,2025-06-09,WH-03,RET-024,Northstar Oat Drink Barista Multipack,137,590.85,CAD,CASE
+ship-Tenant_B-202506-0013,Tenant_B,warehouse,2025-06-05,WH-02,RET-002,Crisp Ridge Chocolate Grain Bites,58,116.51,$,each
+ship-Tenant_B-202506-0014,Tenant_B,warehouse,2025-06-18,WH-01,RET-012,SP-COND-400,47,219.62,C$,EA
+ship-Tenant_B-202506-0015,Tenant_B,warehouse,2025-06-25,WH-04,RET-022,Crisp Ridge Sea Salt Potato Crisps,73,167.67,$,EA
+ship-Tenant_B-202506-0016,Tenant_B,warehouse,2025-06-27,WH-05,RET-022, northstar oat drink barista multipack ,78,336.40,$,EA
+ship-Tenant_B-202506-0017,Tenant_B,warehouse,2025-06-10,WH-01,RET-013,Chocolate Grain Bites,107,214.94,C$,CASE
+ship-Tenant_B-202506-0018,Tenant_B,warehouse,2025-06-25,WH-04,RET-024,Crisp Ridge Chocolate Grain Bites 150g,135,271.19,$,CASE
+ship-Tenant_B-202506-0019,Tenant_B,warehouse,2025-06-09,WH-03,RET-020,Crisp Ridge Sea Salt Crisps 200g,118,271.02,$,each
+ship-Tenant_B-202506-0020,Tenant_B,warehouse,2025-06-16,WH-04,RET-014,Sea Salt Ridge Crisps,84,192.93,$,EA
+ship-Tenant_B-202506-0021,Tenant_B,warehouse,2025-06-30,WH-04,RET-004,Soft Peak Daily Moisture Shampoo,118,551.39,CAD,CS
+ship-Tenant_B-202506-0022,Tenant_B,warehouse,2025-06-15,WH-04,RET-023, northstar barista oat multipack ,31,133.70,CAD,CASE
+ship-Tenant_B-202506-0023,Tenant_B,warehouse,2025-06-20,WH-01,RET-001, crisp ridge cooa grain bites ,146,293.28,C$,CS
+ship-Tenant_B-202506-0024,Tenant_B,warehouse,2025-06-12,WH-02,RET-005,Soft Peak Moisture Conditioner,32,149.53,$,EA
+ship-Tenant_B-202507-0001,Tenant_B,warehouse,not-a-date,WH-04,RET-005, soft peak moisture conditioner ,87,406.53,$,CS
+ship-Tenant_B-202507-0002,Tenant_B,warehouse,2025-07-07,WH-01,RET-004,,95,443.92,C$,CS
+ship-Tenant_B-202507-0003,Tenant_B,warehouse,2025-07-20,WH-05,RET-001,Soft Peak Daily Moisture Conditioner 400ml,unknown,116.82,$,CS
+ship-Tenant_B-202507-0004,Tenant_B,warehouse,2025-07-23,WH-04,RET-012,Soft Peak Daily Moisture Hair Conditioner,59,275.70,C$,CS
+ship-Tenant_B-202507-0005,Tenant_B,warehouse,2025-07-27,WH-05,RET-007,Green Basket Laundry Liquid,51,311.75,$,CASE
+ship-Tenant_B-202507-0006,Tenant_B,warehouse,2025-07-31,WH-01,RET-001,Crisp Ridge Cocoa Grain Bites,152,305.34,C$,CASE
+ship-Tenant_B-202507-0007,Tenant_B,warehouse,2025-07-18,WH-01,RET-025, green basket citrus dish soap 500ml ,100,272.88,CAD,CASE
+ship-Tenant_B-202507-0008,Tenant_B,warehouse,2025-07-20,WH-02,RET-021,SP-COND-400,36,168.22,CAD,EA
+ship-Tenant_B-202507-0009,Tenant_B,warehouse,2025-07-12,WH-04,RET-025,Soft Peak Moisture Conditioner,122,570.08,C$,EA
+ship-Tenant_B-202507-0010,Tenant_B,warehouse,2025-07-21,WH-02,RET-005,Green Basket Plant Laundry Liquid,117,715.20,$,CS
+ship-Tenant_B-202507-0011,Tenant_B,warehouse,2025-07-17,WH-02,RET-014,Daily Moisture Conditioner,112,523.35,CAD,EA
+ship-Tenant_B-202507-0012,Tenant_B,warehouse,2025-07-18,WH-03,RET-017,Green Basket Plant Laundry Liquid 1.5L,12,73.35,C$,each
+ship-Tenant_B-202507-0013,Tenant_B,warehouse,2025-07-10,WH-02,RET-017,Citrus Dishwashing Liquid,109,297.44,CAD,CASE
+ship-Tenant_B-202507-0014,Tenant_B,warehouse,2025-07-19,WH-05,RET-004, cr-choc-150 ,118,237.04,C$,EA
+ship-Tenant_B-202507-0015,Tenant_B,warehouse,2025-07-15,WH-05,RET-008,Northstar Oat Drink Barista Multipack 6x250ml,146,629.67,C$,CASE
+ship-Tenant_B-202507-0016,Tenant_B,warehouse,2025-07-17,WH-02,RET-023,Soft Peak Daily Moisture Hair Shampoo,35,163.55,$,CS
+ship-Tenant_B-202507-0017,Tenant_B,warehouse,2025-07-13,WH-05,RET-016, crisp ridge sea salt crisps 200g ,77,176.85,$,CS
+ship-Tenant_B-202507-0018,Tenant_B,warehouse,2025-07-23,WH-04,RET-016,Crisp Ridge Chocolate Grain Bites 150g,64,128.56,$,EA
+ship-Tenant_B-202507-0019,Tenant_B,warehouse,2025-07-05,WH-03,RET-016,Northstar Oat Drink Barista Multipack,87,375.21,CAD,EA
+ship-Tenant_B-202507-0020,Tenant_B,warehouse,2025-07-01,WH-04,RET-016, plant laundry liquid ,21,128.37,CAD,CASE
+ship-Tenant_B-202507-0021,Tenant_B,warehouse,2025-07-24,WH-04,RET-008,Soft Peak Daily Moisture Conditioner 400ml,114,532.70,C$,CS
+ship-Tenant_B-202507-0022,Tenant_B,warehouse,2025-07-26,WH-05,RET-003,Oat Drink Barista Multipack,41,176.82,$,each
+ship-Tenant_B-202507-0023,Tenant_B,warehouse,2025-07-31,WH-04,RET-003,Northstar Origial Oat Beverage,158,397.02,CAD,CASE
+ship-Tenant_B-202507-0024,Tenant_B,warehouse,2025-07-13,WH-02,RET-010, chocolate grain snack bites ,148,297.30,C$,each
+ship-Tenant_B-202508-0001,Tenant_B,warehouse,not-a-date,WH-03,RET-005,CR-CHOC-150,35,70.31,$,CS
+ship-Tenant_B-202508-0002,Tenant_B,warehouse,2025-08-25,WH-03,RET-015,,25,57.42,$,CS
+ship-Tenant_B-202508-0003,Tenant_B,warehouse,2025-08-05,WH-05,RET-007,Oat Drink Barista Multipack,unknown,133.70,C$,each
+ship-Tenant_B-202508-0004,Tenant_B,warehouse,2025-08-27,WH-04,RET-009, sp-cond-400 ,25,116.82,$,CASE
+ship-Tenant_B-202508-0005,Tenant_B,warehouse,2025-08-03,WH-03,RET-014,Chocolate Grain Snack Bites,152,305.34,C$,each
+ship-Tenant_B-202508-0006,Tenant_B,warehouse,2025-08-11,WH-02,RET-021,Soft Peak Daily Moisture Conditioner,14,65.42,CAD,EA
+ship-Tenant_B-202508-0007,Tenant_B,warehouse,2025-08-21,WH-01,RET-012,Soft Peak Daily Moisture Conditioner 400ml,123,574.75,$,CS
+ship-Tenant_B-202508-0008,Tenant_B,warehouse,2025-08-01,WH-05,RET-021,Citrus Dish Soap,33,90.05,C$,CASE
+ship-Tenant_B-202508-0009,Tenant_B,warehouse,2025-08-07,WH-05,RET-017,Green Basket Plant Laundry Liquid 1.5L,81,495.14,CAD,CS
+ship-Tenant_B-202508-0010,Tenant_B,warehouse,2025-08-19,WH-05,RET-020, chocolate grain snack bites ,15,30.13,CAD,CASE
+ship-Tenant_B-202508-0011,Tenant_B,warehouse,2025-08-15,WH-01,RET-009,Soft Peak Daily Moisture Shampoo 400ml,67,313.08,C$,CS
+ship-Tenant_B-202508-0012,Tenant_B,warehouse,2025-08-31,WH-03,RET-003,Oat Original Northstar,94,236.20,CAD,EA
+ship-Tenant_B-202508-0013,Tenant_B,warehouse,2025-08-02,WH-01,RET-021,Northstar Oat Drink Barista Multipack 6x250ml,122,526.16,C$,CS
+ship-Tenant_B-202508-0014,Tenant_B,warehouse,2025-08-02,WH-01,RET-018, oat drink barista multipack ,36,155.26,C$,EA
+ship-Tenant_B-202508-0015,Tenant_B,warehouse,2025-08-29,WH-04,RET-017,Northstar Oat Drink Original 1L,16,40.20,$,CASE
+ship-Tenant_B-202508-0016,Tenant_B,warehouse,2025-08-16,WH-02,RET-002,Chocolate Grain Snack Bites,72,144.63,$,EA
+ship-Tenant_B-202508-0017,Tenant_B,warehouse,2025-08-10,WH-01,RET-008,Chocolate Grain Bites,47,94.41,C$,EA
+ship-Tenant_B-202508-0018,Tenant_B,warehouse,2025-08-15,WH-03,RET-020,Sea Salt Ridge Crisps,154,353.71,$,CASE
+ship-Tenant_B-202508-0019,Tenant_B,warehouse,2025-08-20,WH-04,RET-007,Oat Original Northstar,94,236.20,CAD,CS
+ship-Tenant_B-202508-0020,Tenant_B,warehouse,2025-08-19,WH-03,RET-006,Oat Drink Barista Multipack,60,258.77,C$,each
+ship-Tenant_B-202508-0021,Tenant_B,warehouse,2025-08-04,WH-03,RET-007, cr-salt-200 ,38,87.28,CAD,CASE
+ship-Tenant_B-202508-0022,Tenant_B,warehouse,2025-08-26,WH-03,RET-020, ns-oat-6x250 ,105,452.84,CAD,CS
+ship-Tenant_B-202508-0023,Tenant_B,warehouse,2025-08-28,WH-01,RET-016, green basket citru dishwashing soap ,63,171.91,CAD,EA
+ship-Tenant_B-202508-0024,Tenant_B,warehouse,2025-08-23,WH-05,RET-013,Soft Peak Daily Moisture Hair Conditioner,78,364.48,C$,EA
+ship-Tenant_B-202509-0001,Tenant_B,warehouse,not-a-date,WH-01,RET-010,Green Basket Plant Laundry Liquid 1.5L,44,268.96,C$,CS
+ship-Tenant_B-202509-0002,Tenant_B,warehouse,2025-09-16,WH-04,RET-008,,55,257.00,C$,CASE
+ship-Tenant_B-202509-0003,Tenant_B,warehouse,2025-09-18,WH-03,RET-010, cr-salt-200 ,unknown,215.90,CAD,CASE
+ship-Tenant_B-202509-0004,Tenant_B,warehouse,2025-09-13,WH-02,RET-013,Green Basket Plant Laundry Liquid,141,861.90,C$,each
+ship-Tenant_B-202509-0005,Tenant_B,warehouse,2025-09-07,WH-04,RET-018,Soft Peak Daily Moisture Conditioner,122,570.08,C$,EA
+ship-Tenant_B-202509-0006,Tenant_B,warehouse,2025-09-25,WH-05,RET-001,Green Basket Citrus Dish Soap,93,253.78,C$,EA
+ship-Tenant_B-202509-0007,Tenant_B,warehouse,2025-09-16,WH-01,RET-006, crisp ridge sea salt crisps 200g ,87,199.82,CAD,EA
+ship-Tenant_B-202509-0008,Tenant_B,warehouse,2025-09-07,WH-01,RET-012,CR-SALT-200,126,289.40,CAD,EA
+ship-Tenant_B-202509-0009,Tenant_B,warehouse,2025-09-29,WH-04,RET-006,Soft Peak Daily Moisture Shampoo 400ml,120,560.74,CAD,CASE
+ship-Tenant_B-202509-0010,Tenant_B,warehouse,2025-09-20,WH-04,RET-015,Oat Drink Original,135,339.23,CAD,EA
+ship-Tenant_B-202509-0011,Tenant_B,warehouse,2025-09-06,WH-04,RET-013,Green Basket Plant Laundry Liquid 1.5L,120,733.54,C$,each
+ship-Tenant_B-202509-0012,Tenant_B,warehouse,2025-09-03,WH-05,RET-004,Green Basket Laundry Liquid,115,702.97,$,CASE
+ship-Tenant_B-202509-0013,Tenant_B,warehouse,2025-09-01,WH-04,RET-007,Crisp Ridge Chocolate Grain Bites,97,194.85,CAD,CS
+ship-Tenant_B-202509-0014,Tenant_B,warehouse,2025-09-22,WH-03,RET-006,Soft Peak Daily Moisture Conditioner 400ml,130,607.46,CAD,each
+ship-Tenant_B-202509-0015,Tenant_B,warehouse,2025-09-22,WH-02,RET-023, daily moisture shampoo ,55,257.00,C$,EA
+ship-Tenant_B-202509-0016,Tenant_B,warehouse,2025-09-25,WH-02,RET-003, green basket plant laundry liquid 1.5l ,71,434.01,C$,EA
+ship-Tenant_B-202509-0017,Tenant_B,warehouse,2025-09-14,WH-02,RET-020, barista oat drink 6 pack ,153,659.86,$,each
+ship-Tenant_B-202509-0018,Tenant_B,warehouse,2025-09-01,WH-03,RET-021, citrus dish soap ,26,70.95,C$,CASE
+ship-Tenant_B-202509-0019,Tenant_B,warehouse,2025-09-21,WH-03,RET-022,Crisp Ridge Chocolate Grain Bites,54,108.48,$,CS
+ship-Tenant_B-202509-0020,Tenant_B,warehouse,2025-09-08,WH-04,RET-025,Crisp Ridge Sea Salt Potato Crisps,70,160.78,CAD,each
+ship-Tenant_B-202509-0021,Tenant_B,warehouse,2025-09-30,WH-02,RET-009,Crisp Ridge Chocolate Grain Bites 150g,94,188.83,$,CASE
+ship-Tenant_B-202509-0022,Tenant_B,warehouse,2025-09-18,WH-05,RET-013,Sea Salt Ridge Crisps,66,151.59,CAD,CASE
+ship-Tenant_B-202509-0023,Tenant_B,warehouse,2025-09-06,WH-01,RET-014,Northstar Origial Oat Beverage,139,349.28,$,CS
+ship-Tenant_B-202509-0024,Tenant_B,warehouse,2025-09-21,WH-04,RET-013,Sea Salt Ridge Crisps,102,234.27,CAD,each
+ship-Tenant_B-202510-0001,Tenant_B,warehouse,not-a-date,WH-02,RET-009,Northstar Oat Drink Original 1L,151,379.43,C$,CS
+ship-Tenant_B-202510-0002,Tenant_B,warehouse,2025-10-30,WH-04,RET-013,,105,286.52,CAD,CS
+ship-Tenant_B-202510-0003,Tenant_B,warehouse,2025-10-07,WH-03,RET-023,NS-OAT-1L,unknown,339.23,C$,EA
+ship-Tenant_B-202510-0004,Tenant_B,warehouse,2025-10-22,WH-02,RET-009,Citrus Dishwashing Liquid,126,343.83,$,each
+ship-Tenant_B-202510-0005,Tenant_B,warehouse,2025-10-03,WH-03,RET-023,Soft Peak Daily Moisture Shampoo 400ml,119,556.06,$,CASE
+ship-Tenant_B-202510-0006,Tenant_B,warehouse,2025-10-19,WH-04,RET-023,Soft Peak Moisture Shampoo,63,294.39,C$,CASE
+ship-Tenant_B-202510-0007,Tenant_B,warehouse,2025-10-06,WH-02,RET-017,Soft Peak Moisture Shampoo,134,626.16,C$,EA
+ship-Tenant_B-202510-0008,Tenant_B,warehouse,2025-10-04,WH-04,RET-004,Green Basket Plant Laundry Liquid 1.5L,31,189.50,$,CASE
+ship-Tenant_B-202510-0009,Tenant_B,warehouse,2025-10-01,WH-05,RET-001, ns-oat-6x250 ,64,276.02,$,CS
+ship-Tenant_B-202510-0010,Tenant_B,warehouse,2025-10-11,WH-03,RET-011,Soft Peak Daily Moisture Shampoo,24,112.15,CAD,EA
+ship-Tenant_B-202510-0011,Tenant_B,warehouse,2025-10-27,WH-05,RET-014,Northstar Barista Oat Multipack,131,564.98,CAD,each
+ship-Tenant_B-202510-0012,Tenant_B,warehouse,2025-10-13,WH-04,RET-022,Citrus Dishwashing Liquid,119,324.73,$,EA
+ship-Tenant_B-202510-0013,Tenant_B,warehouse,2025-10-18,WH-05,RET-008,SP-COND-400,133,621.48,C$,each
+ship-Tenant_B-202510-0014,Tenant_B,warehouse,2025-10-13,WH-01,RET-022,Oat Drink Original,131,329.18,C$,each
+ship-Tenant_B-202510-0015,Tenant_B,warehouse,2025-10-24,WH-04,RET-008,Barista Oat Drink 6 Pack,153,659.86,$,each
+ship-Tenant_B-202510-0016,Tenant_B,warehouse,2025-10-05,WH-03,RET-002,Sea Salt Ridge Crisps,10,22.97,C$,each
+ship-Tenant_B-202510-0017,Tenant_B,warehouse,2025-10-15,WH-04,RET-005,CR-SALT-200,137,314.66,C$,CASE
+ship-Tenant_B-202510-0018,Tenant_B,warehouse,2025-10-16,WH-01,RET-011,Northstar Oat Drink Barista Multipack,106,457.16,$,each
+ship-Tenant_B-202510-0019,Tenant_B,warehouse,2025-10-22,WH-04,RET-022,Soft Peak Moisture Conditioner,96,448.59,CAD,CS
+ship-Tenant_B-202510-0020,Tenant_B,warehouse,2025-10-05,WH-04,RET-021,Sea Salt Ridge Crisps,87,199.82,C$,each
+ship-Tenant_B-202510-0021,Tenant_B,warehouse,2025-10-12,WH-04,RET-014, sea salt ridge crisps ,47,107.95,$,each
+ship-Tenant_B-202510-0022,Tenant_B,warehouse,2025-10-24,WH-04,RET-016,Green Basket Citrus Dishwashing Soap,71,193.74,C$,CASE
+ship-Tenant_B-202510-0023,Tenant_B,warehouse,2025-10-01,WH-05,RET-008,Soft Peak Moiture Shampoo,135,630.83,CAD,EA
+ship-Tenant_B-202510-0024,Tenant_B,warehouse,2025-10-11,WH-01,RET-013,Soft Peak Moisture Conditioner,113,528.03,CAD,CS
+ship-Tenant_B-202511-0001,Tenant_B,warehouse,not-a-date,WH-02,RET-019,Oat Drink Barista Multipack,20,86.26,$,each
+ship-Tenant_B-202511-0002,Tenant_B,warehouse,2025-11-22,WH-03,RET-022,,142,868.02,CAD,CS
+ship-Tenant_B-202511-0003,Tenant_B,warehouse,2025-11-08,WH-02,RET-020, sea salt ridge crisps ,unknown,149.29,CAD,each
+ship-Tenant_B-202511-0004,Tenant_B,warehouse,2025-11-13,WH-02,RET-018,Green Basket Plant Laundry Liquid,118,721.31,C$,each
+ship-Tenant_B-202511-0005,Tenant_B,warehouse,2025-11-26,WH-01,RET-009,Crisp Ridge Chocolate Grain Bites 150g,73,146.64,C$,EA
+ship-Tenant_B-202511-0006,Tenant_B,warehouse,2025-11-05,WH-02,RET-013,Northstar Oat Drink Barista Multipack,106,457.16,CAD,EA
+ship-Tenant_B-202511-0007,Tenant_B,warehouse,2025-11-09,WH-04,RET-006,Citrus Dishwashing Liquid,91,248.32,$,CASE
+ship-Tenant_B-202511-0008,Tenant_B,warehouse,2025-11-05,WH-03,RET-002, crisp ridge chocolate grain bites ,155,311.36,$,CASE
+ship-Tenant_B-202511-0009,Tenant_B,warehouse,2025-11-09,WH-03,RET-014,Soft Peak Daily Moisture Conditioner,32,149.53,C$,CASE
+ship-Tenant_B-202511-0010,Tenant_B,warehouse,2025-11-16,WH-04,RET-016,NS-OAT-1L,44,110.56,CAD,EA
+ship-Tenant_B-202511-0011,Tenant_B,warehouse,2025-11-30,WH-02,RET-022,Citrus Dish Soap,124,338.37,$,each
+ship-Tenant_B-202511-0012,Tenant_B,warehouse,2025-11-04,WH-03,RET-010,Soft Peak Daily Moisture Shampoo 400ml,40,186.91,C$,CS
+ship-Tenant_B-202511-0013,Tenant_B,warehouse,2025-11-30,WH-01,RET-020,Green Basket Laundry Liquid,101,617.39,C$,CS
+ship-Tenant_B-202511-0014,Tenant_B,warehouse,2025-11-03,WH-04,RET-001, gb-dish-500 ,41,111.88,$,each
+ship-Tenant_B-202511-0015,Tenant_B,warehouse,2025-11-09,WH-03,RET-024,Green Basket Citrus Dish Soap 500ml,45,122.80,CAD,CS
+ship-Tenant_B-202511-0016,Tenant_B,warehouse,2025-11-02,WH-01,RET-014,Crisp Ridge Chocolate Grain Bites 150g,78,156.69,CAD,CS
+ship-Tenant_B-202511-0017,Tenant_B,warehouse,2025-11-01,WH-02,RET-002, daily moisture shampoo ,13,60.75,CAD,CASE
+ship-Tenant_B-202511-0018,Tenant_B,warehouse,2025-11-05,WH-01,RET-009,SP-COND-400,81,378.50,$,each
+ship-Tenant_B-202511-0019,Tenant_B,warehouse,2025-11-09,WH-01,RET-002, chocolate grain bites ,61,122.54,CAD,CS
+ship-Tenant_B-202511-0020,Tenant_B,warehouse,2025-11-02,WH-03,RET-023, soft peak daily moisture shampoo 400ml ,81,378.50,C$,CS
+ship-Tenant_B-202511-0021,Tenant_B,warehouse,2025-11-20,WH-03,RET-011,Citrus Dish Soap,135,368.39,CAD,CASE
+ship-Tenant_B-202511-0022,Tenant_B,warehouse,2025-11-19,WH-02,RET-019,Citrus Dishwashing Liquid,80,218.30,$,CS
+ship-Tenant_B-202511-0023,Tenant_B,warehouse,2025-11-03,WH-02,RET-018,Crisp Ridge Sea Slt Potato Crisps,131,300.88,$,each
+ship-Tenant_B-202511-0024,Tenant_B,warehouse,2025-11-14,WH-02,RET-010,Soft Peak Daily Moisture Hair Conditioner,80,373.82,$,EA
+ship-Tenant_B-202512-0001,Tenant_B,warehouse,not-a-date,WH-02,RET-001,Oat Drink Barista Multipack,62,267.39,C$,each
+ship-Tenant_B-202512-0002,Tenant_B,warehouse,2025-12-09,WH-05,RET-008,,21,128.37,$,CASE
+ship-Tenant_B-202512-0003,Tenant_B,warehouse,2025-12-07,WH-05,RET-012,Oat Original Northstar,unknown,246.25,$,CASE
+ship-Tenant_B-202512-0004,Tenant_B,warehouse,2025-12-01,WH-01,RET-018,Green Basket Plant Laundry Liquid,75,458.46,C$,EA
+ship-Tenant_B-202512-0005,Tenant_B,warehouse,2025-12-26,WH-03,RET-005,Crisp Ridge Sea Salt Crisps,121,277.91,C$,CS
+ship-Tenant_B-202512-0006,Tenant_B,warehouse,2025-12-10,WH-01,RET-005, soft peak moisture conditioner ,58,271.02,CAD,EA
+ship-Tenant_B-202512-0007,Tenant_B,warehouse,2025-12-04,WH-01,RET-005,Chocolate Grain Snack Bites,13,26.11,C$,each
+ship-Tenant_B-202512-0008,Tenant_B,warehouse,2025-12-25,WH-04,RET-005, citrus dishwashing liquid ,94,256.51,$,each
+ship-Tenant_B-202512-0009,Tenant_B,warehouse,2025-12-29,WH-02,RET-014,NS-OAT-1L,16,40.20,C$,CS
+ship-Tenant_B-202512-0010,Tenant_B,warehouse,2025-12-10,WH-03,RET-003,CR-CHOC-150,40,80.35,C$,EA
+ship-Tenant_B-202512-0011,Tenant_B,warehouse,2025-12-20,WH-03,RET-009,Daily Moisture Shampoo,137,640.17,C$,EA
+ship-Tenant_B-202512-0012,Tenant_B,warehouse,2025-12-16,WH-02,RET-003,Soft Peak Daily Moisture Shampoo 400ml,81,378.50,CAD,CASE
+ship-Tenant_B-202512-0013,Tenant_B,warehouse,2025-12-21,WH-05,RET-016,Soft Peak Moisture Conditioner,117,546.72,C$,CS
+ship-Tenant_B-202512-0014,Tenant_B,warehouse,2025-12-07,WH-01,RET-002, sea salt ridge crisps ,44,101.06,CAD,CASE
+ship-Tenant_B-202512-0015,Tenant_B,warehouse,2025-12-24,WH-04,RET-012,Daily Moisture Shampoo,16,74.76,CAD,EA
+ship-Tenant_B-202512-0016,Tenant_B,warehouse,2025-12-01,WH-02,RET-024, crisp ridge chocolate grain bites ,130,261.14,$,CASE
+ship-Tenant_B-202512-0017,Tenant_B,warehouse,2025-12-25,WH-04,RET-022,CR CHOC 150,111,222.98,CAD,CS
+ship-Tenant_B-202512-0018,Tenant_B,warehouse,2025-12-03,WH-04,RET-020,Crisp Ridge Sea Salt Crisps 200g,64,147.00,$,EA
+ship-Tenant_B-202512-0019,Tenant_B,warehouse,2025-12-27,WH-02,RET-009,Soft Peak Daily Moisture Conditioner 400ml,118,551.39,C$,EA
+ship-Tenant_B-202512-0020,Tenant_B,warehouse,2025-12-20,WH-01,RET-008,Plant Laundry Liquid,61,372.88,CAD,CASE
+ship-Tenant_B-202512-0021,Tenant_B,warehouse,2025-12-12,WH-04,RET-024,GB DISH 500,90,245.59,C$,CASE
+ship-Tenant_B-202512-0022,Tenant_B,warehouse,2025-12-19,WH-01,RET-021,CR-CHOC-150,128,257.13,CAD,EA
+ship-Tenant_B-202512-0023,Tenant_B,warehouse,2025-12-12,WH-02,RET-007,Citrus Dishwshing Liquid,109,297.44,$,EA
+ship-Tenant_B-202512-0024,Tenant_B,warehouse,2025-12-06,WH-03,RET-012,Green Basket Plant Based Laundry Detergent,157,959.71,C$,EA
+ship-Tenant_C-202501-0001,Tenant_C,warehouse,not-a-date,WH-04,RET-020,Soft Peak Moisture Conditioner,112,523.35,€,each
+ship-Tenant_C-202501-0002,Tenant_C,warehouse,2025-01-22,WH-05,RET-001,,72,336.44,EUR,each
+ship-Tenant_C-202501-0003,Tenant_C,warehouse,2025-01-12,WH-01,RET-006,Crisp Ridge Sea Salt Crisps 200g,unknown,84.98,€,EA
+ship-Tenant_C-202501-0004,Tenant_C,warehouse,2025-01-16,WH-02,RET-016,Green Basket Citrus Dishwashing Soap,149,406.59,EUR,each
+ship-Tenant_C-202501-0005,Tenant_C,warehouse,2025-01-01,WH-01,RET-005,Soft Peak Daily Moisture Shampoo 400ml,55,257.00,€,EA
+ship-Tenant_C-202501-0006,Tenant_C,warehouse,2025-01-02,WH-02,RET-012,Sea Salt Ridge Crisps,52,119.43,EUR,CS
+ship-Tenant_C-202501-0007,Tenant_C,warehouse,2025-01-07,WH-03,RET-022,SP-SHAM-400,47,219.62,EUR,CASE
+ship-Tenant_C-202501-0008,Tenant_C,warehouse,2025-01-15,WH-01,RET-002,Soft Peak Daily Moisture Shampoo,158,738.30,EUR,each
+ship-Tenant_C-202501-0009,Tenant_C,warehouse,2025-01-19,WH-03,RET-017,Citrus Dish Soap,87,237.41,EUR,EA
+ship-Tenant_C-202501-0010,Tenant_C,warehouse,2025-01-11,WH-02,RET-018,Green Basket Citrus Dishwashing Soap,105,286.52,EUR,each
+ship-Tenant_C-202501-0011,Tenant_C,warehouse,2025-01-21,WH-05,RET-018,NS-OAT-6X250,137,590.85,EUR,EA
+ship-Tenant_C-202501-0012,Tenant_C,warehouse,2025-01-04,WH-04,RET-021,Sea Salt Crisps,128,293.99,EUR,CS
+ship-Tenant_C-202501-0013,Tenant_C,warehouse,2025-01-14,WH-01,RET-005,Green Basket Plant Laundry Liquid,13,79.47,EUR,CASE
+ship-Tenant_C-202501-0014,Tenant_C,warehouse,2025-01-20,WH-04,RET-024,Daily Moisture Shampoo,42,196.26,€,each
+ship-Tenant_C-202501-0015,Tenant_C,warehouse,2025-01-13,WH-01,RET-003, crisp ridge cocoa grain bites ,62,124.55,€,EA
+ship-Tenant_C-202501-0016,Tenant_C,warehouse,2025-01-05,WH-02,RET-010,Northstar Barista Oat Multipack,71,306.21,€,each
+ship-Tenant_C-202501-0017,Tenant_C,warehouse,2025-01-01,WH-01,RET-005, northstar oat drink original ,41,103.02,EUR,CASE
+ship-Tenant_C-202501-0018,Tenant_C,warehouse,2025-01-03,WH-04,RET-011,SP SHAM 400,117,546.72,€,CS
+ship-Tenant_C-202501-0019,Tenant_C,warehouse,2025-01-18,WH-01,RET-007,Green Basket Citrus Dish Soap,75,204.66,EUR,EA
+ship-Tenant_C-202501-0020,Tenant_C,warehouse,2025-01-03,WH-01,RET-012, oat drink barista multipack ,61,263.08,EUR,CASE
+ship-Tenant_C-202501-0021,Tenant_C,warehouse,2025-01-23,WH-03,RET-006, plant laundry liquid ,160,978.05,€,each
+ship-Tenant_C-202501-0022,Tenant_C,warehouse,2025-01-12,WH-01,RET-017,Northstar Barista Oat Multipack,52,224.27,€,CASE
+ship-Tenant_C-202501-0023,Tenant_C,warehouse,2025-01-26,WH-03,RET-012, northstar origial oat beverage ,65,163.33,EUR,each
+ship-Tenant_C-202501-0024,Tenant_C,warehouse,2025-01-13,WH-01,RET-018,Soft Peak Moisture Conditioner,65,303.73,€,CASE
+ship-Tenant_C-202502-0001,Tenant_C,warehouse,not-a-date,WH-01,RET-004,Soft Peak Daily Moisture Shampoo,117,546.72,€,CS
+ship-Tenant_C-202502-0002,Tenant_C,warehouse,2025-02-01,WH-05,RET-017,,19,47.74,€,EA
+ship-Tenant_C-202502-0003,Tenant_C,warehouse,2025-02-03,WH-03,RET-023,Green Basket Plant Laundry Liquid,unknown,672.41,€,CS
+ship-Tenant_C-202502-0004,Tenant_C,warehouse,2025-02-05,WH-01,RET-007,NS-OAT-6X250,53,228.58,EUR,CASE
+ship-Tenant_C-202502-0005,Tenant_C,warehouse,2025-02-11,WH-04,RET-004,NS OAT 6X250,159,685.74,€,each
+ship-Tenant_C-202502-0006,Tenant_C,warehouse,2025-02-22,WH-02,RET-003,Northstar Barista Oat Multipack,133,573.60,€,CASE
+ship-Tenant_C-202502-0007,Tenant_C,warehouse,2025-02-02,WH-02,RET-016, sea salt ridge crisps ,108,248.05,EUR,EA
+ship-Tenant_C-202502-0008,Tenant_C,warehouse,2025-02-05,WH-02,RET-025, soft peak moisture conditioner ,141,658.86,EUR,CS
+ship-Tenant_C-202502-0009,Tenant_C,warehouse,2025-02-15,WH-04,RET-012,SP-COND-400,145,677.56,EUR,CASE
+ship-Tenant_C-202502-0010,Tenant_C,warehouse,2025-02-12,WH-02,RET-010,Soft Peak Daily Moisture Hair Shampoo,118,551.39,EUR,each
+ship-Tenant_C-202502-0011,Tenant_C,warehouse,2025-02-04,WH-01,RET-018,Oat Original Northstar,71,178.41,EUR,EA
+ship-Tenant_C-202502-0012,Tenant_C,warehouse,2025-02-09,WH-03,RET-023,Oat Drink Barista Multipack,98,422.65,€,CASE
+ship-Tenant_C-202502-0013,Tenant_C,warehouse,2025-02-06,WH-04,RET-011,Sea Salt Crisps,131,300.88,€,EA
+ship-Tenant_C-202502-0014,Tenant_C,warehouse,2025-02-02,WH-05,RET-006,Northstar Oat Drink Original 1L,144,361.84,EUR,each
+ship-Tenant_C-202502-0015,Tenant_C,warehouse,2025-02-12,WH-05,RET-025,Green Basket Citrus Dishwashing Soap,95,259.24,€,CS
+ship-Tenant_C-202502-0016,Tenant_C,warehouse,2025-02-01,WH-01,RET-007,Sea Salt Ridge Crisps,62,142.40,EUR,CS
+ship-Tenant_C-202502-0017,Tenant_C,warehouse,2025-02-11,WH-02,RET-002,Crisp Ridge Chocolate Grain Bites,89,178.78,€,CASE
+ship-Tenant_C-202502-0018,Tenant_C,warehouse,2025-02-15,WH-02,RET-010,NS-OAT-6X250,152,655.55,EUR,CS
+ship-Tenant_C-202502-0019,Tenant_C,warehouse,2025-02-01,WH-02,RET-012, green basket plant based laundry detergent ,74,452.35,€,CASE
+ship-Tenant_C-202502-0020,Tenant_C,warehouse,2025-02-19,WH-03,RET-008,Plant Laundry Liquid,131,800.78,EUR,CS
+ship-Tenant_C-202502-0021,Tenant_C,warehouse,2025-02-05,WH-02,RET-010,Soft Peak Moisture Shampoo,151,705.59,EUR,CASE
+ship-Tenant_C-202502-0022,Tenant_C,warehouse,2025-02-11,WH-04,RET-014, sp-sham-400 ,129,602.79,€,CS
+ship-Tenant_C-202502-0023,Tenant_C,warehouse,2025-02-20,WH-01,RET-015,Green Basket Plant Baed Laundry Detergent,113,690.75,€,CS
+ship-Tenant_C-202502-0024,Tenant_C,warehouse,2025-02-28,WH-01,RET-023,Barista Oat Drink 6 Pack,140,603.79,EUR,each
+ship-Tenant_C-202503-0001,Tenant_C,warehouse,not-a-date,WH-01,RET-003,Crisp Ridge Chocolate Grain Bites,61,122.54,EUR,EA
+ship-Tenant_C-202503-0002,Tenant_C,warehouse,2025-03-02,WH-02,RET-018,,57,266.35,EUR,CASE
+ship-Tenant_C-202503-0003,Tenant_C,warehouse,2025-03-08,WH-04,RET-010, oat drink original ,unknown,329.18,EUR,CASE
+ship-Tenant_C-202503-0004,Tenant_C,warehouse,2025-03-01,WH-01,RET-019,Northstar Oat Drink Barista Multipack 6x250ml,109,470.10,€,CASE
+ship-Tenant_C-202503-0005,Tenant_C,warehouse,2025-03-01,WH-03,RET-023,Crisp Ridge Chocolate Grain Bites 150g,63,126.55,EUR,CS
+ship-Tenant_C-202503-0006,Tenant_C,warehouse,2025-03-30,WH-05,RET-022,Crisp Ridge Chocolate Grain Bites,130,261.14,€,each
+ship-Tenant_C-202503-0007,Tenant_C,warehouse,2025-03-20,WH-02,RET-004,Green Basket Citrus Dishwashing Soap,50,136.44,€,EA
+ship-Tenant_C-202503-0008,Tenant_C,warehouse,2025-03-14,WH-01,RET-024,Chocolate Grain Snack Bites,39,78.34,EUR,EA
+ship-Tenant_C-202503-0009,Tenant_C,warehouse,2025-03-21,WH-03,RET-008,Barista Oat Drink 6 Pack,122,526.16,EUR,each
+ship-Tenant_C-202503-0010,Tenant_C,warehouse,2025-03-02,WH-05,RET-003,Oat Original Northstar,155,389.48,EUR,CASE
+ship-Tenant_C-202503-0011,Tenant_C,warehouse,2025-03-12,WH-01,RET-019,Crisp Ridge Sea Salt Potato Crisps,106,243.46,EUR,EA
+ship-Tenant_C-202503-0012,Tenant_C,warehouse,2025-03-27,WH-01,RET-006,Northstar Original Oat Beverage,101,253.79,€,CASE
+ship-Tenant_C-202503-0013,Tenant_C,warehouse,2025-03-16,WH-04,RET-009,Northstar Original Oat Beverage,96,241.23,€,each
+ship-Tenant_C-202503-0014,Tenant_C,warehouse,2025-03-19,WH-05,RET-016,Oat Drink Original,30,75.38,EUR,each
+ship-Tenant_C-202503-0015,Tenant_C,warehouse,2025-03-29,WH-05,RET-020,Green Basket Citrus Dish Soap 500ml,60,163.73,EUR,CS
+ship-Tenant_C-202503-0016,Tenant_C,warehouse,2025-03-18,WH-03,RET-007, soft peak moisture shampoo ,104,485.97,EUR,CASE
+ship-Tenant_C-202503-0017,Tenant_C,warehouse,2025-03-02,WH-03,RET-002,NS-OAT-1L,56,140.72,EUR,CASE
+ship-Tenant_C-202503-0018,Tenant_C,warehouse,2025-03-03,WH-02,RET-015,Soft Peak Daily Moisture Shampoo 400ml,101,471.95,€,CASE
+ship-Tenant_C-202503-0019,Tenant_C,warehouse,2025-03-31,WH-05,RET-008,NS-OAT-6X250,45,194.08,€,CASE
+ship-Tenant_C-202503-0020,Tenant_C,warehouse,2025-03-01,WH-04,RET-010,Soft Peak Moisture Conditioner,160,747.65,€,EA
+ship-Tenant_C-202503-0021,Tenant_C,warehouse,2025-03-22,WH-01,RET-018,SP-COND-400,88,411.21,€,CASE
+ship-Tenant_C-202503-0022,Tenant_C,warehouse,2025-03-14,WH-05,RET-015,Citrus Dishwashing Liquid,83,226.49,EUR,CS
+ship-Tenant_C-202503-0023,Tenant_C,warehouse,2025-03-26,WH-03,RET-019, soft peak daily moistre hair conditioner ,85,397.19,€,CS
+ship-Tenant_C-202503-0024,Tenant_C,warehouse,2025-03-15,WH-01,RET-012,Green Basket Laundry Liquid,129,788.55,€,CS
+ship-Tenant_C-202504-0001,Tenant_C,warehouse,not-a-date,WH-02,RET-005,GB-DISH-500,68,185.56,€,EA
+ship-Tenant_C-202504-0002,Tenant_C,warehouse,2025-04-23,WH-05,RET-023,,100,272.88,€,EA
+ship-Tenant_C-202504-0003,Tenant_C,warehouse,2025-04-27,WH-01,RET-011,Oat Drink Barista Multipack,unknown,198.39,€,CASE
+ship-Tenant_C-202504-0004,Tenant_C,warehouse,2025-04-19,WH-05,RET-023,GB-DISH-500,90,245.59,EUR,CASE
+ship-Tenant_C-202504-0005,Tenant_C,warehouse,2025-04-19,WH-05,RET-016,NS-OAT-6X250,23,99.19,€,CS
+ship-Tenant_C-202504-0006,Tenant_C,warehouse,2025-04-04,WH-03,RET-018,Crisp Ridge Sea Salt Crisps,30,68.90,EUR,EA
+ship-Tenant_C-202504-0007,Tenant_C,warehouse,2025-04-22,WH-03,RET-004,Crisp Ridge Cocoa Grain Bites,97,194.85,EUR,EA
+ship-Tenant_C-202504-0008,Tenant_C,warehouse,2025-04-04,WH-01,RET-005,Sea Salt Crisps,130,298.58,€,EA
+ship-Tenant_C-202504-0009,Tenant_C,warehouse,2025-04-18,WH-03,RET-019,Soft Peak Daily Moisture Shampoo 400ml,96,448.59,EUR,EA
+ship-Tenant_C-202504-0010,Tenant_C,warehouse,2025-04-16,WH-05,RET-003,Soft Peak Moisture Conditioner,160,747.65,EUR,each
+ship-Tenant_C-202504-0011,Tenant_C,warehouse,2025-04-25,WH-01,RET-019,Daily Moisture Conditioner,97,453.26,EUR,CS
+ship-Tenant_C-202504-0012,Tenant_C,warehouse,2025-04-20,WH-01,RET-010,Crisp Ridge Sea Salt Crisps 200g,52,119.43,€,CASE
+ship-Tenant_C-202504-0013,Tenant_C,warehouse,2025-04-07,WH-05,RET-007,Oat Drink Barista Multipack,148,638.29,EUR,EA
+ship-Tenant_C-202504-0014,Tenant_C,warehouse,2025-04-30,WH-04,RET-009, soft peak daily moisture hair conditioner ,120,560.74,EUR,EA
+ship-Tenant_C-202504-0015,Tenant_C,warehouse,2025-04-11,WH-03,RET-002, sea salt ridge crisps ,28,64.31,€,CS
+ship-Tenant_C-202504-0016,Tenant_C,warehouse,2025-04-08,WH-02,RET-024, oat drink original ,134,336.72,EUR,CS
+ship-Tenant_C-202504-0017,Tenant_C,warehouse,2025-04-23,WH-05,RET-013,SP-SHAM-400,77,359.81,EUR,each
+ship-Tenant_C-202504-0018,Tenant_C,warehouse,2025-04-13,WH-02,RET-004,Green Basket Laundry Liquid,34,207.84,€,CASE
+ship-Tenant_C-202504-0019,Tenant_C,warehouse,2025-04-13,WH-02,RET-001,Soft Peak Daily Moisture Conditioner,115,537.37,EUR,CASE
+ship-Tenant_C-202504-0020,Tenant_C,warehouse,2025-04-26,WH-03,RET-016,Green Basket Citrus Dish Soap,23,62.76,€,each
+ship-Tenant_C-202504-0021,Tenant_C,warehouse,2025-04-20,WH-01,RET-013,Crisp Ridge Cocoa Grain Bites,15,30.13,€,EA
+ship-Tenant_C-202504-0022,Tenant_C,warehouse,2025-04-06,WH-03,RET-011,Northstar Original Oat Beverage,51,128.15,€,CS
+ship-Tenant_C-202504-0023,Tenant_C,warehouse,2025-04-10,WH-01,RET-009,Barista Oa Drink 6 Pack,73,314.83,€,EA
+ship-Tenant_C-202504-0024,Tenant_C,warehouse,2025-04-24,WH-05,RET-005,Northstar Barista Oat Multipack,148,638.29,€,EA
+ship-Tenant_C-202505-0001,Tenant_C,warehouse,not-a-date,WH-02,RET-014,Northstar Oat Drink Original,33,82.92,€,CASE
+ship-Tenant_C-202505-0002,Tenant_C,warehouse,2025-05-18,WH-04,RET-025,,16,74.76,EUR,each
+ship-Tenant_C-202505-0003,Tenant_C,warehouse,2025-05-31,WH-04,RET-020,NS-OAT-6X250,unknown,198.39,€,CS
+ship-Tenant_C-202505-0004,Tenant_C,warehouse,2025-05-02,WH-01,RET-009,Soft Peak Daily Moisture Shampoo,114,532.70,€,each
+ship-Tenant_C-202505-0005,Tenant_C,warehouse,2025-05-18,WH-04,RET-005,Crisp Ridge Sea Salt Crisps,29,66.61,EUR,EA
+ship-Tenant_C-202505-0006,Tenant_C,warehouse,2025-05-17,WH-01,RET-010,Northstar Oat Drink Original 1L,112,281.43,€,EA
+ship-Tenant_C-202505-0007,Tenant_C,warehouse,2025-05-17,WH-04,RET-015,Green Basket Citrus Dishwashing Soap,74,201.93,EUR,each
+ship-Tenant_C-202505-0008,Tenant_C,warehouse,2025-05-16,WH-02,RET-023,SP-COND-400,58,271.02,EUR,EA
+ship-Tenant_C-202505-0009,Tenant_C,warehouse,2025-05-21,WH-05,RET-024,Citrus Dishwashing Liquid,119,324.73,EUR,CASE
+ship-Tenant_C-202505-0010,Tenant_C,warehouse,2025-05-09,WH-03,RET-019,CR-CHOC-150,108,216.95,EUR,CASE
+ship-Tenant_C-202505-0011,Tenant_C,warehouse,2025-05-26,WH-03,RET-003,Oat Drink Original,10,25.13,EUR,EA
+ship-Tenant_C-202505-0012,Tenant_C,warehouse,2025-05-13,WH-05,RET-003,Oat Drink Barista Multipack,91,392.46,€,each
+ship-Tenant_C-202505-0013,Tenant_C,warehouse,2025-05-21,WH-03,RET-024, green basket laundry liquid ,129,788.55,€,CS
+ship-Tenant_C-202505-0014,Tenant_C,warehouse,2025-05-12,WH-01,RET-012,Chocolate Grain Snack Bites,94,188.83,EUR,CASE
+ship-Tenant_C-202505-0015,Tenant_C,warehouse,2025-05-02,WH-04,RET-006,Oat Original Northstar,126,316.61,EUR,CS
+ship-Tenant_C-202505-0016,Tenant_C,warehouse,2025-05-24,WH-01,RET-015,Northstar Original Oat Beverage,40,100.51,EUR,EA
+ship-Tenant_C-202505-0017,Tenant_C,warehouse,2025-05-24,WH-04,RET-022, citrus dishwashing liquid ,113,308.35,€,EA
+ship-Tenant_C-202505-0018,Tenant_C,warehouse,2025-05-17,WH-05,RET-012,SP-COND-400,80,373.82,€,EA
+ship-Tenant_C-202505-0019,Tenant_C,warehouse,2025-05-11,WH-04,RET-003, ns oat 6x250 ,105,452.84,EUR,each
+ship-Tenant_C-202505-0020,Tenant_C,warehouse,2025-05-05,WH-02,RET-006,Northstar Oat Drink Original 1L,79,198.51,€,CASE
+ship-Tenant_C-202505-0021,Tenant_C,warehouse,2025-05-27,WH-05,RET-019,Green Basket Citrus Dish Soap,49,133.71,EUR,each
+ship-Tenant_C-202505-0022,Tenant_C,warehouse,2025-05-07,WH-02,RET-016,GB-LAUN-1.5,142,868.02,€,each
+ship-Tenant_C-202505-0023,Tenant_C,warehouse,2025-05-14,WH-02,RET-012,Barista Oa Drink 6 Pack,35,150.95,€,CASE
+ship-Tenant_C-202505-0024,Tenant_C,warehouse,2025-05-08,WH-04,RET-022,Soft Peak Moisture Conditioner,96,448.59,€,CS
+ship-Tenant_C-202506-0001,Tenant_C,warehouse,not-a-date,WH-02,RET-019,Soft Peak Daily Moisture Shampoo,144,672.88,EUR,each
+ship-Tenant_C-202506-0002,Tenant_C,warehouse,2025-06-01,WH-01,RET-006,,88,176.77,EUR,each
+ship-Tenant_C-202506-0003,Tenant_C,warehouse,2025-06-16,WH-04,RET-023,GB-DISH-500,unknown,289.25,€,each
+ship-Tenant_C-202506-0004,Tenant_C,warehouse,2025-06-13,WH-01,RET-008,Green Basket Laundry Liquid,160,978.05,EUR,each
+ship-Tenant_C-202506-0005,Tenant_C,warehouse,2025-06-07,WH-03,RET-013,SP-SHAM-400,33,154.20,EUR,each
+ship-Tenant_C-202506-0006,Tenant_C,warehouse,2025-06-27,WH-04,RET-001, daily moisture shampoo ,35,163.55,EUR,each
+ship-Tenant_C-202506-0007,Tenant_C,warehouse,2025-06-09,WH-04,RET-023,Soft Peak Daily Moisture Shampoo 400ml,105,490.64,EUR,CASE
+ship-Tenant_C-202506-0008,Tenant_C,warehouse,2025-06-30,WH-04,RET-002, soft peak moisture shampoo ,126,588.77,€,CS
+ship-Tenant_C-202506-0009,Tenant_C,warehouse,2025-06-25,WH-03,RET-014,Green Basket Citrus Dish Soap,85,231.95,EUR,EA
+ship-Tenant_C-202506-0010,Tenant_C,warehouse,2025-06-03,WH-04,RET-009,Northstar Original Oat Beverage,136,341.74,EUR,CASE
+ship-Tenant_C-202506-0011,Tenant_C,warehouse,2025-06-24,WH-03,RET-021,Northstar Oat Drink Barista Multipack,30,129.38,EUR,CASE
+ship-Tenant_C-202506-0012,Tenant_C,warehouse,2025-06-20,WH-04,RET-007,Oat Drink Barista Multipack,156,672.80,EUR,CS
+ship-Tenant_C-202506-0013,Tenant_C,warehouse,2025-06-14,WH-03,RET-009,Daily Moisture Shampoo,43,200.93,EUR,CS
+ship-Tenant_C-202506-0014,Tenant_C,warehouse,2025-06-23,WH-05,RET-013, citrus dish soap ,94,256.51,€,CS
+ship-Tenant_C-202506-0015,Tenant_C,warehouse,2025-06-06,WH-01,RET-021,Soft Peak Moisture Conditioner,156,728.96,€,CS
+ship-Tenant_C-202506-0016,Tenant_C,warehouse,2025-06-05,WH-04,RET-025,Green Basket Plant Laundry Liquid,120,733.54,EUR,EA
+ship-Tenant_C-202506-0017,Tenant_C,warehouse,2025-06-04,WH-03,RET-006,Crisp Ridge Chocolate Grain Bites 150g,156,313.37,€,each
+ship-Tenant_C-202506-0018,Tenant_C,warehouse,2025-06-25,WH-05,RET-018,Crisp Ridge Sea Salt Crisps 200g,91,209.01,€,CS
+ship-Tenant_C-202506-0019,Tenant_C,warehouse,2025-06-27,WH-04,RET-019,Chocolate Grain Bites,35,70.31,€,CS
+ship-Tenant_C-202506-0020,Tenant_C,warehouse,2025-06-01,WH-04,RET-022,Northstar Barista Oat Multipack,155,668.48,€,EA
+ship-Tenant_C-202506-0021,Tenant_C,warehouse,2025-06-16,WH-01,RET-007,Soft Peak Daily Moisture Conditioner,26,121.49,EUR,CS
+ship-Tenant_C-202506-0022,Tenant_C,warehouse,2025-06-30,WH-01,RET-024,Northstar Barista Oat Multipack,27,116.45,EUR,EA
+ship-Tenant_C-202506-0023,Tenant_C,warehouse,2025-06-23,WH-03,RET-013,Soft Peak Moiture Shampoo,25,116.82,EUR,EA
+ship-Tenant_C-202506-0024,Tenant_C,warehouse,2025-06-19,WH-03,RET-005,Northstar Barista Oat Multipack,115,495.97,EUR,each
+ship-Tenant_C-202507-0001,Tenant_C,warehouse,not-a-date,WH-05,RET-009,Daily Moisture Conditioner,76,355.13,€,EA
+ship-Tenant_C-202507-0002,Tenant_C,warehouse,2025-07-06,WH-02,RET-024,,85,231.95,€,each
+ship-Tenant_C-202507-0003,Tenant_C,warehouse,2025-07-09,WH-04,RET-016,Crisp Ridge Sea Salt Potato Crisps,unknown,326.15,€,each
+ship-Tenant_C-202507-0004,Tenant_C,warehouse,2025-07-06,WH-01,RET-011,Green Basket Citrus Dish Soap 500ml,13,35.47,€,each
+ship-Tenant_C-202507-0005,Tenant_C,warehouse,2025-07-01,WH-04,RET-021,Soft Peak Daily Moisture Conditioner 400ml,18,84.11,EUR,EA
+ship-Tenant_C-202507-0006,Tenant_C,warehouse,2025-07-26,WH-02,RET-002,Soft Peak Daily Moisture Hair Conditioner,126,588.77,EUR,CASE
+ship-Tenant_C-202507-0007,Tenant_C,warehouse,2025-07-25,WH-03,RET-021,GB-LAUN-1.5,23,140.59,€,EA
+ship-Tenant_C-202507-0008,Tenant_C,warehouse,2025-07-19,WH-05,RET-021,Crisp Ridge Sea Salt Potato Crisps,59,135.51,€,CS
+ship-Tenant_C-202507-0009,Tenant_C,warehouse,2025-07-31,WH-03,RET-022,Crisp Ridge Chocolate Grain Bites,97,194.85,€,CASE
+ship-Tenant_C-202507-0010,Tenant_C,warehouse,2025-07-03,WH-03,RET-021,Green Basket Citrus Dishwashing Soap,123,335.64,€,each
+ship-Tenant_C-202507-0011,Tenant_C,warehouse,2025-07-22,WH-03,RET-006,Green Basket Plant Laundry Liquid,49,299.53,€,each
+ship-Tenant_C-202507-0012,Tenant_C,warehouse,2025-07-24,WH-03,RET-005,Soft Peak Moisture Conditioner,87,406.53,€,CASE
+ship-Tenant_C-202507-0013,Tenant_C,warehouse,2025-07-25,WH-04,RET-025,Soft Peak Daily Moisture Hair Shampoo,45,210.28,€,CASE
+ship-Tenant_C-202507-0014,Tenant_C,warehouse,2025-07-18,WH-03,RET-004,Northstar Oat Drink Original,122,306.56,EUR,EA
+ship-Tenant_C-202507-0015,Tenant_C,warehouse,2025-07-08,WH-01,RET-002,Soft Peak Moisture Shampoo,25,116.82,€,CASE
+ship-Tenant_C-202507-0016,Tenant_C,warehouse,2025-07-24,WH-05,RET-007, chocolate grain snack bites ,86,172.76,€,EA
+ship-Tenant_C-202507-0017,Tenant_C,warehouse,2025-07-26,WH-02,RET-011,Oat Drink Original,64,160.82,€,CS
+ship-Tenant_C-202507-0018,Tenant_C,warehouse,2025-07-13,WH-03,RET-001, oat drink original ,141,354.30,€,CS
+ship-Tenant_C-202507-0019,Tenant_C,warehouse,2025-07-03,WH-05,RET-015, citrus dishwashing liquid ,32,87.32,EUR,each
+ship-Tenant_C-202507-0020,Tenant_C,warehouse,2025-07-19,WH-01,RET-013,Chocolate Grain Snack Bites,120,241.06,€,CASE
+ship-Tenant_C-202507-0021,Tenant_C,warehouse,2025-07-25,WH-05,RET-012,Crisp Ridge Chocolate Grain Bites,61,122.54,€,each
+ship-Tenant_C-202507-0022,Tenant_C,warehouse,2025-07-11,WH-02,RET-014,Oat Drink Original,87,218.61,€,CASE
+ship-Tenant_C-202507-0023,Tenant_C,warehouse,2025-07-24,WH-04,RET-007,Soft Peak Daily Moiture Hair Shampoo,122,570.08,EUR,each
+ship-Tenant_C-202507-0024,Tenant_C,warehouse,2025-07-16,WH-02,RET-003,Northstar Barista Oat Multipack,58,250.14,€,CASE
+ship-Tenant_C-202508-0001,Tenant_C,warehouse,not-a-date,WH-02,RET-023,Soft Peak Daily Moisture Shampoo 400ml,86,401.86,€,EA
+ship-Tenant_C-202508-0002,Tenant_C,warehouse,2025-08-19,WH-04,RET-025,,45,122.80,EUR,EA
+ship-Tenant_C-202508-0003,Tenant_C,warehouse,2025-08-17,WH-02,RET-001,Daily Moisture Shampoo,unknown,177.57,EUR,CS
+ship-Tenant_C-202508-0004,Tenant_C,warehouse,2025-08-24,WH-05,RET-024, northstar oat drink original ,106,266.36,EUR,each
+ship-Tenant_C-202508-0005,Tenant_C,warehouse,2025-08-14,WH-03,RET-016,NS-OAT-6X250,10,43.13,€,CS
+ship-Tenant_C-202508-0006,Tenant_C,warehouse,2025-08-05,WH-01,RET-024,Soft Peak Moisture Conditioner,67,313.08,EUR,EA
+ship-Tenant_C-202508-0007,Tenant_C,warehouse,2025-08-23,WH-05,RET-009,Plant Laundry Liquid,142,868.02,€,each
+ship-Tenant_C-202508-0008,Tenant_C,warehouse,2025-08-06,WH-04,RET-011, soft peak moisture shampoo ,51,238.31,EUR,EA
+ship-Tenant_C-202508-0009,Tenant_C,warehouse,2025-08-04,WH-02,RET-009,Crisp Ridge Sea Salt Crisps 200g,96,220.49,€,CASE
+ship-Tenant_C-202508-0010,Tenant_C,warehouse,2025-08-14,WH-04,RET-004,Green Basket Citrus Dishwashing Soap,68,185.56,EUR,EA
+ship-Tenant_C-202508-0011,Tenant_C,warehouse,2025-08-28,WH-02,RET-025,Soft Peak Daily Moisture Hair Shampoo,46,214.95,EUR,EA
+ship-Tenant_C-202508-0012,Tenant_C,warehouse,2025-08-17,WH-05,RET-008,Green Basket Citrus Dishwashing Soap,52,141.90,EUR,each
+ship-Tenant_C-202508-0013,Tenant_C,warehouse,2025-08-29,WH-01,RET-003,Green Basket Plant Laundry Liquid 1.5L,86,525.70,€,CASE
+ship-Tenant_C-202508-0014,Tenant_C,warehouse,2025-08-26,WH-04,RET-019,Chocolate Grain Bites,117,235.03,EUR,each
+ship-Tenant_C-202508-0015,Tenant_C,warehouse,2025-08-05,WH-03,RET-001,Barista Oat Drink 6 Pack,80,345.02,EUR,EA
+ship-Tenant_C-202508-0016,Tenant_C,warehouse,2025-08-20,WH-03,RET-002,Soft Peak Daily Moisture Conditioner,97,453.26,€,CS
+ship-Tenant_C-202508-0017,Tenant_C,warehouse,2025-08-25,WH-05,RET-020,Chocolate Grain Snack Bites,32,64.28,€,CASE
+ship-Tenant_C-202508-0018,Tenant_C,warehouse,2025-08-29,WH-03,RET-012,Northstar Oat Drink Barista Multipack,117,504.60,€,EA
+ship-Tenant_C-202508-0019,Tenant_C,warehouse,2025-08-27,WH-05,RET-017,Soft Peak Moisture Shampoo,106,495.32,€,CS
+ship-Tenant_C-202508-0020,Tenant_C,warehouse,2025-08-20,WH-04,RET-019,Crisp Ridge Sea Salt Crisps,122,280.21,€,EA
+ship-Tenant_C-202508-0021,Tenant_C,warehouse,2025-08-10,WH-03,RET-012,CR-CHOC-150,101,202.89,€,each
+ship-Tenant_C-202508-0022,Tenant_C,warehouse,2025-08-11,WH-03,RET-012,Crisp Ridge Sea Salt Potato Crisps,32,73.50,€,each
+ship-Tenant_C-202508-0023,Tenant_C,warehouse,2025-08-28,WH-02,RET-006,Soft Peak Daily Moistre Hair Conditioner,102,476.63,€,CASE
+ship-Tenant_C-202508-0024,Tenant_C,warehouse,2025-08-03,WH-03,RET-005,Chocolate Grain Snack Bites,113,226.99,EUR,CASE
+ship-Tenant_C-202509-0001,Tenant_C,warehouse,not-a-date,WH-03,RET-001,Green Basket Plant Based Laundry Detergent,49,299.53,€,CS
+ship-Tenant_C-202509-0002,Tenant_C,warehouse,2025-09-01,WH-05,RET-007,,151,346.82,€,CS
+ship-Tenant_C-202509-0003,Tenant_C,warehouse,2025-09-26,WH-03,RET-018,Green Basket Laundry Liquid,unknown,427.90,€,CASE
+ship-Tenant_C-202509-0004,Tenant_C,warehouse,2025-09-20,WH-02,RET-015,Soft Peak Daily Moisture Hair Conditioner,151,705.59,EUR,CASE
+ship-Tenant_C-202509-0005,Tenant_C,warehouse,2025-09-18,WH-02,RET-003,SP-SHAM-400,132,616.81,€,CASE
+ship-Tenant_C-202509-0006,Tenant_C,warehouse,2025-09-18,WH-04,RET-005,Crisp Ridge Chocolate Grain Bites 150g,140,281.23,€,CASE
+ship-Tenant_C-202509-0007,Tenant_C,warehouse,2025-09-07,WH-04,RET-024,Northstar Barista Oat Multipack,17,73.32,EUR,EA
+ship-Tenant_C-202509-0008,Tenant_C,warehouse,2025-09-06,WH-03,RET-016,Soft Peak Moisture Shampoo,120,560.74,EUR,EA
+ship-Tenant_C-202509-0009,Tenant_C,warehouse,2025-09-20,WH-01,RET-006,SP COND 400,105,490.64,EUR,EA
+ship-Tenant_C-202509-0010,Tenant_C,warehouse,2025-09-20,WH-01,RET-022,GB-DISH-500,98,267.42,€,each
+ship-Tenant_C-202509-0011,Tenant_C,warehouse,2025-09-18,WH-02,RET-019, crisp ridge chocolate grain bites 150g ,99,198.87,EUR,each
+ship-Tenant_C-202509-0012,Tenant_C,warehouse,2025-09-03,WH-04,RET-007,Soft Peak Daily Moisture Shampoo 400ml,71,331.77,€,CS
+ship-Tenant_C-202509-0013,Tenant_C,warehouse,2025-09-19,WH-02,RET-015,Barista Oat Drink 6 Pack,92,396.78,€,each
+ship-Tenant_C-202509-0014,Tenant_C,warehouse,2025-09-20,WH-05,RET-002, northstar oat drink original 1l ,24,60.31,€,each
+ship-Tenant_C-202509-0015,Tenant_C,warehouse,2025-09-10,WH-04,RET-024, citrus dishwashing liquid ,23,62.76,€,each
+ship-Tenant_C-202509-0016,Tenant_C,warehouse,2025-09-07,WH-01,RET-013,Chocolate Grain Bites,13,26.11,€,each
+ship-Tenant_C-202509-0017,Tenant_C,warehouse,2025-09-02,WH-04,RET-022,Daily Moisture Shampoo,76,355.13,EUR,CASE
+ship-Tenant_C-202509-0018,Tenant_C,warehouse,2025-09-27,WH-04,RET-002,Northstar Oat Drink Original 1L,12,30.15,EUR,CS
+ship-Tenant_C-202509-0019,Tenant_C,warehouse,2025-09-24,WH-03,RET-010, sp-cond-400 ,147,686.90,€,CASE
+ship-Tenant_C-202509-0020,Tenant_C,warehouse,2025-09-16,WH-04,RET-006, daily moisture conditioner ,19,88.78,€,EA
+ship-Tenant_C-202509-0021,Tenant_C,warehouse,2025-09-30,WH-01,RET-005,Crisp Ridge Chocolate Grain Bites 150g,155,311.36,EUR,CASE
+ship-Tenant_C-202509-0022,Tenant_C,warehouse,2025-09-08,WH-01,RET-015,Daily Moisture Shampoo,122,570.08,EUR,EA
+ship-Tenant_C-202509-0023,Tenant_C,warehouse,2025-09-17,WH-03,RET-002, green basket citru dishwashing soap ,92,251.05,EUR,each
+ship-Tenant_C-202509-0024,Tenant_C,warehouse,2025-09-18,WH-03,RET-022,Northstar Barista Oat Multipack,108,465.78,EUR,CS
+ship-Tenant_C-202510-0001,Tenant_C,warehouse,not-a-date,WH-04,RET-009,Soft Peak Daily Moisture Conditioner 400ml,54,252.33,€,each
+ship-Tenant_C-202510-0002,Tenant_C,warehouse,2025-10-08,WH-04,RET-014,,113,528.03,€,CS
+ship-Tenant_C-202510-0003,Tenant_C,warehouse,2025-10-07,WH-05,RET-012,Citrus Dishwashing Liquid,unknown,161.00,EUR,CS
+ship-Tenant_C-202510-0004,Tenant_C,warehouse,2025-10-15,WH-02,RET-011,Daily Moisture Shampoo,61,285.04,€,each
+ship-Tenant_C-202510-0005,Tenant_C,warehouse,2025-10-24,WH-02,RET-014,Crisp Ridge Sea Salt Crisps 200g,60,137.81,EUR,CASE
+ship-Tenant_C-202510-0006,Tenant_C,warehouse,2025-10-01,WH-03,RET-007, oat original northstar ,90,226.15,EUR,each
+ship-Tenant_C-202510-0007,Tenant_C,warehouse,2025-10-26,WH-05,RET-020, citrus dishwashing liquid ,40,109.15,EUR,CS
+ship-Tenant_C-202510-0008,Tenant_C,warehouse,2025-10-29,WH-01,RET-019, crisp ridge chocolate grain bites 150g ,53,106.47,€,CASE
+ship-Tenant_C-202510-0009,Tenant_C,warehouse,2025-10-03,WH-02,RET-004,Green Basket Citrus Dish Soap,110,300.17,EUR,each
+ship-Tenant_C-202510-0010,Tenant_C,warehouse,2025-10-06,WH-05,RET-001,SP-COND-400,81,378.50,€,CS
+ship-Tenant_C-202510-0011,Tenant_C,warehouse,2025-10-25,WH-01,RET-005,Soft Peak Daily Moisture Conditioner 400ml,151,705.59,€,EA
+ship-Tenant_C-202510-0012,Tenant_C,warehouse,2025-10-13,WH-03,RET-005,SP-SHAM-400,114,532.70,€,CASE
+ship-Tenant_C-202510-0013,Tenant_C,warehouse,2025-10-11,WH-01,RET-006, soft peak moisture conditioner ,72,336.44,EUR,CASE
+ship-Tenant_C-202510-0014,Tenant_C,warehouse,2025-10-20,WH-03,RET-022,Oat Original Northstar,127,319.13,EUR,EA
+ship-Tenant_C-202510-0015,Tenant_C,warehouse,2025-10-26,WH-04,RET-011,Barista Oat Drink 6 Pack,30,129.38,EUR,each
+ship-Tenant_C-202510-0016,Tenant_C,warehouse,2025-10-02,WH-02,RET-007,Green Basket Laundry Liquid,30,183.38,€,CASE
+ship-Tenant_C-202510-0017,Tenant_C,warehouse,2025-10-08,WH-05,RET-021, oat drink barista multipack ,115,495.97,EUR,CASE
+ship-Tenant_C-202510-0018,Tenant_C,warehouse,2025-10-03,WH-01,RET-022,Green Basket Plant Laundry Liquid,120,733.54,€,CS
+ship-Tenant_C-202510-0019,Tenant_C,warehouse,2025-10-24,WH-03,RET-018,Green Basket Laundry Liquid,135,825.23,€,each
+ship-Tenant_C-202510-0020,Tenant_C,warehouse,2025-10-13,WH-04,RET-014,Soft Peak Daily Moisture Conditioner,46,214.95,€,EA
+ship-Tenant_C-202510-0021,Tenant_C,warehouse,2025-10-06,WH-01,RET-013,Northstar Oat Drink Original 1L,34,85.44,EUR,CS
+ship-Tenant_C-202510-0022,Tenant_C,warehouse,2025-10-20,WH-01,RET-012,Green Basket Plant Based Laundry Detergent,134,819.12,€,EA
+ship-Tenant_C-202510-0023,Tenant_C,warehouse,2025-10-10,WH-05,RET-004,Soft Peak Daily Moistre Hair Conditioner,119,556.06,EUR,each
+ship-Tenant_C-202510-0024,Tenant_C,warehouse,2025-10-08,WH-03,RET-018, soft peak daily moisture hair conditioner ,131,612.14,EUR,CASE
+ship-Tenant_C-202511-0001,Tenant_C,warehouse,not-a-date,WH-03,RET-017,Sea Salt Ridge Crisps,14,32.16,EUR,EA
+ship-Tenant_C-202511-0002,Tenant_C,warehouse,2025-11-26,WH-04,RET-008,,25,152.82,€,each
+ship-Tenant_C-202511-0003,Tenant_C,warehouse,2025-11-18,WH-03,RET-024,Green Basket Citrus Dish Soap 500ml,unknown,109.15,EUR,EA
+ship-Tenant_C-202511-0004,Tenant_C,warehouse,2025-11-10,WH-01,RET-021,Soft Peak Daily Moisture Shampoo 400ml,16,74.76,€,CS
+ship-Tenant_C-202511-0005,Tenant_C,warehouse,2025-11-11,WH-05,RET-015, soft peak daily moisture hair shampoo ,60,280.37,EUR,CASE
+ship-Tenant_C-202511-0006,Tenant_C,warehouse,2025-11-27,WH-03,RET-013,Green Basket Citrus Dishwashing Soap,121,330.18,€,each
+ship-Tenant_C-202511-0007,Tenant_C,warehouse,2025-11-05,WH-01,RET-017, northstar original oat beverage ,48,120.61,€,each
+ship-Tenant_C-202511-0008,Tenant_C,warehouse,2025-11-18,WH-02,RET-018,Soft Peak Daily Moisture Shampoo,111,518.68,EUR,EA
+ship-Tenant_C-202511-0009,Tenant_C,warehouse,2025-11-21,WH-02,RET-005,Oat Original Northstar,66,165.84,EUR,each
+ship-Tenant_C-202511-0010,Tenant_C,warehouse,2025-11-14,WH-02,RET-008, green basket plant laundry liquid 1.5l ,19,116.14,EUR,CS
+ship-Tenant_C-202511-0011,Tenant_C,warehouse,2025-11-24,WH-04,RET-006,Sea Salt Crisps,140,321.55,€,each
+ship-Tenant_C-202511-0012,Tenant_C,warehouse,2025-11-20,WH-04,RET-004,Barista Oat Drink 6 Pack,20,86.26,€,each
+ship-Tenant_C-202511-0013,Tenant_C,warehouse,2025-11-08,WH-01,RET-007,Green Basket Plant Laundry Liquid,89,544.04,€,each
+ship-Tenant_C-202511-0014,Tenant_C,warehouse,2025-11-16,WH-01,RET-001,Soft Peak Daily Moisture Hair Shampoo,37,172.89,€,EA
+ship-Tenant_C-202511-0015,Tenant_C,warehouse,2025-11-07,WH-04,RET-021, cr-choc-150 ,81,162.71,€,EA
+ship-Tenant_C-202511-0016,Tenant_C,warehouse,2025-11-22,WH-01,RET-024, daily moisture conditioner ,38,177.57,EUR,each
+ship-Tenant_C-202511-0017,Tenant_C,warehouse,2025-11-03,WH-04,RET-014,SP-COND-400,19,88.78,€,CS
+ship-Tenant_C-202511-0018,Tenant_C,warehouse,2025-11-01,WH-01,RET-021,Green Basket Laundry Liquid,124,757.99,€,EA
+ship-Tenant_C-202511-0019,Tenant_C,warehouse,2025-11-15,WH-05,RET-018,Northstar Oat Drink Original,105,263.84,€,each
+ship-Tenant_C-202511-0020,Tenant_C,warehouse,2025-11-22,WH-04,RET-003,Soft Peak Daily Moisture Conditioner,102,476.63,€,CASE
+ship-Tenant_C-202511-0021,Tenant_C,warehouse,2025-11-05,WH-02,RET-023,Green Basket Citrus Dishwashing Soap,45,122.80,€,CS
+ship-Tenant_C-202511-0022,Tenant_C,warehouse,2025-11-22,WH-04,RET-004, northstar barista oat multipack ,95,409.72,EUR,CASE
+ship-Tenant_C-202511-0023,Tenant_C,warehouse,2025-11-08,WH-05,RET-004,Citrus Dishwshing Liquid,10,27.29,€,CS
+ship-Tenant_C-202511-0024,Tenant_C,warehouse,2025-11-01,WH-01,RET-003,Crisp Ridge Sea Salt Potato Crisps,57,130.92,EUR,CASE
+ship-Tenant_C-202512-0001,Tenant_C,warehouse,not-a-date,WH-04,RET-002,Green Basket Plant Laundry Liquid,20,122.26,€,CS
+ship-Tenant_C-202512-0002,Tenant_C,warehouse,2025-12-12,WH-01,RET-016,,134,577.92,€,CASE
+ship-Tenant_C-202512-0003,Tenant_C,warehouse,2025-12-11,WH-01,RET-001,Citrus Dish Soap,unknown,313.81,€,each
+ship-Tenant_C-202512-0004,Tenant_C,warehouse,2025-12-26,WH-04,RET-006,Crisp Ridge Chocolate Grain Bites 150g,142,285.25,EUR,CS
+ship-Tenant_C-202512-0005,Tenant_C,warehouse,2025-12-01,WH-03,RET-006, cr-choc-150 ,21,42.18,€,each
+ship-Tenant_C-202512-0006,Tenant_C,warehouse,2025-12-06,WH-04,RET-016,Soft Peak Moisture Conditioner,16,74.76,EUR,CASE
+ship-Tenant_C-202512-0007,Tenant_C,warehouse,2025-12-18,WH-03,RET-016,Northstar Oat Drink Barista Multipack 6x250ml,77,332.09,€,CS
+ship-Tenant_C-202512-0008,Tenant_C,warehouse,2025-12-18,WH-02,RET-019, chocolate grain snack bites ,27,54.24,€,CS
+ship-Tenant_C-202512-0009,Tenant_C,warehouse,2025-12-01,WH-01,RET-010,SP-SHAM-400,145,677.56,EUR,each
+ship-Tenant_C-202512-0010,Tenant_C,warehouse,2025-12-21,WH-01,RET-016, daily moisture conditioner ,47,219.62,EUR,EA
+ship-Tenant_C-202512-0011,Tenant_C,warehouse,2025-12-28,WH-04,RET-015, green basket plant laundry liquid 1.5l ,105,641.84,€,each
+ship-Tenant_C-202512-0012,Tenant_C,warehouse,2025-12-25,WH-01,RET-018,Chocolate Grain Bites,116,233.02,EUR,EA
+ship-Tenant_C-202512-0013,Tenant_C,warehouse,2025-12-30,WH-03,RET-016,Soft Peak Daily Moisture Shampoo,93,434.57,€,CS
+ship-Tenant_C-202512-0014,Tenant_C,warehouse,2025-12-18,WH-05,RET-017,GB-DISH-500,83,226.49,EUR,each
+ship-Tenant_C-202512-0015,Tenant_C,warehouse,2025-12-14,WH-05,RET-005,Plant Laundry Liquid,58,354.54,€,CASE
+ship-Tenant_C-202512-0016,Tenant_C,warehouse,2025-12-24,WH-02,RET-021,Soft Peak Daily Moisture Hair Conditioner,96,448.59,€,CS
+ship-Tenant_C-202512-0017,Tenant_C,warehouse,2025-12-04,WH-02,RET-009,Citrus Dish Soap,27,73.68,€,CS
+ship-Tenant_C-202512-0018,Tenant_C,warehouse,2025-12-16,WH-01,RET-005,GB-LAUN-1.5,90,550.15,EUR,each
+ship-Tenant_C-202512-0019,Tenant_C,warehouse,2025-12-26,WH-05,RET-002,GB-LAUN-1.5,20,122.26,EUR,EA
+ship-Tenant_C-202512-0020,Tenant_C,warehouse,2025-12-09,WH-05,RET-011,Sea Salt Crisps,151,346.82,€,each
+ship-Tenant_C-202512-0021,Tenant_C,warehouse,2025-12-14,WH-02,RET-008, green basket plant laundry liquid 1.5l ,52,317.87,EUR,CASE
+ship-Tenant_C-202512-0022,Tenant_C,warehouse,2025-12-23,WH-05,RET-025, sea salt crisps ,108,248.05,€,CS
+ship-Tenant_C-202512-0023,Tenant_C,warehouse,2025-12-13,WH-01,RET-020, citrus dishwshing liquid ,46,125.52,€,CS
+ship-Tenant_C-202512-0024,Tenant_C,warehouse,2025-12-13,WH-04,RET-023,Green Basket Plant Based Laundry Detergent,26,158.93,€,EA

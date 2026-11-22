@@ -1,0 +1,865 @@
+record_id,tenant_id,source_system,provider,market,period,product_code,market_units,market_sales,currency,unit_of_measure
+synd-Tenant_A-202501-0001,Tenant_A,syndicated,PanelOne,US,2025-01,NS-OAT-6X250,2398,14364.02,$,cases
+synd-Tenant_A-202501-0002,Tenant_A,syndicated,MarketScope,US,2025-01,,1508,9786.92,USD,units
+synd-Tenant_A-202501-0003,Tenant_A,syndicated,PanelOne,US,2025-01, soft peak daily moisture hair conditioner ,n/a,2764.74,$,units
+synd-Tenant_A-202501-0004,Tenant_A,syndicated,MarketScope,US,2025-01,Soft Peak Daily Moisture Shampoo,1654,10734.46,US$,cases
+synd-Tenant_A-202501-0005,Tenant_A,syndicated,PanelOne,US,2025-01,Sea Salt Ridge Crisps,1979,6313.01,USD,EA
+synd-Tenant_A-202501-0006,Tenant_A,syndicated,PanelOne,US,2025-01,Chocolate Grain Bites,726,2025.54,$,cases
+synd-Tenant_A-202501-0007,Tenant_A,syndicated,PanelOne,US,2025-01, soft peak daily moisture hair shampoo ,1880,12201.20,$,EA
+synd-Tenant_A-202501-0008,Tenant_A,syndicated,PanelOne,US,2025-01,Oat Original Northstar,2272,7929.28,USD,cases
+synd-Tenant_A-202501-0009,Tenant_A,syndicated,PanelOne,US,2025-01, green basket citrus dish soap 500ml ,615,2330.85,US$,cases
+synd-Tenant_A-202501-0010,Tenant_A,syndicated,PanelOne,US,2025-01, soft peak daily moisture hair conditioner ,1115,7236.35,US$,units
+synd-Tenant_A-202501-0011,Tenant_A,syndicated,PanelOne,US,2025-01,GB-DISH-500,977,3702.83,USD,cases
+synd-Tenant_A-202501-0012,Tenant_A,syndicated,MarketScope,US,2025-01,Daily Moisture Conditioner,1749,11351.01,USD,units
+synd-Tenant_A-202501-0013,Tenant_A,syndicated,PanelOne,US,2025-01, sea salt crisps ,482,1537.58,USD,units
+synd-Tenant_A-202501-0014,Tenant_A,syndicated,MarketScope,US,2025-01,Soft Peak Daily Moisture Shampoo 400ml,2376,15420.24,USD,units
+synd-Tenant_A-202501-0015,Tenant_A,syndicated,PanelOne,US,2025-01,Crisp Ridge Sea Salt Crisps,380,1212.20,$,cases
+synd-Tenant_A-202501-0016,Tenant_A,syndicated,MarketScope,US,2025-01, crisp ridge sea salt crisps 200g ,1077,3435.63,$,EA
+synd-Tenant_A-202501-0017,Tenant_A,syndicated,PanelOne,US,2025-01,Chocolate Grain Snack Bites,381,1062.99,USD,EA
+synd-Tenant_A-202501-0018,Tenant_A,syndicated,PanelOne,US,2025-01,Plant Laundry Liquid,2366,20087.34,$,EA
+synd-Tenant_A-202501-0019,Tenant_A,syndicated,MarketScope,US,2025-01,Green Basket Plant Based Laundry Detergent,635,5391.15,$,units
+synd-Tenant_A-202501-0020,Tenant_A,syndicated,MarketScope,US,2025-01,Soft Peak Daily Moisture Hair Conditioner,263,1706.87,USD,units
+synd-Tenant_A-202501-0021,Tenant_A,syndicated,PanelOne,US,2025-01, sea salt ridge crisps ,1786,5697.34,US$,EA
+synd-Tenant_A-202501-0022,Tenant_A,syndicated,PanelOne,US,2025-01, chocolate grain snack bites ,1241,3462.39,US$,EA
+synd-Tenant_A-202501-0023,Tenant_A,syndicated,MarketScope,US,2025-01,Citrus Dishwshing Liquid,1384,5245.36,USD,cases
+synd-Tenant_A-202501-0024,Tenant_A,syndicated,MarketScope,US,2025-01,Barista Oat Drink 6 Pack,610,3653.90,$,cases
+synd-Tenant_A-202502-0001,Tenant_A,syndicated,MarketScope,US,2025-02,Green Basket Laundry Liquid,960,8150.40,$,cases
+synd-Tenant_A-202502-0002,Tenant_A,syndicated,PanelOne,US,2025-02,,1371,5196.09,US$,units
+synd-Tenant_A-202502-0003,Tenant_A,syndicated,PanelOne,US,2025-02, cr-choc-150 ,n/a,340.38,USD,EA
+synd-Tenant_A-202502-0004,Tenant_A,syndicated,MarketScope,US,2025-02,Sea Salt Crisps,2167,6912.73,USD,cases
+synd-Tenant_A-202502-0005,Tenant_A,syndicated,MarketScope,US,2025-02,Daily Moisture Conditioner,1475,9572.75,USD,cases
+synd-Tenant_A-202502-0006,Tenant_A,syndicated,PanelOne,US,2025-02, oat drink barista multipack ,1695,10153.05,$,cases
+synd-Tenant_A-202502-0007,Tenant_A,syndicated,MarketScope,US,2025-02, soft peak daily moisture shampoo 400ml ,1692,10981.08,US$,cases
+synd-Tenant_A-202502-0008,Tenant_A,syndicated,MarketScope,US,2025-02, soft peak moisture shampoo ,1165,7560.85,$,EA
+synd-Tenant_A-202502-0009,Tenant_A,syndicated,PanelOne,US,2025-02,Crisp Ridge Sea Salt Crisps 200g,264,842.16,US$,units
+synd-Tenant_A-202502-0010,Tenant_A,syndicated,PanelOne,US,2025-02,CR-SALT-200,569,1815.11,$,EA
+synd-Tenant_A-202502-0011,Tenant_A,syndicated,PanelOne,US,2025-02, northstar barista oat multipack ,2418,14483.82,US$,EA
+synd-Tenant_A-202502-0012,Tenant_A,syndicated,MarketScope,US,2025-02,Soft Peak Moisture Shampoo,2237,14518.13,USD,cases
+synd-Tenant_A-202502-0013,Tenant_A,syndicated,MarketScope,US,2025-02,Soft Peak Daily Moisture Conditioner 400ml,217,1408.33,US$,EA
+synd-Tenant_A-202502-0014,Tenant_A,syndicated,MarketScope,US,2025-02,Crisp Ridge Chocolate Grain Bites 150g,1084,3024.36,US$,cases
+synd-Tenant_A-202502-0015,Tenant_A,syndicated,MarketScope,US,2025-02,Soft Peak Daily Moisture Conditioner 400ml,1958,12707.42,US$,EA
+synd-Tenant_A-202502-0016,Tenant_A,syndicated,PanelOne,US,2025-02, plant laundry liquid ,1578,13397.22,$,EA
+synd-Tenant_A-202502-0017,Tenant_A,syndicated,MarketScope,US,2025-02,Oat Original Northstar,310,1081.90,$,EA
+synd-Tenant_A-202502-0018,Tenant_A,syndicated,MarketScope,US,2025-02,NS OAT 6X250,1024,6133.76,$,EA
+synd-Tenant_A-202502-0019,Tenant_A,syndicated,PanelOne,US,2025-02,Soft Peak Daily Moisture Conditioner,811,5263.39,$,units
+synd-Tenant_A-202502-0020,Tenant_A,syndicated,MarketScope,US,2025-02,Northstar Oat Drink Original 1L,910,3175.90,USD,units
+synd-Tenant_A-202502-0021,Tenant_A,syndicated,MarketScope,US,2025-02, sea salt ridge crisps ,1215,3875.85,USD,EA
+synd-Tenant_A-202502-0022,Tenant_A,syndicated,MarketScope,US,2025-02, northstar barista oat multipack ,817,4893.83,$,cases
+synd-Tenant_A-202502-0023,Tenant_A,syndicated,MarketScope,US,2025-02, soft peak moistre conditioner ,2129,13817.21,US$,cases
+synd-Tenant_A-202502-0024,Tenant_A,syndicated,MarketScope,US,2025-02,Soft Peak Daily Moisture Hair Shampoo,2141,13895.09,USD,units
+synd-Tenant_A-202503-0001,Tenant_A,syndicated,MarketScope,US,2025-03,Crisp Ridge Sea Salt Crisps,564,1799.16,$,units
+synd-Tenant_A-202503-0002,Tenant_A,syndicated,PanelOne,US,2025-03,,659,1838.61,US$,EA
+synd-Tenant_A-202503-0003,Tenant_A,syndicated,MarketScope,US,2025-03,Soft Peak Daily Moisture Shampoo,n/a,15089.25,USD,EA
+synd-Tenant_A-202503-0004,Tenant_A,syndicated,PanelOne,US,2025-03,Citrus Dish Soap,1459,5529.61,USD,EA
+synd-Tenant_A-202503-0005,Tenant_A,syndicated,MarketScope,US,2025-03,Northstar Barista Oat Multipack,2285,13687.15,US$,EA
+synd-Tenant_A-202503-0006,Tenant_A,syndicated,PanelOne,US,2025-03, soft peak daily moisture hair conditioner ,218,1414.82,$,EA
+synd-Tenant_A-202503-0007,Tenant_A,syndicated,MarketScope,US,2025-03,Northstar Oat Drink Original,1086,3790.14,$,cases
+synd-Tenant_A-202503-0008,Tenant_A,syndicated,MarketScope,US,2025-03,Chocolate Grain Bites,1837,5125.23,$,EA
+synd-Tenant_A-202503-0009,Tenant_A,syndicated,PanelOne,US,2025-03,Plant Laundry Liquid,133,1129.17,USD,cases
+synd-Tenant_A-202503-0010,Tenant_A,syndicated,PanelOne,US,2025-03,Soft Peak Daily Moisture Conditioner,1905,12363.45,US$,cases
+synd-Tenant_A-202503-0011,Tenant_A,syndicated,MarketScope,US,2025-03, citrus dishwashing liquid ,2073,7856.67,$,cases
+synd-Tenant_A-202503-0012,Tenant_A,syndicated,MarketScope,US,2025-03,GB DISH 500,1173,4445.67,USD,cases
+synd-Tenant_A-202503-0013,Tenant_A,syndicated,MarketScope,US,2025-03,GB-DISH-500,252,955.08,$,EA
+synd-Tenant_A-202503-0014,Tenant_A,syndicated,PanelOne,US,2025-03,NS-OAT-6X250,1245,7457.55,US$,cases
+synd-Tenant_A-202503-0015,Tenant_A,syndicated,PanelOne,US,2025-03,Citrus Dish Soap,968,3668.72,US$,units
+synd-Tenant_A-202503-0016,Tenant_A,syndicated,PanelOne,US,2025-03,Citrus Dish Soap,692,2622.68,USD,cases
+synd-Tenant_A-202503-0017,Tenant_A,syndicated,PanelOne,US,2025-03, plant laundry liquid ,565,4796.85,USD,EA
+synd-Tenant_A-202503-0018,Tenant_A,syndicated,MarketScope,US,2025-03,Soft Peak Daily Moisture Conditioner,542,3517.58,USD,cases
+synd-Tenant_A-202503-0019,Tenant_A,syndicated,MarketScope,US,2025-03,SP-COND-400,2170,14083.30,USD,units
+synd-Tenant_A-202503-0020,Tenant_A,syndicated,MarketScope,US,2025-03,Barista Oat Drink 6 Pack,1380,8266.20,USD,EA
+synd-Tenant_A-202503-0021,Tenant_A,syndicated,MarketScope,US,2025-03,Chocolate Grain Snack Bites,600,1674.00,USD,EA
+synd-Tenant_A-202503-0022,Tenant_A,syndicated,MarketScope,US,2025-03, soft peak moisture shampoo ,2378,15433.22,US$,units
+synd-Tenant_A-202503-0023,Tenant_A,syndicated,PanelOne,US,2025-03,Green Basket Plant Baed Laundry Detergent,1537,13049.13,$,units
+synd-Tenant_A-202503-0024,Tenant_A,syndicated,PanelOne,US,2025-03, chocolate grain snack bites ,2424,6762.96,USD,units
+synd-Tenant_A-202504-0001,Tenant_A,syndicated,MarketScope,US,2025-04,Chocolate Grain Bites,554,1545.66,US$,cases
+synd-Tenant_A-202504-0002,Tenant_A,syndicated,MarketScope,US,2025-04,,131,850.19,$,cases
+synd-Tenant_A-202504-0003,Tenant_A,syndicated,MarketScope,US,2025-04, daily moisture shampoo ,n/a,15887.52,$,cases
+synd-Tenant_A-202504-0004,Tenant_A,syndicated,MarketScope,US,2025-04, soft peak daily moisture shampoo ,422,2738.78,USD,EA
+synd-Tenant_A-202504-0005,Tenant_A,syndicated,PanelOne,US,2025-04,Citrus Dish Soap,810,3069.90,$,cases
+synd-Tenant_A-202504-0006,Tenant_A,syndicated,MarketScope,US,2025-04,Oat Drink Barista Multipack,1340,8026.60,$,cases
+synd-Tenant_A-202504-0007,Tenant_A,syndicated,MarketScope,US,2025-04,Northstar Oat Drink Original,268,935.32,USD,cases
+synd-Tenant_A-202504-0008,Tenant_A,syndicated,PanelOne,US,2025-04,Crisp Ridge Sea Salt Crisps,1899,6057.81,US$,EA
+synd-Tenant_A-202504-0009,Tenant_A,syndicated,MarketScope,US,2025-04,Green Basket Citrus Dish Soap,715,2709.85,$,units
+synd-Tenant_A-202504-0010,Tenant_A,syndicated,PanelOne,US,2025-04,Crisp Ridge Chocolate Grain Bites,2256,6294.24,US$,cases
+synd-Tenant_A-202504-0011,Tenant_A,syndicated,PanelOne,US,2025-04,Soft Peak Daily Moisture Hair Shampoo,2310,14991.90,USD,cases
+synd-Tenant_A-202504-0012,Tenant_A,syndicated,MarketScope,US,2025-04, green basket citrus dishwashing soap ,1267,4801.93,USD,units
+synd-Tenant_A-202504-0013,Tenant_A,syndicated,PanelOne,US,2025-04,Crisp Ridge Sea Salt Crisps,917,2925.23,USD,EA
+synd-Tenant_A-202504-0014,Tenant_A,syndicated,PanelOne,US,2025-04,Oat Original Northstar,1891,6599.59,USD,units
+synd-Tenant_A-202504-0015,Tenant_A,syndicated,PanelOne,US,2025-04,Soft Peak Daily Moisture Conditioner,698,4530.02,$,units
+synd-Tenant_A-202504-0016,Tenant_A,syndicated,MarketScope,US,2025-04,Green Basket Plant Laundry Liquid 1.5L,2261,19195.89,US$,units
+synd-Tenant_A-202504-0017,Tenant_A,syndicated,MarketScope,US,2025-04,Plant Laundry Liquid,688,5841.12,$,EA
+synd-Tenant_A-202504-0018,Tenant_A,syndicated,MarketScope,US,2025-04,Northstar Original Oat Beverage,1684,5877.16,$,EA
+synd-Tenant_A-202504-0019,Tenant_A,syndicated,MarketScope,US,2025-04,Northstar Oat Drink Original,2003,6990.47,$,cases
+synd-Tenant_A-202504-0020,Tenant_A,syndicated,PanelOne,US,2025-04, chocolate grain bites ,249,694.71,USD,EA
+synd-Tenant_A-202504-0021,Tenant_A,syndicated,MarketScope,US,2025-04,GB-DISH-500,2226,8436.54,US$,units
+synd-Tenant_A-202504-0022,Tenant_A,syndicated,MarketScope,US,2025-04,SP-SHAM-400,782,5075.18,$,EA
+synd-Tenant_A-202504-0023,Tenant_A,syndicated,PanelOne,US,2025-04,Soft Peak Daily Moistre Hair Conditioner,1894,12292.06,US$,units
+synd-Tenant_A-202504-0024,Tenant_A,syndicated,MarketScope,US,2025-04,Northstar Barista Oat Multipack,1603,9601.97,$,EA
+synd-Tenant_A-202505-0001,Tenant_A,syndicated,MarketScope,US,2025-05,Plant Laundry Liquid,1269,10773.81,US$,units
+synd-Tenant_A-202505-0002,Tenant_A,syndicated,PanelOne,US,2025-05,,745,4462.55,$,EA
+synd-Tenant_A-202505-0003,Tenant_A,syndicated,MarketScope,US,2025-05,CR-SALT-200,n/a,5518.70,US$,cases
+synd-Tenant_A-202505-0004,Tenant_A,syndicated,PanelOne,US,2025-05,Soft Peak Daily Moisture Shampoo 400ml,326,2115.74,$,cases
+synd-Tenant_A-202505-0005,Tenant_A,syndicated,PanelOne,US,2025-05, crisp ridge chocolate grain bites ,482,1344.78,USD,cases
+synd-Tenant_A-202505-0006,Tenant_A,syndicated,MarketScope,US,2025-05,Chocolate Grain Bites,224,624.96,US$,cases
+synd-Tenant_A-202505-0007,Tenant_A,syndicated,MarketScope,US,2025-05,Green Basket Laundry Liquid,688,5841.12,$,cases
+synd-Tenant_A-202505-0008,Tenant_A,syndicated,PanelOne,US,2025-05,Citrus Dishwashing Liquid,496,1879.84,USD,EA
+synd-Tenant_A-202505-0009,Tenant_A,syndicated,MarketScope,US,2025-05,Soft Peak Daily Moisture Hair Shampoo,1363,8845.87,USD,units
+synd-Tenant_A-202505-0010,Tenant_A,syndicated,PanelOne,US,2025-05,Northstar Oat Drink Barista Multipack 6x250ml,1865,11171.35,$,EA
+synd-Tenant_A-202505-0011,Tenant_A,syndicated,PanelOne,US,2025-05,Green Basket Citrus Dish Soap 500ml,586,2220.94,$,units
+synd-Tenant_A-202505-0012,Tenant_A,syndicated,MarketScope,US,2025-05,Soft Peak Daily Moisture Shampoo,2040,13239.60,US$,units
+synd-Tenant_A-202505-0013,Tenant_A,syndicated,MarketScope,US,2025-05,Crisp Ridge Chocolate Grain Bites,168,468.72,$,EA
+synd-Tenant_A-202505-0014,Tenant_A,syndicated,MarketScope,US,2025-05,Northstar Oat Drink Barista Multipack 6x250ml,2247,13459.53,$,units
+synd-Tenant_A-202505-0015,Tenant_A,syndicated,PanelOne,US,2025-05,CR-SALT-200,2031,6478.89,USD,cases
+synd-Tenant_A-202505-0016,Tenant_A,syndicated,MarketScope,US,2025-05,Crisp Ridge Cocoa Grain Bites,1182,3297.78,US$,units
+synd-Tenant_A-202505-0017,Tenant_A,syndicated,MarketScope,US,2025-05,Crisp Ridge Sea Salt Crisps,599,1910.81,US$,EA
+synd-Tenant_A-202505-0018,Tenant_A,syndicated,PanelOne,US,2025-05,Citrus Dish Soap,1212,4593.48,USD,units
+synd-Tenant_A-202505-0019,Tenant_A,syndicated,PanelOne,US,2025-05, sea salt crisps ,2354,7509.26,$,EA
+synd-Tenant_A-202505-0020,Tenant_A,syndicated,MarketScope,US,2025-05,Soft Peak Daily Moisture Conditioner 400ml,248,1609.52,US$,EA
+synd-Tenant_A-202505-0021,Tenant_A,syndicated,MarketScope,US,2025-05,Chocolate Grain Snack Bites,649,1810.71,USD,EA
+synd-Tenant_A-202505-0022,Tenant_A,syndicated,MarketScope,US,2025-05,CR-SALT-200,1851,5904.69,US$,units
+synd-Tenant_A-202505-0023,Tenant_A,syndicated,MarketScope,US,2025-05, soft peak daily moiture hair shampoo ,146,947.54,USD,cases
+synd-Tenant_A-202505-0024,Tenant_A,syndicated,MarketScope,US,2025-05, green basket citrus dishwashing soap ,647,2452.13,USD,units
+synd-Tenant_A-202506-0001,Tenant_A,syndicated,PanelOne,US,2025-06,Soft Peak Moisture Conditioner,419,2719.31,$,units
+synd-Tenant_A-202506-0002,Tenant_A,syndicated,MarketScope,US,2025-06,,640,2041.60,$,EA
+synd-Tenant_A-202506-0003,Tenant_A,syndicated,PanelOne,US,2025-06,Northstar Original Oat Beverage,n/a,1207.54,USD,EA
+synd-Tenant_A-202506-0004,Tenant_A,syndicated,MarketScope,US,2025-06,Northstar Oat Drink Original,644,2247.56,$,units
+synd-Tenant_A-202506-0005,Tenant_A,syndicated,MarketScope,US,2025-06,Crisp Ridge Cocoa Grain Bites,735,2050.65,USD,units
+synd-Tenant_A-202506-0006,Tenant_A,syndicated,PanelOne,US,2025-06,NS-OAT-6X250,1102,6600.98,USD,EA
+synd-Tenant_A-202506-0007,Tenant_A,syndicated,PanelOne,US,2025-06,Daily Moisture Conditioner,2235,14505.15,USD,EA
+synd-Tenant_A-202506-0008,Tenant_A,syndicated,PanelOne,US,2025-06, green basket plant laundry liquid ,1772,15044.28,$,EA
+synd-Tenant_A-202506-0009,Tenant_A,syndicated,PanelOne,US,2025-06,Daily Moisture Shampoo,1144,7424.56,USD,EA
+synd-Tenant_A-202506-0010,Tenant_A,syndicated,PanelOne,US,2025-06,Northstar Oat Drink Barista Multipack 6x250ml,162,970.38,USD,units
+synd-Tenant_A-202506-0011,Tenant_A,syndicated,MarketScope,US,2025-06,Barista Oat Drink 6 Pack,1363,8164.37,$,EA
+synd-Tenant_A-202506-0012,Tenant_A,syndicated,MarketScope,US,2025-06, soft peak daily moisture conditioner 400ml ,2492,16173.08,US$,EA
+synd-Tenant_A-202506-0013,Tenant_A,syndicated,MarketScope,US,2025-06,Chocolate Grain Bites,789,2201.31,USD,units
+synd-Tenant_A-202506-0014,Tenant_A,syndicated,PanelOne,US,2025-06,Chocolate Grain Snack Bites,1047,2921.13,$,cases
+synd-Tenant_A-202506-0015,Tenant_A,syndicated,MarketScope,US,2025-06,CR-CHOC-150,2294,6400.26,$,units
+synd-Tenant_A-202506-0016,Tenant_A,syndicated,PanelOne,US,2025-06, daily moisture shampoo ,1096,7113.04,USD,EA
+synd-Tenant_A-202506-0017,Tenant_A,syndicated,MarketScope,US,2025-06,Barista Oat Drink 6 Pack,1877,11243.23,USD,cases
+synd-Tenant_A-202506-0018,Tenant_A,syndicated,PanelOne,US,2025-06,Northstar Barista Oat Multipack,1388,8314.12,$,units
+synd-Tenant_A-202506-0019,Tenant_A,syndicated,MarketScope,US,2025-06,Chocolate Grain Snack Bites,421,1174.59,USD,units
+synd-Tenant_A-202506-0020,Tenant_A,syndicated,PanelOne,US,2025-06,Northstar Oat Drink Barista Multipack 6x250ml,1868,11189.32,$,cases
+synd-Tenant_A-202506-0021,Tenant_A,syndicated,PanelOne,US,2025-06,SP-SHAM-400,474,3076.26,$,EA
+synd-Tenant_A-202506-0022,Tenant_A,syndicated,MarketScope,US,2025-06,Soft Peak Daily Moisture Conditioner,1428,9267.72,USD,units
+synd-Tenant_A-202506-0023,Tenant_A,syndicated,PanelOne,US,2025-06,Green Basket Lundry Liquid,359,3047.91,$,EA
+synd-Tenant_A-202506-0024,Tenant_A,syndicated,MarketScope,US,2025-06,Green Basket Laundry Liquid,1656,14059.44,US$,EA
+synd-Tenant_A-202507-0001,Tenant_A,syndicated,PanelOne,US,2025-07,Green Basket Citrus Dish Soap 500ml,2111,8000.69,USD,EA
+synd-Tenant_A-202507-0002,Tenant_A,syndicated,MarketScope,US,2025-07,,383,2485.67,$,cases
+synd-Tenant_A-202507-0003,Tenant_A,syndicated,PanelOne,US,2025-07,Daily Moisture Conditioner,n/a,11766.37,USD,EA
+synd-Tenant_A-202507-0004,Tenant_A,syndicated,PanelOne,US,2025-07,NS-OAT-6X250,1159,6942.41,USD,cases
+synd-Tenant_A-202507-0005,Tenant_A,syndicated,MarketScope,US,2025-07,Crisp Ridge Sea Salt Crisps 200g,680,2169.20,$,EA
+synd-Tenant_A-202507-0006,Tenant_A,syndicated,PanelOne,US,2025-07,Green Basket Citrus Dish Soap 500ml,1505,5703.95,US$,cases
+synd-Tenant_A-202507-0007,Tenant_A,syndicated,PanelOne,US,2025-07,Chocolate Grain Snack Bites,219,611.01,US$,EA
+synd-Tenant_A-202507-0008,Tenant_A,syndicated,MarketScope,US,2025-07, soft peak daily moisture shampoo 400ml ,2104,13654.96,$,cases
+synd-Tenant_A-202507-0009,Tenant_A,syndicated,PanelOne,US,2025-07,Soft Peak Daily Moisture Hair Shampoo,1350,8761.50,US$,units
+synd-Tenant_A-202507-0010,Tenant_A,syndicated,MarketScope,US,2025-07, citrus dishwashing liquid ,866,3282.14,USD,EA
+synd-Tenant_A-202507-0011,Tenant_A,syndicated,PanelOne,US,2025-07,Northstar Oat Drink Original,438,1528.62,US$,units
+synd-Tenant_A-202507-0012,Tenant_A,syndicated,PanelOne,US,2025-07,GB-LAUN-1.5,1602,13600.98,US$,cases
+synd-Tenant_A-202507-0013,Tenant_A,syndicated,PanelOne,US,2025-07,Soft Peak Daily Moisture Hair Conditioner,1070,6944.30,$,cases
+synd-Tenant_A-202507-0014,Tenant_A,syndicated,MarketScope,US,2025-07,Citrus Dishwashing Liquid,1298,4919.42,USD,cases
+synd-Tenant_A-202507-0015,Tenant_A,syndicated,MarketScope,US,2025-07,Green Basket Plant Based Laundry Detergent,1708,14500.92,USD,units
+synd-Tenant_A-202507-0016,Tenant_A,syndicated,MarketScope,US,2025-07,Green Basket Laundry Liquid,481,4083.69,USD,cases
+synd-Tenant_A-202507-0017,Tenant_A,syndicated,PanelOne,US,2025-07,GB-DISH-500,298,1129.42,US$,units
+synd-Tenant_A-202507-0018,Tenant_A,syndicated,PanelOne,US,2025-07, sp-cond-400 ,1623,10533.27,US$,units
+synd-Tenant_A-202507-0019,Tenant_A,syndicated,PanelOne,US,2025-07,Soft Peak Moisture Shampoo,1922,12473.78,US$,units
+synd-Tenant_A-202507-0020,Tenant_A,syndicated,PanelOne,US,2025-07,GB-DISH-500,645,2444.55,US$,units
+synd-Tenant_A-202507-0021,Tenant_A,syndicated,MarketScope,US,2025-07,Northstar Original Oat Beverage,1672,5835.28,USD,EA
+synd-Tenant_A-202507-0022,Tenant_A,syndicated,MarketScope,US,2025-07,Citrus Dish Soap,1704,6458.16,$,cases
+synd-Tenant_A-202507-0023,Tenant_A,syndicated,PanelOne,US,2025-07,Northstar Origial Oat Beverage,2337,8156.13,$,EA
+synd-Tenant_A-202507-0024,Tenant_A,syndicated,PanelOne,US,2025-07,Northstar Barista Oat Multipack,2297,13759.03,USD,EA
+synd-Tenant_A-202508-0001,Tenant_A,syndicated,MarketScope,US,2025-08, northstar oat drink barista multipack ,453,2713.47,USD,units
+synd-Tenant_A-202508-0002,Tenant_A,syndicated,PanelOne,US,2025-08,,1161,7534.89,$,EA
+synd-Tenant_A-202508-0003,Tenant_A,syndicated,MarketScope,US,2025-08,Chocolate Grain Snack Bites,n/a,5479.56,USD,units
+synd-Tenant_A-202508-0004,Tenant_A,syndicated,PanelOne,US,2025-08, soft peak daily moisture hair conditioner ,714,4633.86,USD,units
+synd-Tenant_A-202508-0005,Tenant_A,syndicated,MarketScope,US,2025-08,Daily Moisture Shampoo,288,1869.12,US$,units
+synd-Tenant_A-202508-0006,Tenant_A,syndicated,PanelOne,US,2025-08,Soft Peak Daily Moisture Conditioner,2120,13758.80,$,cases
+synd-Tenant_A-202508-0007,Tenant_A,syndicated,MarketScope,US,2025-08, sea salt crisps ,1819,5802.61,$,units
+synd-Tenant_A-202508-0008,Tenant_A,syndicated,PanelOne,US,2025-08,Chocolate Grain Snack Bites,2425,6765.75,$,EA
+synd-Tenant_A-202508-0009,Tenant_A,syndicated,PanelOne,US,2025-08,Chocolate Grain Bites,546,1523.34,US$,units
+synd-Tenant_A-202508-0010,Tenant_A,syndicated,PanelOne,US,2025-08,Crisp Ridge Chocolate Grain Bites 150g,265,739.35,US$,EA
+synd-Tenant_A-202508-0011,Tenant_A,syndicated,PanelOne,US,2025-08,CR-CHOC-150,1992,5557.68,$,units
+synd-Tenant_A-202508-0012,Tenant_A,syndicated,MarketScope,US,2025-08, ns-oat-6x250 ,909,5444.91,USD,units
+synd-Tenant_A-202508-0013,Tenant_A,syndicated,MarketScope,US,2025-08, northstar oat drink barista multipack ,866,5187.34,USD,EA
+synd-Tenant_A-202508-0014,Tenant_A,syndicated,PanelOne,US,2025-08, daily moisture conditioner ,2253,14621.97,$,cases
+synd-Tenant_A-202508-0015,Tenant_A,syndicated,PanelOne,US,2025-08,Northstar Oat Drink Original 1L,1250,4362.50,US$,EA
+synd-Tenant_A-202508-0016,Tenant_A,syndicated,PanelOne,US,2025-08,Green Basket Citrus Dishwashing Soap,811,3073.69,USD,units
+synd-Tenant_A-202508-0017,Tenant_A,syndicated,MarketScope,US,2025-08,Citrus Dishwashing Liquid,819,3104.01,$,units
+synd-Tenant_A-202508-0018,Tenant_A,syndicated,PanelOne,US,2025-08,NS-OAT-6X250,705,4222.95,US$,units
+synd-Tenant_A-202508-0019,Tenant_A,syndicated,MarketScope,US,2025-08,GB-DISH-500,813,3081.27,$,units
+synd-Tenant_A-202508-0020,Tenant_A,syndicated,PanelOne,US,2025-08,Crisp Ridge Chocolate Grain Bites 150g,1004,2801.16,USD,EA
+synd-Tenant_A-202508-0021,Tenant_A,syndicated,PanelOne,US,2025-08,Crisp Ridge Chocolate Grain Bites,1151,3211.29,USD,cases
+synd-Tenant_A-202508-0022,Tenant_A,syndicated,PanelOne,US,2025-08,NS-OAT-1L,1023,3570.27,US$,EA
+synd-Tenant_A-202508-0023,Tenant_A,syndicated,PanelOne,US,2025-08,Northstar Barisa Oat Multipack,2077,12441.23,USD,EA
+synd-Tenant_A-202508-0024,Tenant_A,syndicated,MarketScope,US,2025-08, chocolate grain snack bites ,2441,6810.39,USD,units
+synd-Tenant_A-202509-0001,Tenant_A,syndicated,PanelOne,US,2025-09, northstar oat drink original ,2039,7116.11,$,EA
+synd-Tenant_A-202509-0002,Tenant_A,syndicated,PanelOne,US,2025-09,,1178,7645.22,$,EA
+synd-Tenant_A-202509-0003,Tenant_A,syndicated,MarketScope,US,2025-09,Oat Drink Original,n/a,8002.57,$,cases
+synd-Tenant_A-202509-0004,Tenant_A,syndicated,PanelOne,US,2025-09,Crisp Ridge Sea Salt Crisps 200g,784,2500.96,$,units
+synd-Tenant_A-202509-0005,Tenant_A,syndicated,MarketScope,US,2025-09,CR-CHOC-150,1435,4003.65,USD,cases
+synd-Tenant_A-202509-0006,Tenant_A,syndicated,MarketScope,US,2025-09,SP-COND-400,1271,8248.79,US$,EA
+synd-Tenant_A-202509-0007,Tenant_A,syndicated,MarketScope,US,2025-09,Green Basket Plant Laundry Liquid 1.5L,301,2555.49,USD,EA
+synd-Tenant_A-202509-0008,Tenant_A,syndicated,PanelOne,US,2025-09,GB-DISH-500,1807,6848.53,US$,units
+synd-Tenant_A-202509-0009,Tenant_A,syndicated,PanelOne,US,2025-09,Daily Moisture Conditioner,218,1414.82,$,units
+synd-Tenant_A-202509-0010,Tenant_A,syndicated,MarketScope,US,2025-09,CR-SALT-200,1625,5183.75,US$,cases
+synd-Tenant_A-202509-0011,Tenant_A,syndicated,PanelOne,US,2025-09,Daily Moisture Conditioner,977,6340.73,US$,cases
+synd-Tenant_A-202509-0012,Tenant_A,syndicated,MarketScope,US,2025-09,Sea Salt Ridge Crisps,1351,4309.69,USD,EA
+synd-Tenant_A-202509-0013,Tenant_A,syndicated,PanelOne,US,2025-09,Soft Peak Daily Moisture Shampoo,1322,8579.78,$,EA
+synd-Tenant_A-202509-0014,Tenant_A,syndicated,MarketScope,US,2025-09,Northstar Oat Drink Barista Multipack,1755,10512.45,US$,cases
+synd-Tenant_A-202509-0015,Tenant_A,syndicated,MarketScope,US,2025-09, chocolate grain snack bites ,2289,6386.31,US$,cases
+synd-Tenant_A-202509-0016,Tenant_A,syndicated,MarketScope,US,2025-09,Green Basket Citrus Dishwashing Soap,849,3217.71,$,cases
+synd-Tenant_A-202509-0017,Tenant_A,syndicated,MarketScope,US,2025-09,Oat Drink Barista Multipack,391,2342.09,US$,units
+synd-Tenant_A-202509-0018,Tenant_A,syndicated,MarketScope,US,2025-09,Barista Oat Drink 6 Pack,431,2581.69,USD,EA
+synd-Tenant_A-202509-0019,Tenant_A,syndicated,MarketScope,US,2025-09,Crisp Ridge Chocolate Grain Bites,2055,5733.45,USD,units
+synd-Tenant_A-202509-0020,Tenant_A,syndicated,PanelOne,US,2025-09, northstar original oat beverage ,1353,4721.97,US$,units
+synd-Tenant_A-202509-0021,Tenant_A,syndicated,PanelOne,US,2025-09,Northstar Oat Drink Original,1752,6114.48,$,units
+synd-Tenant_A-202509-0022,Tenant_A,syndicated,PanelOne,US,2025-09,Sea Salt Ridge Crisps,296,944.24,$,cases
+synd-Tenant_A-202509-0023,Tenant_A,syndicated,MarketScope,US,2025-09,Northstar Origial Oat Beverage,2231,7786.19,USD,cases
+synd-Tenant_A-202509-0024,Tenant_A,syndicated,MarketScope,US,2025-09,Chocolate Grain Snack Bites,1566,4369.14,$,EA
+synd-Tenant_A-202510-0001,Tenant_A,syndicated,MarketScope,US,2025-10,CR-CHOC-150,514,1434.06,US$,cases
+synd-Tenant_A-202510-0002,Tenant_A,syndicated,PanelOne,US,2025-10,,287,915.53,USD,units
+synd-Tenant_A-202510-0003,Tenant_A,syndicated,MarketScope,US,2025-10,Crisp Ridge Chocolate Grain Bites,n/a,5741.82,US$,cases
+synd-Tenant_A-202510-0004,Tenant_A,syndicated,PanelOne,US,2025-10, cr-choc-150 ,218,608.22,USD,EA
+synd-Tenant_A-202510-0005,Tenant_A,syndicated,MarketScope,US,2025-10,SP-COND-400,490,3180.10,US$,cases
+synd-Tenant_A-202510-0006,Tenant_A,syndicated,MarketScope,US,2025-10,Crisp Ridge Sea Salt Crisps 200g,2113,6740.47,USD,units
+synd-Tenant_A-202510-0007,Tenant_A,syndicated,MarketScope,US,2025-10, green basket citrus dish soap ,586,2220.94,US$,cases
+synd-Tenant_A-202510-0008,Tenant_A,syndicated,PanelOne,US,2025-10,NS OAT 1L,1588,5542.12,USD,units
+synd-Tenant_A-202510-0009,Tenant_A,syndicated,MarketScope,US,2025-10,Soft Peak Daily Moisture Conditioner,1295,8404.55,$,cases
+synd-Tenant_A-202510-0010,Tenant_A,syndicated,MarketScope,US,2025-10,NS-OAT-6X250,880,5271.20,$,units
+synd-Tenant_A-202510-0011,Tenant_A,syndicated,MarketScope,US,2025-10,SP-SHAM-400,1872,12149.28,USD,cases
+synd-Tenant_A-202510-0012,Tenant_A,syndicated,MarketScope,US,2025-10,Chocolate Grain Snack Bites,1729,4823.91,USD,EA
+synd-Tenant_A-202510-0013,Tenant_A,syndicated,PanelOne,US,2025-10, daily moisture conditioner ,1514,9825.86,$,cases
+synd-Tenant_A-202510-0014,Tenant_A,syndicated,PanelOne,US,2025-10,Crisp Ridge Cocoa Grain Bites,1830,5105.70,USD,cases
+synd-Tenant_A-202510-0015,Tenant_A,syndicated,PanelOne,US,2025-10,NS OAT 6X250,1953,11698.47,USD,cases
+synd-Tenant_A-202510-0016,Tenant_A,syndicated,MarketScope,US,2025-10,Sea Salt Ridge Crisps,931,2969.89,$,units
+synd-Tenant_A-202510-0017,Tenant_A,syndicated,MarketScope,US,2025-10,Green Basket Citrus Dishwashing Soap,1855,7030.45,$,cases
+synd-Tenant_A-202510-0018,Tenant_A,syndicated,MarketScope,US,2025-10, plant laundry liquid ,1333,11317.17,US$,cases
+synd-Tenant_A-202510-0019,Tenant_A,syndicated,MarketScope,US,2025-10,GB-DISH-500,1459,5529.61,USD,EA
+synd-Tenant_A-202510-0020,Tenant_A,syndicated,MarketScope,US,2025-10,Plant Laundry Liquid,564,4788.36,$,EA
+synd-Tenant_A-202510-0021,Tenant_A,syndicated,PanelOne,US,2025-10,GB-LAUN-1.5,785,6664.65,$,cases
+synd-Tenant_A-202510-0022,Tenant_A,syndicated,PanelOne,US,2025-10,Oat Drink Barista Multipack,1458,8733.42,$,units
+synd-Tenant_A-202510-0023,Tenant_A,syndicated,PanelOne,US,2025-10, northstar barisa oat multipack ,584,3498.16,$,cases
+synd-Tenant_A-202510-0024,Tenant_A,syndicated,MarketScope,US,2025-10,Northstar Barista Oat Multipack,226,1353.74,$,units
+synd-Tenant_A-202511-0001,Tenant_A,syndicated,PanelOne,US,2025-11,Sea Salt Crisps,1714,5467.66,$,EA
+synd-Tenant_A-202511-0002,Tenant_A,syndicated,PanelOne,US,2025-11,,2423,7729.37,US$,cases
+synd-Tenant_A-202511-0003,Tenant_A,syndicated,PanelOne,US,2025-11,Soft Peak Moisture Conditioner,n/a,8222.83,US$,units
+synd-Tenant_A-202511-0004,Tenant_A,syndicated,MarketScope,US,2025-11,Green Basket Citrus Dish Soap 500ml,1007,3816.53,$,EA
+synd-Tenant_A-202511-0005,Tenant_A,syndicated,PanelOne,US,2025-11,Citrus Dish Soap,673,2550.67,US$,EA
+synd-Tenant_A-202511-0006,Tenant_A,syndicated,MarketScope,US,2025-11, barista oat drink 6 pack ,2310,13836.90,$,cases
+synd-Tenant_A-202511-0007,Tenant_A,syndicated,PanelOne,US,2025-11,Crisp Ridge Chocolate Grain Bites,779,2173.41,$,EA
+synd-Tenant_A-202511-0008,Tenant_A,syndicated,PanelOne,US,2025-11,Chocolate Grain Bites,275,767.25,USD,cases
+synd-Tenant_A-202511-0009,Tenant_A,syndicated,MarketScope,US,2025-11,Green Basket Citrus Dish Soap 500ml,1650,6253.50,USD,cases
+synd-Tenant_A-202511-0010,Tenant_A,syndicated,PanelOne,US,2025-11,Northstar Barista Oat Multipack,1042,6241.58,$,cases
+synd-Tenant_A-202511-0011,Tenant_A,syndicated,PanelOne,US,2025-11, plant laundry liquid ,1783,15137.67,$,units
+synd-Tenant_A-202511-0012,Tenant_A,syndicated,MarketScope,US,2025-11,Oat Drink Original,176,614.24,$,units
+synd-Tenant_A-202511-0013,Tenant_A,syndicated,MarketScope,US,2025-11,Crisp Ridge Sea Salt Crisps 200g,1503,4794.57,USD,cases
+synd-Tenant_A-202511-0014,Tenant_A,syndicated,PanelOne,US,2025-11,Oat Drink Barista Multipack,2276,13633.24,USD,units
+synd-Tenant_A-202511-0015,Tenant_A,syndicated,MarketScope,US,2025-11, soft peak moisture conditioner ,1661,10779.89,USD,cases
+synd-Tenant_A-202511-0016,Tenant_A,syndicated,PanelOne,US,2025-11, northstar oat drink barista multipack 6x250ml ,2240,13417.60,USD,cases
+synd-Tenant_A-202511-0017,Tenant_A,syndicated,MarketScope,US,2025-11,Northstar Oat Drink Original 1L,1228,4285.72,US$,units
+synd-Tenant_A-202511-0018,Tenant_A,syndicated,MarketScope,US,2025-11,Soft Peak Daily Moisture Hair Shampoo,1041,6756.09,$,cases
+synd-Tenant_A-202511-0019,Tenant_A,syndicated,PanelOne,US,2025-11,CR-CHOC-150,1177,3283.83,$,EA
+synd-Tenant_A-202511-0020,Tenant_A,syndicated,MarketScope,US,2025-11, northstar barista oat multipack ,2222,13309.78,$,units
+synd-Tenant_A-202511-0021,Tenant_A,syndicated,MarketScope,US,2025-11,Northstar Original Oat Beverage,1718,5995.82,USD,cases
+synd-Tenant_A-202511-0022,Tenant_A,syndicated,MarketScope,US,2025-11, crisp ridge sea salt potato crisps ,896,2858.24,USD,EA
+synd-Tenant_A-202511-0023,Tenant_A,syndicated,MarketScope,US,2025-11, oat origina northstar ,1096,3825.04,USD,EA
+synd-Tenant_A-202511-0024,Tenant_A,syndicated,MarketScope,US,2025-11,Soft Peak Daily Moisture Hair Conditioner,480,3115.20,$,cases
+synd-Tenant_A-202512-0001,Tenant_A,syndicated,PanelOne,US,2025-12,GB-DISH-500,946,3585.34,US$,units
+synd-Tenant_A-202512-0002,Tenant_A,syndicated,MarketScope,US,2025-12,,2453,7825.07,USD,EA
+synd-Tenant_A-202512-0003,Tenant_A,syndicated,PanelOne,US,2025-12,Crisp Ridge Cocoa Grain Bites,n/a,5501.88,USD,cases
+synd-Tenant_A-202512-0004,Tenant_A,syndicated,MarketScope,US,2025-12,Soft Peak Daily Moisture Conditioner,1505,9767.45,US$,units
+synd-Tenant_A-202512-0005,Tenant_A,syndicated,MarketScope,US,2025-12,Soft Peak Daily Moisture Conditioner 400ml,1065,6911.85,US$,EA
+synd-Tenant_A-202512-0006,Tenant_A,syndicated,PanelOne,US,2025-12,Sea Salt Crisps,2425,7735.75,USD,EA
+synd-Tenant_A-202512-0007,Tenant_A,syndicated,MarketScope,US,2025-12, barista oat drink 6 pack ,181,1084.19,US$,units
+synd-Tenant_A-202512-0008,Tenant_A,syndicated,MarketScope,US,2025-12,Citrus Dishwashing Liquid,1660,6291.40,$,EA
+synd-Tenant_A-202512-0009,Tenant_A,syndicated,MarketScope,US,2025-12,Chocolate Grain Bites,1195,3334.05,$,EA
+synd-Tenant_A-202512-0010,Tenant_A,syndicated,MarketScope,US,2025-12,Soft Peak Daily Moisture Conditioner,783,5081.67,US$,units
+synd-Tenant_A-202512-0011,Tenant_A,syndicated,MarketScope,US,2025-12,NS-OAT-6X250,1113,6666.87,USD,EA
+synd-Tenant_A-202512-0012,Tenant_A,syndicated,MarketScope,US,2025-12,Chocolate Grain Bites,1970,5496.30,$,cases
+synd-Tenant_A-202512-0013,Tenant_A,syndicated,MarketScope,US,2025-12,Green Basket Plant Laundry Liquid,1508,12802.92,US$,EA
+synd-Tenant_A-202512-0014,Tenant_A,syndicated,PanelOne,US,2025-12,Oat Original Northstar,1123,3919.27,US$,cases
+synd-Tenant_A-202512-0015,Tenant_A,syndicated,PanelOne,US,2025-12,Soft Peak Daily Moisture Shampoo 400ml,1286,8346.14,USD,cases
+synd-Tenant_A-202512-0016,Tenant_A,syndicated,PanelOne,US,2025-12,Soft Peak Daily Moisture Hair Conditioner,1895,12298.55,USD,units
+synd-Tenant_A-202512-0017,Tenant_A,syndicated,MarketScope,US,2025-12, oat drink barista multipack ,2324,13920.76,US$,units
+synd-Tenant_A-202512-0018,Tenant_A,syndicated,MarketScope,US,2025-12,Crisp Ridge Sea Salt Crisps,953,3040.07,$,EA
+synd-Tenant_A-202512-0019,Tenant_A,syndicated,PanelOne,US,2025-12, green basket plant laundry liquid ,562,4771.38,$,cases
+synd-Tenant_A-202512-0020,Tenant_A,syndicated,PanelOne,US,2025-12, soft peak daily moisture shampoo ,466,3024.34,USD,units
+synd-Tenant_A-202512-0021,Tenant_A,syndicated,MarketScope,US,2025-12,SP-COND-400,1522,9877.78,$,cases
+synd-Tenant_A-202512-0022,Tenant_A,syndicated,MarketScope,US,2025-12,CR-SALT-200,1425,4545.75,US$,EA
+synd-Tenant_A-202512-0023,Tenant_A,syndicated,MarketScope,US,2025-12,Crisp Ridge Cooa Grain Bites,1078,3007.62,US$,cases
+synd-Tenant_A-202512-0024,Tenant_A,syndicated,PanelOne,US,2025-12, barista oat drink 6 pack ,279,1671.21,$,units
+synd-Tenant_B-202501-0001,Tenant_B,syndicated,PanelOne,CA,2025-01, oat drink original ,390,1361.10,$,units
+synd-Tenant_B-202501-0002,Tenant_B,syndicated,PanelOne,CA,2025-01,,984,6386.16,$,units
+synd-Tenant_B-202501-0003,Tenant_B,syndicated,MarketScope,CA,2025-01,Crisp Ridge Sea Salt Potato Crisps,n/a,6309.82,CAD,units
+synd-Tenant_B-202501-0004,Tenant_B,syndicated,MarketScope,CA,2025-01,Chocolate Grain Bites,1863,5197.77,CAD,cases
+synd-Tenant_B-202501-0005,Tenant_B,syndicated,PanelOne,CA,2025-01,Crisp Ridge Sea Salt Potato Crisps,1336,4261.84,$,EA
+synd-Tenant_B-202501-0006,Tenant_B,syndicated,MarketScope,CA,2025-01,Sea Salt Crisps,666,2124.54,$,EA
+synd-Tenant_B-202501-0007,Tenant_B,syndicated,MarketScope,CA,2025-01,Sea Salt Crisps,490,1563.10,C$,units
+synd-Tenant_B-202501-0008,Tenant_B,syndicated,PanelOne,CA,2025-01,SP-SHAM-400,2311,14998.39,C$,EA
+synd-Tenant_B-202501-0009,Tenant_B,syndicated,MarketScope,CA,2025-01, sea salt crisps ,438,1397.22,C$,cases
+synd-Tenant_B-202501-0010,Tenant_B,syndicated,PanelOne,CA,2025-01,Northstar Original Oat Beverage,2247,7842.03,C$,units
+synd-Tenant_B-202501-0011,Tenant_B,syndicated,MarketScope,CA,2025-01,Northstar Oat Drink Barista Multipack,199,1192.01,$,units
+synd-Tenant_B-202501-0012,Tenant_B,syndicated,MarketScope,CA,2025-01,Green Basket Citrus Dishwashing Soap,704,2668.16,CAD,units
+synd-Tenant_B-202501-0013,Tenant_B,syndicated,PanelOne,CA,2025-01,Citrus Dishwashing Liquid,678,2569.62,CAD,EA
+synd-Tenant_B-202501-0014,Tenant_B,syndicated,PanelOne,CA,2025-01, northstar oat drink original ,1575,5496.75,$,units
+synd-Tenant_B-202501-0015,Tenant_B,syndicated,PanelOne,CA,2025-01,Green Basket Laundry Liquid,188,1596.12,$,units
+synd-Tenant_B-202501-0016,Tenant_B,syndicated,PanelOne,CA,2025-01,Green Basket Plant Laundry Liquid,1685,14305.65,C$,cases
+synd-Tenant_B-202501-0017,Tenant_B,syndicated,PanelOne,CA,2025-01, plant laundry liquid ,2320,19696.80,CAD,units
+synd-Tenant_B-202501-0018,Tenant_B,syndicated,PanelOne,CA,2025-01,Crisp Ridge Cocoa Grain Bites,584,1629.36,CAD,EA
+synd-Tenant_B-202501-0019,Tenant_B,syndicated,PanelOne,CA,2025-01, chocolate grain snack bites ,1193,3328.47,C$,cases
+synd-Tenant_B-202501-0020,Tenant_B,syndicated,PanelOne,CA,2025-01,Sea Salt Crisps,1026,3272.94,C$,EA
+synd-Tenant_B-202501-0021,Tenant_B,syndicated,MarketScope,CA,2025-01,Northstar Oat Drink Original,271,945.79,CAD,cases
+synd-Tenant_B-202501-0022,Tenant_B,syndicated,MarketScope,CA,2025-01,Green Basket Citrus Dish Soap 500ml,260,985.40,$,cases
+synd-Tenant_B-202501-0023,Tenant_B,syndicated,PanelOne,CA,2025-01,Northstar Origial Oat Beverage,2150,7503.50,C$,units
+synd-Tenant_B-202501-0024,Tenant_B,syndicated,MarketScope,CA,2025-01,Chocolate Grain Snack Bites,1940,5412.60,C$,units
+synd-Tenant_B-202502-0001,Tenant_B,syndicated,MarketScope,CA,2025-02,Soft Peak Moisture Shampoo,310,2011.90,C$,EA
+synd-Tenant_B-202502-0002,Tenant_B,syndicated,PanelOne,CA,2025-02,,2326,19747.74,CAD,cases
+synd-Tenant_B-202502-0003,Tenant_B,syndicated,PanelOne,CA,2025-02,Daily Moisture Conditioner,n/a,6165.50,C$,units
+synd-Tenant_B-202502-0004,Tenant_B,syndicated,PanelOne,CA,2025-02,CR CHOC 150,1264,3526.56,CAD,EA
+synd-Tenant_B-202502-0005,Tenant_B,syndicated,PanelOne,CA,2025-02, gb-dish-500 ,1794,6799.26,C$,cases
+synd-Tenant_B-202502-0006,Tenant_B,syndicated,PanelOne,CA,2025-02, crisp ridge sea salt potato crisps ,1549,4941.31,$,cases
+synd-Tenant_B-202502-0007,Tenant_B,syndicated,MarketScope,CA,2025-02,Soft Peak Daily Moisture Hair Conditioner,949,6159.01,CAD,EA
+synd-Tenant_B-202502-0008,Tenant_B,syndicated,PanelOne,CA,2025-02,Northstar Oat Drink Original,125,436.25,CAD,cases
+synd-Tenant_B-202502-0009,Tenant_B,syndicated,MarketScope,CA,2025-02,Green Basket Citrus Dish Soap,2299,8713.21,CAD,EA
+synd-Tenant_B-202502-0010,Tenant_B,syndicated,MarketScope,CA,2025-02, soft peak moisture shampoo ,711,4614.39,$,units
+synd-Tenant_B-202502-0011,Tenant_B,syndicated,PanelOne,CA,2025-02,Green Basket Citrus Dish Soap 500ml,2135,8091.65,$,EA
+synd-Tenant_B-202502-0012,Tenant_B,syndicated,MarketScope,CA,2025-02,Soft Peak Daily Moisture Conditioner,2080,13499.20,C$,EA
+synd-Tenant_B-202502-0013,Tenant_B,syndicated,MarketScope,CA,2025-02,CR-CHOC-150,456,1272.24,CAD,EA
+synd-Tenant_B-202502-0014,Tenant_B,syndicated,PanelOne,CA,2025-02,NS-OAT-1L,1906,6651.94,CAD,EA
+synd-Tenant_B-202502-0015,Tenant_B,syndicated,PanelOne,CA,2025-02,Chocolate Grain Bites,2451,6838.29,$,units
+synd-Tenant_B-202502-0016,Tenant_B,syndicated,MarketScope,CA,2025-02,Northstar Oat Drink Barista Multipack,1926,11536.74,CAD,EA
+synd-Tenant_B-202502-0017,Tenant_B,syndicated,MarketScope,CA,2025-02,Citrus Dish Soap,2006,7602.74,CAD,units
+synd-Tenant_B-202502-0018,Tenant_B,syndicated,MarketScope,CA,2025-02,Sea Salt Crisps,799,2548.81,C$,EA
+synd-Tenant_B-202502-0019,Tenant_B,syndicated,PanelOne,CA,2025-02, crisp ridge cocoa grain bites ,1098,3063.42,CAD,EA
+synd-Tenant_B-202502-0020,Tenant_B,syndicated,MarketScope,CA,2025-02,SP-SHAM-400,568,3686.32,C$,EA
+synd-Tenant_B-202502-0021,Tenant_B,syndicated,PanelOne,CA,2025-02, northstar oat drink barista multipack 6x250ml ,100,599.00,$,cases
+synd-Tenant_B-202502-0022,Tenant_B,syndicated,PanelOne,CA,2025-02,Crisp Ridge Chocolate Grain Bites 150g,2486,6935.94,C$,cases
+synd-Tenant_B-202502-0023,Tenant_B,syndicated,MarketScope,CA,2025-02,Soft Peak Daily Moiture Hair Shampoo,1403,9105.47,CAD,EA
+synd-Tenant_B-202502-0024,Tenant_B,syndicated,PanelOne,CA,2025-02,Soft Peak Moisture Shampoo,393,2550.57,CAD,units
+synd-Tenant_B-202503-0001,Tenant_B,syndicated,MarketScope,CA,2025-03,Soft Peak Moisture Conditioner,1675,10870.75,CAD,units
+synd-Tenant_B-202503-0002,Tenant_B,syndicated,PanelOne,CA,2025-03,,1609,4489.11,$,cases
+synd-Tenant_B-202503-0003,Tenant_B,syndicated,MarketScope,CA,2025-03, soft peak moisture conditioner ,n/a,2719.31,C$,cases
+synd-Tenant_B-202503-0004,Tenant_B,syndicated,MarketScope,CA,2025-03,Northstar Oat Drink Original,1345,4694.05,$,units
+synd-Tenant_B-202503-0005,Tenant_B,syndicated,MarketScope,CA,2025-03, soft peak daily moisture hair conditioner ,1250,8112.50,$,EA
+synd-Tenant_B-202503-0006,Tenant_B,syndicated,MarketScope,CA,2025-03, oat original northstar ,235,820.15,$,units
+synd-Tenant_B-202503-0007,Tenant_B,syndicated,PanelOne,CA,2025-03,Crisp Ridge Cocoa Grain Bites,575,1604.25,C$,units
+synd-Tenant_B-202503-0008,Tenant_B,syndicated,MarketScope,CA,2025-03,Soft Peak Daily Moisture Conditioner 400ml,1938,12577.62,$,cases
+synd-Tenant_B-202503-0009,Tenant_B,syndicated,MarketScope,CA,2025-03,Green Basket Citrus Dishwashing Soap,1702,6450.58,$,cases
+synd-Tenant_B-202503-0010,Tenant_B,syndicated,PanelOne,CA,2025-03,Sea Salt Ridge Crisps,2251,7180.69,C$,cases
+synd-Tenant_B-202503-0011,Tenant_B,syndicated,PanelOne,CA,2025-03,Soft Peak Daily Moisture Conditioner,591,3835.59,CAD,cases
+synd-Tenant_B-202503-0012,Tenant_B,syndicated,MarketScope,CA,2025-03,Crisp Ridge Chocolate Grain Bites 150g,1424,3972.96,CAD,units
+synd-Tenant_B-202503-0013,Tenant_B,syndicated,PanelOne,CA,2025-03,Northstar Oat Drink Barista Multipack,544,3258.56,CAD,cases
+synd-Tenant_B-202503-0014,Tenant_B,syndicated,PanelOne,CA,2025-03,Daily Moisture Shampoo,709,4601.41,$,units
+synd-Tenant_B-202503-0015,Tenant_B,syndicated,PanelOne,CA,2025-03, soft peak daily moisture shampoo ,387,2511.63,$,units
+synd-Tenant_B-202503-0016,Tenant_B,syndicated,MarketScope,CA,2025-03,Soft Peak Moisture Shampoo,1982,12863.18,$,cases
+synd-Tenant_B-202503-0017,Tenant_B,syndicated,PanelOne,CA,2025-03,Sea Salt Crisps,203,647.57,CAD,EA
+synd-Tenant_B-202503-0018,Tenant_B,syndicated,MarketScope,CA,2025-03,SP-SHAM-400,2242,14550.58,$,cases
+synd-Tenant_B-202503-0019,Tenant_B,syndicated,PanelOne,CA,2025-03,Chocolate Grain Snack Bites,805,2245.95,$,EA
+synd-Tenant_B-202503-0020,Tenant_B,syndicated,PanelOne,CA,2025-03,Northstar Oat Drink Barista Multipack 6x250ml,1428,8553.72,CAD,cases
+synd-Tenant_B-202503-0021,Tenant_B,syndicated,PanelOne,CA,2025-03,Crisp Ridge Chocolate Grain Bites,2366,6601.14,CAD,EA
+synd-Tenant_B-202503-0022,Tenant_B,syndicated,MarketScope,CA,2025-03, crisp ridge sea salt potato crisps ,1262,4025.78,$,cases
+synd-Tenant_B-202503-0023,Tenant_B,syndicated,MarketScope,CA,2025-03,Soft Peak Daily Moistre Hair Conditioner,1333,8651.17,C$,EA
+synd-Tenant_B-202503-0024,Tenant_B,syndicated,MarketScope,CA,2025-03, northstar original oat beverage ,711,2481.39,$,EA
+synd-Tenant_B-202504-0001,Tenant_B,syndicated,PanelOne,CA,2025-04,Chocolate Grain Bites,2301,6419.79,C$,units
+synd-Tenant_B-202504-0002,Tenant_B,syndicated,PanelOne,CA,2025-04,,501,1748.49,$,cases
+synd-Tenant_B-202504-0003,Tenant_B,syndicated,MarketScope,CA,2025-04,Daily Moisture Shampoo,n/a,5808.55,$,EA
+synd-Tenant_B-202504-0004,Tenant_B,syndicated,PanelOne,CA,2025-04, crisp ridge sea salt crisps ,796,2539.24,C$,units
+synd-Tenant_B-202504-0005,Tenant_B,syndicated,PanelOne,CA,2025-04,Soft Peak Daily Moisture Hair Shampoo,710,4607.90,C$,EA
+synd-Tenant_B-202504-0006,Tenant_B,syndicated,PanelOne,CA,2025-04,NS-OAT-1L,1765,6159.85,CAD,units
+synd-Tenant_B-202504-0007,Tenant_B,syndicated,PanelOne,CA,2025-04,Green Basket Citrus Dish Soap,1760,6670.40,C$,EA
+synd-Tenant_B-202504-0008,Tenant_B,syndicated,PanelOne,CA,2025-04,Soft Peak Moisture Conditioner,948,6152.52,C$,cases
+synd-Tenant_B-202504-0009,Tenant_B,syndicated,PanelOne,CA,2025-04,Citrus Dishwashing Liquid,374,1417.46,$,units
+synd-Tenant_B-202504-0010,Tenant_B,syndicated,MarketScope,CA,2025-04,Citrus Dish Soap,359,1360.61,$,EA
+synd-Tenant_B-202504-0011,Tenant_B,syndicated,PanelOne,CA,2025-04,Soft Peak Daily Moisture Conditioner 400ml,1700,11033.00,$,EA
+synd-Tenant_B-202504-0012,Tenant_B,syndicated,MarketScope,CA,2025-04, ns-oat-6x250 ,187,1120.13,C$,units
+synd-Tenant_B-202504-0013,Tenant_B,syndicated,PanelOne,CA,2025-04,NS-OAT-6X250,1355,8116.45,$,EA
+synd-Tenant_B-202504-0014,Tenant_B,syndicated,PanelOne,CA,2025-04,Crisp Ridge Sea Salt Crisps 200g,818,2609.42,CAD,units
+synd-Tenant_B-202504-0015,Tenant_B,syndicated,PanelOne,CA,2025-04, cr-salt-200 ,1936,6175.84,C$,cases
+synd-Tenant_B-202504-0016,Tenant_B,syndicated,PanelOne,CA,2025-04,GB-LAUN-1.5,1287,10926.63,CAD,cases
+synd-Tenant_B-202504-0017,Tenant_B,syndicated,PanelOne,CA,2025-04,Soft Peak Daily Moisture Conditioner,899,5834.51,CAD,EA
+synd-Tenant_B-202504-0018,Tenant_B,syndicated,MarketScope,CA,2025-04, cr-salt-200 ,1851,5904.69,$,EA
+synd-Tenant_B-202504-0019,Tenant_B,syndicated,MarketScope,CA,2025-04,GB-DISH-500,1836,6958.44,$,units
+synd-Tenant_B-202504-0020,Tenant_B,syndicated,PanelOne,CA,2025-04,Oat Drink Barista Multipack,1992,11932.08,$,units
+synd-Tenant_B-202504-0021,Tenant_B,syndicated,PanelOne,CA,2025-04,Crisp Ridge Chocolate Grain Bites 150g,2035,5677.65,C$,cases
+synd-Tenant_B-202504-0022,Tenant_B,syndicated,MarketScope,CA,2025-04, green basket plant laundry liquid 1.5l ,1156,9814.44,CAD,cases
+synd-Tenant_B-202504-0023,Tenant_B,syndicated,MarketScope,CA,2025-04,Barista Oa Drink 6 Pack,1818,10889.82,C$,units
+synd-Tenant_B-202504-0024,Tenant_B,syndicated,MarketScope,CA,2025-04,Green Basket Laundry Liquid,1211,10281.39,CAD,units
+synd-Tenant_B-202505-0001,Tenant_B,syndicated,PanelOne,CA,2025-05, citrus dish soap ,2253,8538.87,C$,EA
+synd-Tenant_B-202505-0002,Tenant_B,syndicated,PanelOne,CA,2025-05,,585,3796.65,C$,units
+synd-Tenant_B-202505-0003,Tenant_B,syndicated,PanelOne,CA,2025-05,Chocolate Grain Snack Bites,n/a,6146.37,CAD,EA
+synd-Tenant_B-202505-0004,Tenant_B,syndicated,MarketScope,CA,2025-05, northstar oat drink barista multipack ,1236,7403.64,CAD,EA
+synd-Tenant_B-202505-0005,Tenant_B,syndicated,PanelOne,CA,2025-05,Crisp Ridge Cocoa Grain Bites,504,1406.16,$,cases
+synd-Tenant_B-202505-0006,Tenant_B,syndicated,MarketScope,CA,2025-05,Soft Peak Daily Moisture Conditioner,606,3932.94,CAD,units
+synd-Tenant_B-202505-0007,Tenant_B,syndicated,PanelOne,CA,2025-05,Crisp Ridge Chocolate Grain Bites 150g,1918,5351.22,$,cases
+synd-Tenant_B-202505-0008,Tenant_B,syndicated,PanelOne,CA,2025-05,Soft Peak Daily Moisture Shampoo,448,2907.52,CAD,units
+synd-Tenant_B-202505-0009,Tenant_B,syndicated,MarketScope,CA,2025-05,Soft Peak Daily Moisture Shampoo 400ml,1240,8047.60,CAD,cases
+synd-Tenant_B-202505-0010,Tenant_B,syndicated,PanelOne,CA,2025-05,Soft Peak Daily Moisture Shampoo,651,4224.99,C$,units
+synd-Tenant_B-202505-0011,Tenant_B,syndicated,MarketScope,CA,2025-05,NS OAT 1L,2116,7384.84,C$,units
+synd-Tenant_B-202505-0012,Tenant_B,syndicated,PanelOne,CA,2025-05,Green Basket Laundry Liquid,247,2097.03,C$,units
+synd-Tenant_B-202505-0013,Tenant_B,syndicated,MarketScope,CA,2025-05, green basket laundry liquid ,1703,14458.47,$,EA
+synd-Tenant_B-202505-0014,Tenant_B,syndicated,MarketScope,CA,2025-05,Soft Peak Daily Moisture Hair Shampoo,1497,9715.53,C$,units
+synd-Tenant_B-202505-0015,Tenant_B,syndicated,MarketScope,CA,2025-05,Soft Peak Daily Moisture Shampoo,180,1168.20,$,units
+synd-Tenant_B-202505-0016,Tenant_B,syndicated,MarketScope,CA,2025-05,Soft Peak Moisture Conditioner,500,3245.00,C$,units
+synd-Tenant_B-202505-0017,Tenant_B,syndicated,PanelOne,CA,2025-05,Crisp Ridge Sea Salt Crisps,2294,7317.86,C$,EA
+synd-Tenant_B-202505-0018,Tenant_B,syndicated,MarketScope,CA,2025-05,GB-LAUN-1.5,2046,17370.54,CAD,units
+synd-Tenant_B-202505-0019,Tenant_B,syndicated,PanelOne,CA,2025-05,GB-DISH-500,2342,8876.18,C$,units
+synd-Tenant_B-202505-0020,Tenant_B,syndicated,MarketScope,CA,2025-05,Crisp Ridge Cocoa Grain Bites,921,2569.59,$,EA
+synd-Tenant_B-202505-0021,Tenant_B,syndicated,MarketScope,CA,2025-05, chocolate grain bites ,1067,2976.93,C$,units
+synd-Tenant_B-202505-0022,Tenant_B,syndicated,MarketScope,CA,2025-05, oat drink barista multipack ,1158,6936.42,C$,cases
+synd-Tenant_B-202505-0023,Tenant_B,syndicated,PanelOne,CA,2025-05,Crisp Ridge Cooa Grain Bites,675,1883.25,CAD,units
+synd-Tenant_B-202505-0024,Tenant_B,syndicated,MarketScope,CA,2025-05,Barista Oat Drink 6 Pack,1224,7331.76,CAD,EA
+synd-Tenant_B-202506-0001,Tenant_B,syndicated,PanelOne,CA,2025-06, green basket plant based laundry detergent ,1362,11563.38,CAD,cases
+synd-Tenant_B-202506-0002,Tenant_B,syndicated,MarketScope,CA,2025-06,,1068,3727.32,$,EA
+synd-Tenant_B-202506-0003,Tenant_B,syndicated,MarketScope,CA,2025-06,Northstar Oat Drink Original 1L,n/a,830.62,CAD,units
+synd-Tenant_B-202506-0004,Tenant_B,syndicated,MarketScope,CA,2025-06,Soft Peak Daily Moisture Conditioner 400ml,1438,9332.62,$,cases
+synd-Tenant_B-202506-0005,Tenant_B,syndicated,MarketScope,CA,2025-06,NS-OAT-1L,632,2205.68,$,EA
+synd-Tenant_B-202506-0006,Tenant_B,syndicated,PanelOne,CA,2025-06,Soft Peak Daily Moisture Conditioner 400ml,2436,15809.64,$,units
+synd-Tenant_B-202506-0007,Tenant_B,syndicated,PanelOne,CA,2025-06,Northstar Original Oat Beverage,1607,5608.43,CAD,cases
+synd-Tenant_B-202506-0008,Tenant_B,syndicated,PanelOne,CA,2025-06,NS-OAT-6X250,1866,11177.34,C$,cases
+synd-Tenant_B-202506-0009,Tenant_B,syndicated,PanelOne,CA,2025-06,Crisp Ridge Sea Salt Crisps,1976,6303.44,C$,units
+synd-Tenant_B-202506-0010,Tenant_B,syndicated,MarketScope,CA,2025-06,Daily Moisture Conditioner,1061,6885.89,$,EA
+synd-Tenant_B-202506-0011,Tenant_B,syndicated,MarketScope,CA,2025-06,NS-OAT-1L,1489,5196.61,C$,units
+synd-Tenant_B-202506-0012,Tenant_B,syndicated,MarketScope,CA,2025-06,Northstar Oat Drink Barista Multipack,1180,7068.20,CAD,EA
+synd-Tenant_B-202506-0013,Tenant_B,syndicated,MarketScope,CA,2025-06,Crisp Ridge Chocolate Grain Bites,2013,5616.27,$,units
+synd-Tenant_B-202506-0014,Tenant_B,syndicated,MarketScope,CA,2025-06,SP-COND-400,789,5120.61,C$,cases
+synd-Tenant_B-202506-0015,Tenant_B,syndicated,MarketScope,CA,2025-06,Crisp Ridge Sea Salt Potato Crisps,599,1910.81,$,EA
+synd-Tenant_B-202506-0016,Tenant_B,syndicated,MarketScope,CA,2025-06, northstar oat drink barista multipack ,1955,11710.45,$,cases
+synd-Tenant_B-202506-0017,Tenant_B,syndicated,PanelOne,CA,2025-06,Chocolate Grain Bites,465,1297.35,C$,units
+synd-Tenant_B-202506-0018,Tenant_B,syndicated,MarketScope,CA,2025-06,Crisp Ridge Chocolate Grain Bites 150g,493,1375.47,$,cases
+synd-Tenant_B-202506-0019,Tenant_B,syndicated,MarketScope,CA,2025-06,Crisp Ridge Sea Salt Crisps 200g,2202,7024.38,$,EA
+synd-Tenant_B-202506-0020,Tenant_B,syndicated,MarketScope,CA,2025-06,Sea Salt Ridge Crisps,623,1987.37,$,units
+synd-Tenant_B-202506-0021,Tenant_B,syndicated,MarketScope,CA,2025-06,Soft Peak Daily Moisture Shampoo,1555,10091.95,CAD,cases
+synd-Tenant_B-202506-0022,Tenant_B,syndicated,MarketScope,CA,2025-06, northstar barista oat multipack ,1942,11632.58,CAD,EA
+synd-Tenant_B-202506-0023,Tenant_B,syndicated,MarketScope,CA,2025-06, crisp ridge cooa grain bites ,1984,5535.36,C$,cases
+synd-Tenant_B-202506-0024,Tenant_B,syndicated,PanelOne,CA,2025-06,Soft Peak Moisture Conditioner,870,5646.30,$,units
+synd-Tenant_B-202507-0001,Tenant_B,syndicated,MarketScope,CA,2025-07, soft peak moisture conditioner ,724,4698.76,$,EA
+synd-Tenant_B-202507-0002,Tenant_B,syndicated,MarketScope,CA,2025-07,,2370,15381.30,C$,units
+synd-Tenant_B-202507-0003,Tenant_B,syndicated,MarketScope,CA,2025-07,Soft Peak Daily Moisture Conditioner 400ml,n/a,11733.92,$,units
+synd-Tenant_B-202507-0004,Tenant_B,syndicated,MarketScope,CA,2025-07,Soft Peak Daily Moisture Hair Conditioner,1489,9663.61,C$,units
+synd-Tenant_B-202507-0005,Tenant_B,syndicated,PanelOne,CA,2025-07,Green Basket Laundry Liquid,628,5331.72,$,units
+synd-Tenant_B-202507-0006,Tenant_B,syndicated,PanelOne,CA,2025-07,Crisp Ridge Cocoa Grain Bites,2162,6031.98,C$,units
+synd-Tenant_B-202507-0007,Tenant_B,syndicated,PanelOne,CA,2025-07, green basket citrus dish soap 500ml ,526,1993.54,CAD,EA
+synd-Tenant_B-202507-0008,Tenant_B,syndicated,MarketScope,CA,2025-07,SP-COND-400,1296,8411.04,CAD,cases
+synd-Tenant_B-202507-0009,Tenant_B,syndicated,PanelOne,CA,2025-07,Soft Peak Moisture Conditioner,1274,8268.26,C$,units
+synd-Tenant_B-202507-0010,Tenant_B,syndicated,MarketScope,CA,2025-07,Green Basket Plant Laundry Liquid,2214,18796.86,$,units
+synd-Tenant_B-202507-0011,Tenant_B,syndicated,PanelOne,CA,2025-07,Daily Moisture Conditioner,718,4659.82,CAD,cases
+synd-Tenant_B-202507-0012,Tenant_B,syndicated,MarketScope,CA,2025-07,Green Basket Plant Laundry Liquid 1.5L,2329,19773.21,C$,cases
+synd-Tenant_B-202507-0013,Tenant_B,syndicated,MarketScope,CA,2025-07,Citrus Dishwashing Liquid,2235,8470.65,CAD,cases
+synd-Tenant_B-202507-0014,Tenant_B,syndicated,PanelOne,CA,2025-07, cr-choc-150 ,1551,4327.29,C$,units
+synd-Tenant_B-202507-0015,Tenant_B,syndicated,PanelOne,CA,2025-07,Northstar Oat Drink Barista Multipack 6x250ml,2446,14651.54,C$,cases
+synd-Tenant_B-202507-0016,Tenant_B,syndicated,PanelOne,CA,2025-07,Soft Peak Daily Moisture Hair Shampoo,1840,11941.60,$,EA
+synd-Tenant_B-202507-0017,Tenant_B,syndicated,PanelOne,CA,2025-07, crisp ridge sea salt crisps 200g ,1807,5764.33,$,units
+synd-Tenant_B-202507-0018,Tenant_B,syndicated,MarketScope,CA,2025-07,Crisp Ridge Chocolate Grain Bites 150g,586,1634.94,$,units
+synd-Tenant_B-202507-0019,Tenant_B,syndicated,PanelOne,CA,2025-07,Northstar Oat Drink Barista Multipack,1827,10943.73,CAD,EA
+synd-Tenant_B-202507-0020,Tenant_B,syndicated,PanelOne,CA,2025-07, plant laundry liquid ,2046,17370.54,CAD,units
+synd-Tenant_B-202507-0021,Tenant_B,syndicated,MarketScope,CA,2025-07,Soft Peak Daily Moisture Conditioner 400ml,1914,12421.86,C$,cases
+synd-Tenant_B-202507-0022,Tenant_B,syndicated,PanelOne,CA,2025-07,Oat Drink Barista Multipack,2435,14585.65,$,EA
+synd-Tenant_B-202507-0023,Tenant_B,syndicated,MarketScope,CA,2025-07,Northstar Origial Oat Beverage,195,680.55,CAD,EA
+synd-Tenant_B-202507-0024,Tenant_B,syndicated,MarketScope,CA,2025-07, chocolate grain snack bites ,1356,3783.24,C$,cases
+synd-Tenant_B-202508-0001,Tenant_B,syndicated,PanelOne,CA,2025-08,CR-CHOC-150,595,1660.05,$,units
+synd-Tenant_B-202508-0002,Tenant_B,syndicated,PanelOne,CA,2025-08,,1057,3371.83,$,EA
+synd-Tenant_B-202508-0003,Tenant_B,syndicated,MarketScope,CA,2025-08,Oat Drink Barista Multipack,n/a,13782.99,C$,cases
+synd-Tenant_B-202508-0004,Tenant_B,syndicated,MarketScope,CA,2025-08, sp-cond-400 ,971,6301.79,$,units
+synd-Tenant_B-202508-0005,Tenant_B,syndicated,MarketScope,CA,2025-08,Chocolate Grain Snack Bites,1503,4193.37,C$,cases
+synd-Tenant_B-202508-0006,Tenant_B,syndicated,MarketScope,CA,2025-08,Soft Peak Daily Moisture Conditioner,810,5256.90,CAD,cases
+synd-Tenant_B-202508-0007,Tenant_B,syndicated,PanelOne,CA,2025-08,Soft Peak Daily Moisture Conditioner 400ml,134,869.66,$,EA
+synd-Tenant_B-202508-0008,Tenant_B,syndicated,MarketScope,CA,2025-08,Citrus Dish Soap,2122,8042.38,C$,units
+synd-Tenant_B-202508-0009,Tenant_B,syndicated,PanelOne,CA,2025-08,Green Basket Plant Laundry Liquid 1.5L,2417,20520.33,CAD,units
+synd-Tenant_B-202508-0010,Tenant_B,syndicated,PanelOne,CA,2025-08, chocolate grain snack bites ,1849,5158.71,CAD,EA
+synd-Tenant_B-202508-0011,Tenant_B,syndicated,MarketScope,CA,2025-08,Soft Peak Daily Moisture Shampoo 400ml,897,5821.53,C$,units
+synd-Tenant_B-202508-0012,Tenant_B,syndicated,MarketScope,CA,2025-08,Oat Original Northstar,1469,5126.81,CAD,units
+synd-Tenant_B-202508-0013,Tenant_B,syndicated,MarketScope,CA,2025-08,Northstar Oat Drink Barista Multipack 6x250ml,236,1413.64,C$,EA
+synd-Tenant_B-202508-0014,Tenant_B,syndicated,PanelOne,CA,2025-08, oat drink barista multipack ,1783,10680.17,C$,cases
+synd-Tenant_B-202508-0015,Tenant_B,syndicated,PanelOne,CA,2025-08,Northstar Oat Drink Original 1L,376,1312.24,$,cases
+synd-Tenant_B-202508-0016,Tenant_B,syndicated,MarketScope,CA,2025-08,Chocolate Grain Snack Bites,1565,4366.35,$,cases
+synd-Tenant_B-202508-0017,Tenant_B,syndicated,PanelOne,CA,2025-08,Chocolate Grain Bites,924,2577.96,C$,EA
+synd-Tenant_B-202508-0018,Tenant_B,syndicated,MarketScope,CA,2025-08,Sea Salt Ridge Crisps,272,867.68,$,units
+synd-Tenant_B-202508-0019,Tenant_B,syndicated,MarketScope,CA,2025-08,Oat Original Northstar,402,1402.98,CAD,units
+synd-Tenant_B-202508-0020,Tenant_B,syndicated,PanelOne,CA,2025-08,Oat Drink Barista Multipack,2371,14202.29,C$,units
+synd-Tenant_B-202508-0021,Tenant_B,syndicated,MarketScope,CA,2025-08, cr-salt-200 ,801,2555.19,CAD,cases
+synd-Tenant_B-202508-0022,Tenant_B,syndicated,MarketScope,CA,2025-08, ns-oat-6x250 ,874,5235.26,CAD,units
+synd-Tenant_B-202508-0023,Tenant_B,syndicated,MarketScope,CA,2025-08, green basket citru dishwashing soap ,2185,8281.15,CAD,EA
+synd-Tenant_B-202508-0024,Tenant_B,syndicated,MarketScope,CA,2025-08,Soft Peak Daily Moisture Hair Conditioner,1060,6879.40,C$,units
+synd-Tenant_B-202509-0001,Tenant_B,syndicated,MarketScope,CA,2025-09,Green Basket Plant Laundry Liquid 1.5L,2005,17022.45,C$,EA
+synd-Tenant_B-202509-0002,Tenant_B,syndicated,PanelOne,CA,2025-09,,1306,8475.94,C$,EA
+synd-Tenant_B-202509-0003,Tenant_B,syndicated,MarketScope,CA,2025-09, cr-salt-200 ,n/a,7413.56,CAD,units
+synd-Tenant_B-202509-0004,Tenant_B,syndicated,MarketScope,CA,2025-09,Green Basket Plant Laundry Liquid,1057,8973.93,C$,cases
+synd-Tenant_B-202509-0005,Tenant_B,syndicated,PanelOne,CA,2025-09,Soft Peak Daily Moisture Conditioner,1351,8767.99,C$,EA
+synd-Tenant_B-202509-0006,Tenant_B,syndicated,MarketScope,CA,2025-09,Green Basket Citrus Dish Soap,2450,9285.50,C$,EA
+synd-Tenant_B-202509-0007,Tenant_B,syndicated,PanelOne,CA,2025-09, crisp ridge sea salt crisps 200g ,2101,6702.19,CAD,units
+synd-Tenant_B-202509-0008,Tenant_B,syndicated,PanelOne,CA,2025-09,CR-SALT-200,553,1764.07,CAD,cases
+synd-Tenant_B-202509-0009,Tenant_B,syndicated,MarketScope,CA,2025-09,Soft Peak Daily Moisture Shampoo 400ml,1979,12843.71,CAD,units
+synd-Tenant_B-202509-0010,Tenant_B,syndicated,MarketScope,CA,2025-09,Oat Drink Original,1969,6871.81,CAD,cases
+synd-Tenant_B-202509-0011,Tenant_B,syndicated,PanelOne,CA,2025-09,Green Basket Plant Laundry Liquid 1.5L,278,2360.22,C$,units
+synd-Tenant_B-202509-0012,Tenant_B,syndicated,MarketScope,CA,2025-09,Green Basket Laundry Liquid,1435,12183.15,$,EA
+synd-Tenant_B-202509-0013,Tenant_B,syndicated,MarketScope,CA,2025-09,Crisp Ridge Chocolate Grain Bites,659,1838.61,CAD,cases
+synd-Tenant_B-202509-0014,Tenant_B,syndicated,PanelOne,CA,2025-09,Soft Peak Daily Moisture Conditioner 400ml,1304,8462.96,CAD,cases
+synd-Tenant_B-202509-0015,Tenant_B,syndicated,PanelOne,CA,2025-09, daily moisture shampoo ,295,1914.55,C$,EA
+synd-Tenant_B-202509-0016,Tenant_B,syndicated,PanelOne,CA,2025-09, green basket plant laundry liquid 1.5l ,887,7530.63,C$,units
+synd-Tenant_B-202509-0017,Tenant_B,syndicated,PanelOne,CA,2025-09, barista oat drink 6 pack ,975,5840.25,$,EA
+synd-Tenant_B-202509-0018,Tenant_B,syndicated,PanelOne,CA,2025-09, citrus dish soap ,2146,8133.34,C$,cases
+synd-Tenant_B-202509-0019,Tenant_B,syndicated,MarketScope,CA,2025-09,Crisp Ridge Chocolate Grain Bites,2496,6963.84,$,EA
+synd-Tenant_B-202509-0020,Tenant_B,syndicated,MarketScope,CA,2025-09,Crisp Ridge Sea Salt Potato Crisps,2142,6832.98,CAD,units
+synd-Tenant_B-202509-0021,Tenant_B,syndicated,MarketScope,CA,2025-09,Crisp Ridge Chocolate Grain Bites 150g,1799,5019.21,$,units
+synd-Tenant_B-202509-0022,Tenant_B,syndicated,PanelOne,CA,2025-09,Sea Salt Ridge Crisps,2113,6740.47,CAD,units
+synd-Tenant_B-202509-0023,Tenant_B,syndicated,PanelOne,CA,2025-09,Northstar Origial Oat Beverage,1836,6407.64,$,cases
+synd-Tenant_B-202509-0024,Tenant_B,syndicated,PanelOne,CA,2025-09,Sea Salt Ridge Crisps,1875,5981.25,CAD,EA
+synd-Tenant_B-202510-0001,Tenant_B,syndicated,MarketScope,CA,2025-10,Northstar Oat Drink Original 1L,2402,8382.98,C$,units
+synd-Tenant_B-202510-0002,Tenant_B,syndicated,PanelOne,CA,2025-10,,1360,5154.40,CAD,EA
+synd-Tenant_B-202510-0003,Tenant_B,syndicated,MarketScope,CA,2025-10,NS-OAT-1L,n/a,3811.08,C$,units
+synd-Tenant_B-202510-0004,Tenant_B,syndicated,PanelOne,CA,2025-10,Citrus Dishwashing Liquid,150,568.50,$,units
+synd-Tenant_B-202510-0005,Tenant_B,syndicated,MarketScope,CA,2025-10,Soft Peak Daily Moisture Shampoo 400ml,2500,16225.00,$,cases
+synd-Tenant_B-202510-0006,Tenant_B,syndicated,MarketScope,CA,2025-10,Soft Peak Moisture Shampoo,386,2505.14,C$,cases
+synd-Tenant_B-202510-0007,Tenant_B,syndicated,PanelOne,CA,2025-10,Soft Peak Moisture Shampoo,341,2213.09,C$,units
+synd-Tenant_B-202510-0008,Tenant_B,syndicated,MarketScope,CA,2025-10,Green Basket Plant Laundry Liquid 1.5L,2057,17463.93,$,cases
+synd-Tenant_B-202510-0009,Tenant_B,syndicated,MarketScope,CA,2025-10, ns-oat-6x250 ,2090,12519.10,$,EA
+synd-Tenant_B-202510-0010,Tenant_B,syndicated,PanelOne,CA,2025-10,Soft Peak Daily Moisture Shampoo,668,4335.32,CAD,cases
+synd-Tenant_B-202510-0011,Tenant_B,syndicated,PanelOne,CA,2025-10,Northstar Barista Oat Multipack,1575,9434.25,CAD,cases
+synd-Tenant_B-202510-0012,Tenant_B,syndicated,PanelOne,CA,2025-10,Citrus Dishwashing Liquid,686,2599.94,$,units
+synd-Tenant_B-202510-0013,Tenant_B,syndicated,PanelOne,CA,2025-10,SP-COND-400,466,3024.34,C$,EA
+synd-Tenant_B-202510-0014,Tenant_B,syndicated,PanelOne,CA,2025-10,Oat Drink Original,1463,5105.87,C$,cases
+synd-Tenant_B-202510-0015,Tenant_B,syndicated,MarketScope,CA,2025-10,Barista Oat Drink 6 Pack,465,2785.35,$,cases
+synd-Tenant_B-202510-0016,Tenant_B,syndicated,PanelOne,CA,2025-10,Sea Salt Ridge Crisps,1595,5088.05,C$,cases
+synd-Tenant_B-202510-0017,Tenant_B,syndicated,MarketScope,CA,2025-10,CR-SALT-200,240,765.60,C$,EA
+synd-Tenant_B-202510-0018,Tenant_B,syndicated,PanelOne,CA,2025-10,Northstar Oat Drink Barista Multipack,1021,6115.79,$,units
+synd-Tenant_B-202510-0019,Tenant_B,syndicated,MarketScope,CA,2025-10,Soft Peak Moisture Conditioner,2262,14680.38,CAD,EA
+synd-Tenant_B-202510-0020,Tenant_B,syndicated,PanelOne,CA,2025-10,Sea Salt Ridge Crisps,1292,4121.48,C$,units
+synd-Tenant_B-202510-0021,Tenant_B,syndicated,PanelOne,CA,2025-10, sea salt ridge crisps ,835,2663.65,$,units
+synd-Tenant_B-202510-0022,Tenant_B,syndicated,PanelOne,CA,2025-10,Green Basket Citrus Dishwashing Soap,1637,6204.23,C$,EA
+synd-Tenant_B-202510-0023,Tenant_B,syndicated,PanelOne,CA,2025-10,Soft Peak Moiture Shampoo,487,3160.63,CAD,EA
+synd-Tenant_B-202510-0024,Tenant_B,syndicated,PanelOne,CA,2025-10,Soft Peak Moisture Conditioner,608,3945.92,CAD,cases
+synd-Tenant_B-202511-0001,Tenant_B,syndicated,PanelOne,CA,2025-11,Oat Drink Barista Multipack,243,1455.57,$,units
+synd-Tenant_B-202511-0002,Tenant_B,syndicated,MarketScope,CA,2025-11,,2240,19017.60,CAD,cases
+synd-Tenant_B-202511-0003,Tenant_B,syndicated,PanelOne,CA,2025-11, sea salt ridge crisps ,n/a,5831.32,CAD,cases
+synd-Tenant_B-202511-0004,Tenant_B,syndicated,MarketScope,CA,2025-11,Green Basket Plant Laundry Liquid,889,7547.61,C$,cases
+synd-Tenant_B-202511-0005,Tenant_B,syndicated,MarketScope,CA,2025-11,Crisp Ridge Chocolate Grain Bites 150g,370,1032.30,C$,cases
+synd-Tenant_B-202511-0006,Tenant_B,syndicated,MarketScope,CA,2025-11,Northstar Oat Drink Barista Multipack,1355,8116.45,CAD,units
+synd-Tenant_B-202511-0007,Tenant_B,syndicated,MarketScope,CA,2025-11,Citrus Dishwashing Liquid,2277,8629.83,$,EA
+synd-Tenant_B-202511-0008,Tenant_B,syndicated,MarketScope,CA,2025-11, crisp ridge chocolate grain bites ,1813,5058.27,$,units
+synd-Tenant_B-202511-0009,Tenant_B,syndicated,PanelOne,CA,2025-11,Soft Peak Daily Moisture Conditioner,1083,7028.67,C$,units
+synd-Tenant_B-202511-0010,Tenant_B,syndicated,MarketScope,CA,2025-11,NS-OAT-1L,129,450.21,CAD,cases
+synd-Tenant_B-202511-0011,Tenant_B,syndicated,MarketScope,CA,2025-11,Citrus Dish Soap,2204,8353.16,$,units
+synd-Tenant_B-202511-0012,Tenant_B,syndicated,MarketScope,CA,2025-11,Soft Peak Daily Moisture Shampoo 400ml,2429,15764.21,C$,units
+synd-Tenant_B-202511-0013,Tenant_B,syndicated,PanelOne,CA,2025-11,Green Basket Laundry Liquid,1532,13006.68,C$,EA
+synd-Tenant_B-202511-0014,Tenant_B,syndicated,MarketScope,CA,2025-11, gb-dish-500 ,1719,6515.01,$,EA
+synd-Tenant_B-202511-0015,Tenant_B,syndicated,MarketScope,CA,2025-11,Green Basket Citrus Dish Soap 500ml,876,3320.04,CAD,units
+synd-Tenant_B-202511-0016,Tenant_B,syndicated,MarketScope,CA,2025-11,Crisp Ridge Chocolate Grain Bites 150g,621,1732.59,CAD,EA
+synd-Tenant_B-202511-0017,Tenant_B,syndicated,MarketScope,CA,2025-11, daily moisture shampoo ,2066,13408.34,CAD,EA
+synd-Tenant_B-202511-0018,Tenant_B,syndicated,PanelOne,CA,2025-11,SP-COND-400,522,3387.78,$,units
+synd-Tenant_B-202511-0019,Tenant_B,syndicated,PanelOne,CA,2025-11, chocolate grain bites ,1047,2921.13,CAD,EA
+synd-Tenant_B-202511-0020,Tenant_B,syndicated,PanelOne,CA,2025-11, soft peak daily moisture shampoo 400ml ,102,661.98,C$,cases
+synd-Tenant_B-202511-0021,Tenant_B,syndicated,PanelOne,CA,2025-11,Citrus Dish Soap,2360,8944.40,CAD,EA
+synd-Tenant_B-202511-0022,Tenant_B,syndicated,PanelOne,CA,2025-11,Citrus Dishwashing Liquid,592,2243.68,$,cases
+synd-Tenant_B-202511-0023,Tenant_B,syndicated,MarketScope,CA,2025-11,Crisp Ridge Sea Slt Potato Crisps,1134,3617.46,$,EA
+synd-Tenant_B-202511-0024,Tenant_B,syndicated,MarketScope,CA,2025-11,Soft Peak Daily Moisture Hair Conditioner,879,5704.71,$,EA
+synd-Tenant_B-202512-0001,Tenant_B,syndicated,MarketScope,CA,2025-12,Oat Drink Barista Multipack,2200,13178.00,C$,cases
+synd-Tenant_B-202512-0002,Tenant_B,syndicated,PanelOne,CA,2025-12,,1237,10502.13,$,EA
+synd-Tenant_B-202512-0003,Tenant_B,syndicated,MarketScope,CA,2025-12,Oat Original Northstar,n/a,2258.03,$,cases
+synd-Tenant_B-202512-0004,Tenant_B,syndicated,PanelOne,CA,2025-12,Green Basket Plant Laundry Liquid,1154,9797.46,C$,EA
+synd-Tenant_B-202512-0005,Tenant_B,syndicated,PanelOne,CA,2025-12,Crisp Ridge Sea Salt Crisps,821,2618.99,C$,cases
+synd-Tenant_B-202512-0006,Tenant_B,syndicated,PanelOne,CA,2025-12, soft peak moisture conditioner ,1748,11344.52,CAD,cases
+synd-Tenant_B-202512-0007,Tenant_B,syndicated,PanelOne,CA,2025-12,Chocolate Grain Snack Bites,155,432.45,C$,units
+synd-Tenant_B-202512-0008,Tenant_B,syndicated,PanelOne,CA,2025-12, citrus dishwashing liquid ,2326,8815.54,$,units
+synd-Tenant_B-202512-0009,Tenant_B,syndicated,PanelOne,CA,2025-12,NS-OAT-1L,1675,5845.75,C$,EA
+synd-Tenant_B-202512-0010,Tenant_B,syndicated,PanelOne,CA,2025-12,CR-CHOC-150,1471,4104.09,C$,cases
+synd-Tenant_B-202512-0011,Tenant_B,syndicated,MarketScope,CA,2025-12,Daily Moisture Shampoo,700,4543.00,C$,units
+synd-Tenant_B-202512-0012,Tenant_B,syndicated,MarketScope,CA,2025-12,Soft Peak Daily Moisture Shampoo 400ml,1407,9131.43,CAD,EA
+synd-Tenant_B-202512-0013,Tenant_B,syndicated,MarketScope,CA,2025-12,Soft Peak Moisture Conditioner,2479,16088.71,C$,cases
+synd-Tenant_B-202512-0014,Tenant_B,syndicated,MarketScope,CA,2025-12, sea salt ridge crisps ,1307,4169.33,CAD,units
+synd-Tenant_B-202512-0015,Tenant_B,syndicated,PanelOne,CA,2025-12,Daily Moisture Shampoo,2053,13323.97,CAD,units
+synd-Tenant_B-202512-0016,Tenant_B,syndicated,MarketScope,CA,2025-12, crisp ridge chocolate grain bites ,154,429.66,$,units
+synd-Tenant_B-202512-0017,Tenant_B,syndicated,MarketScope,CA,2025-12,CR CHOC 150,2155,6012.45,CAD,cases
+synd-Tenant_B-202512-0018,Tenant_B,syndicated,PanelOne,CA,2025-12,Crisp Ridge Sea Salt Crisps 200g,2390,7624.10,$,cases
+synd-Tenant_B-202512-0019,Tenant_B,syndicated,PanelOne,CA,2025-12,Soft Peak Daily Moisture Conditioner 400ml,1474,9566.26,C$,units
+synd-Tenant_B-202512-0020,Tenant_B,syndicated,PanelOne,CA,2025-12,Plant Laundry Liquid,2081,17667.69,CAD,units
+synd-Tenant_B-202512-0021,Tenant_B,syndicated,PanelOne,CA,2025-12,GB DISH 500,1768,6700.72,C$,cases
+synd-Tenant_B-202512-0022,Tenant_B,syndicated,PanelOne,CA,2025-12,CR-CHOC-150,676,1886.04,CAD,cases
+synd-Tenant_B-202512-0023,Tenant_B,syndicated,PanelOne,CA,2025-12,Citrus Dishwshing Liquid,498,1887.42,$,units
+synd-Tenant_B-202512-0024,Tenant_B,syndicated,MarketScope,CA,2025-12,Green Basket Plant Based Laundry Detergent,1156,9814.44,C$,EA
+synd-Tenant_C-202501-0001,Tenant_C,syndicated,MarketScope,DE,2025-01,Soft Peak Moisture Conditioner,1384,8982.16,€,units
+synd-Tenant_C-202501-0002,Tenant_C,syndicated,MarketScope,DE,2025-01,,2435,15803.15,EUR,units
+synd-Tenant_C-202501-0003,Tenant_C,syndicated,PanelOne,DE,2025-01,Crisp Ridge Sea Salt Crisps 200g,n/a,4612.74,€,EA
+synd-Tenant_C-202501-0004,Tenant_C,syndicated,PanelOne,DE,2025-01,Green Basket Citrus Dishwashing Soap,1657,6280.03,EUR,EA
+synd-Tenant_C-202501-0005,Tenant_C,syndicated,MarketScope,DE,2025-01,Soft Peak Daily Moisture Shampoo 400ml,1949,12649.01,€,cases
+synd-Tenant_C-202501-0006,Tenant_C,syndicated,MarketScope,DE,2025-01,Sea Salt Ridge Crisps,758,2418.02,EUR,EA
+synd-Tenant_C-202501-0007,Tenant_C,syndicated,MarketScope,DE,2025-01,SP-SHAM-400,2145,13921.05,EUR,units
+synd-Tenant_C-202501-0008,Tenant_C,syndicated,MarketScope,DE,2025-01,Soft Peak Daily Moisture Shampoo,780,5062.20,EUR,units
+synd-Tenant_C-202501-0009,Tenant_C,syndicated,MarketScope,DE,2025-01,Citrus Dish Soap,1795,6803.05,EUR,EA
+synd-Tenant_C-202501-0010,Tenant_C,syndicated,MarketScope,DE,2025-01,Green Basket Citrus Dishwashing Soap,1891,7166.89,EUR,cases
+synd-Tenant_C-202501-0011,Tenant_C,syndicated,MarketScope,DE,2025-01,NS-OAT-6X250,233,1395.67,EUR,EA
+synd-Tenant_C-202501-0012,Tenant_C,syndicated,MarketScope,DE,2025-01,Sea Salt Crisps,1261,4022.59,EUR,cases
+synd-Tenant_C-202501-0013,Tenant_C,syndicated,MarketScope,DE,2025-01,Green Basket Plant Laundry Liquid,1400,11886.00,EUR,units
+synd-Tenant_C-202501-0014,Tenant_C,syndicated,PanelOne,DE,2025-01,Daily Moisture Shampoo,1891,12272.59,€,units
+synd-Tenant_C-202501-0015,Tenant_C,syndicated,PanelOne,DE,2025-01, crisp ridge cocoa grain bites ,726,2025.54,€,cases
+synd-Tenant_C-202501-0016,Tenant_C,syndicated,MarketScope,DE,2025-01,Northstar Barista Oat Multipack,1648,9871.52,€,cases
+synd-Tenant_C-202501-0017,Tenant_C,syndicated,MarketScope,DE,2025-01, northstar oat drink original ,2124,7412.76,EUR,units
+synd-Tenant_C-202501-0018,Tenant_C,syndicated,PanelOne,DE,2025-01,SP SHAM 400,831,5393.19,€,units
+synd-Tenant_C-202501-0019,Tenant_C,syndicated,PanelOne,DE,2025-01,Green Basket Citrus Dish Soap,724,2743.96,EUR,EA
+synd-Tenant_C-202501-0020,Tenant_C,syndicated,MarketScope,DE,2025-01, oat drink barista multipack ,2199,13172.01,EUR,units
+synd-Tenant_C-202501-0021,Tenant_C,syndicated,MarketScope,DE,2025-01, plant laundry liquid ,1835,15579.15,€,EA
+synd-Tenant_C-202501-0022,Tenant_C,syndicated,MarketScope,DE,2025-01,Northstar Barista Oat Multipack,2272,13609.28,€,EA
+synd-Tenant_C-202501-0023,Tenant_C,syndicated,MarketScope,DE,2025-01, northstar origial oat beverage ,144,502.56,EUR,units
+synd-Tenant_C-202501-0024,Tenant_C,syndicated,MarketScope,DE,2025-01,Soft Peak Moisture Conditioner,406,2634.94,€,cases
+synd-Tenant_C-202502-0001,Tenant_C,syndicated,PanelOne,DE,2025-02,Soft Peak Daily Moisture Shampoo,1068,6931.32,€,EA
+synd-Tenant_C-202502-0002,Tenant_C,syndicated,MarketScope,DE,2025-02,,489,1706.61,€,cases
+synd-Tenant_C-202502-0003,Tenant_C,syndicated,MarketScope,DE,2025-02,Green Basket Plant Laundry Liquid,n/a,5068.53,€,cases
+synd-Tenant_C-202502-0004,Tenant_C,syndicated,MarketScope,DE,2025-02,NS-OAT-6X250,315,1886.85,EUR,units
+synd-Tenant_C-202502-0005,Tenant_C,syndicated,MarketScope,DE,2025-02,NS OAT 6X250,1792,10734.08,€,cases
+synd-Tenant_C-202502-0006,Tenant_C,syndicated,PanelOne,DE,2025-02,Northstar Barista Oat Multipack,2387,14298.13,€,cases
+synd-Tenant_C-202502-0007,Tenant_C,syndicated,MarketScope,DE,2025-02, sea salt ridge crisps ,2205,7033.95,EUR,EA
+synd-Tenant_C-202502-0008,Tenant_C,syndicated,PanelOne,DE,2025-02, soft peak moisture conditioner ,1358,8813.42,EUR,units
+synd-Tenant_C-202502-0009,Tenant_C,syndicated,PanelOne,DE,2025-02,SP-COND-400,968,6282.32,EUR,EA
+synd-Tenant_C-202502-0010,Tenant_C,syndicated,MarketScope,DE,2025-02,Soft Peak Daily Moisture Hair Shampoo,2121,13765.29,EUR,units
+synd-Tenant_C-202502-0011,Tenant_C,syndicated,MarketScope,DE,2025-02,Oat Original Northstar,1757,6131.93,EUR,EA
+synd-Tenant_C-202502-0012,Tenant_C,syndicated,MarketScope,DE,2025-02,Oat Drink Barista Multipack,2052,12291.48,€,cases
+synd-Tenant_C-202502-0013,Tenant_C,syndicated,MarketScope,DE,2025-02,Sea Salt Crisps,139,443.41,€,EA
+synd-Tenant_C-202502-0014,Tenant_C,syndicated,MarketScope,DE,2025-02,Northstar Oat Drink Original 1L,1474,5144.26,EUR,EA
+synd-Tenant_C-202502-0015,Tenant_C,syndicated,PanelOne,DE,2025-02,Green Basket Citrus Dishwashing Soap,184,697.36,€,EA
+synd-Tenant_C-202502-0016,Tenant_C,syndicated,MarketScope,DE,2025-02,Sea Salt Ridge Crisps,2331,7435.89,EUR,cases
+synd-Tenant_C-202502-0017,Tenant_C,syndicated,MarketScope,DE,2025-02,Crisp Ridge Chocolate Grain Bites,1963,5476.77,€,EA
+synd-Tenant_C-202502-0018,Tenant_C,syndicated,PanelOne,DE,2025-02,NS-OAT-6X250,1959,11734.41,EUR,units
+synd-Tenant_C-202502-0019,Tenant_C,syndicated,PanelOne,DE,2025-02, green basket plant based laundry detergent ,2396,20342.04,€,units
+synd-Tenant_C-202502-0020,Tenant_C,syndicated,MarketScope,DE,2025-02,Plant Laundry Liquid,1337,11351.13,EUR,units
+synd-Tenant_C-202502-0021,Tenant_C,syndicated,PanelOne,DE,2025-02,Soft Peak Moisture Shampoo,1988,12902.12,EUR,EA
+synd-Tenant_C-202502-0022,Tenant_C,syndicated,PanelOne,DE,2025-02, sp-sham-400 ,1824,11837.76,€,units
+synd-Tenant_C-202502-0023,Tenant_C,syndicated,MarketScope,DE,2025-02,Green Basket Plant Baed Laundry Detergent,538,4567.62,€,cases
+synd-Tenant_C-202502-0024,Tenant_C,syndicated,PanelOne,DE,2025-02,Barista Oat Drink 6 Pack,2128,12746.72,EUR,units
+synd-Tenant_C-202503-0001,Tenant_C,syndicated,PanelOne,DE,2025-03,Crisp Ridge Chocolate Grain Bites,1112,3102.48,EUR,units
+synd-Tenant_C-202503-0002,Tenant_C,syndicated,MarketScope,DE,2025-03,,604,3919.96,EUR,units
+synd-Tenant_C-202503-0003,Tenant_C,syndicated,MarketScope,DE,2025-03, oat drink original ,n/a,4282.23,EUR,EA
+synd-Tenant_C-202503-0004,Tenant_C,syndicated,PanelOne,DE,2025-03,Northstar Oat Drink Barista Multipack 6x250ml,1920,11500.80,€,EA
+synd-Tenant_C-202503-0005,Tenant_C,syndicated,MarketScope,DE,2025-03,Crisp Ridge Chocolate Grain Bites 150g,1541,4299.39,EUR,EA
+synd-Tenant_C-202503-0006,Tenant_C,syndicated,MarketScope,DE,2025-03,Crisp Ridge Chocolate Grain Bites,2252,6283.08,€,units
+synd-Tenant_C-202503-0007,Tenant_C,syndicated,PanelOne,DE,2025-03,Green Basket Citrus Dishwashing Soap,1048,3971.92,€,units
+synd-Tenant_C-202503-0008,Tenant_C,syndicated,PanelOne,DE,2025-03,Chocolate Grain Snack Bites,220,613.80,EUR,EA
+synd-Tenant_C-202503-0009,Tenant_C,syndicated,PanelOne,DE,2025-03,Barista Oat Drink 6 Pack,887,5313.13,EUR,cases
+synd-Tenant_C-202503-0010,Tenant_C,syndicated,MarketScope,DE,2025-03,Oat Original Northstar,2263,7897.87,EUR,units
+synd-Tenant_C-202503-0011,Tenant_C,syndicated,MarketScope,DE,2025-03,Crisp Ridge Sea Salt Potato Crisps,583,1859.77,EUR,units
+synd-Tenant_C-202503-0012,Tenant_C,syndicated,MarketScope,DE,2025-03,Northstar Original Oat Beverage,2220,7747.80,€,EA
+synd-Tenant_C-202503-0013,Tenant_C,syndicated,MarketScope,DE,2025-03,Northstar Original Oat Beverage,936,3266.64,€,cases
+synd-Tenant_C-202503-0014,Tenant_C,syndicated,PanelOne,DE,2025-03,Oat Drink Original,2134,7447.66,EUR,cases
+synd-Tenant_C-202503-0015,Tenant_C,syndicated,PanelOne,DE,2025-03,Green Basket Citrus Dish Soap 500ml,2074,7860.46,EUR,EA
+synd-Tenant_C-202503-0016,Tenant_C,syndicated,PanelOne,DE,2025-03, soft peak moisture shampoo ,141,915.09,EUR,EA
+synd-Tenant_C-202503-0017,Tenant_C,syndicated,PanelOne,DE,2025-03,NS-OAT-1L,1297,4526.53,EUR,cases
+synd-Tenant_C-202503-0018,Tenant_C,syndicated,MarketScope,DE,2025-03,Soft Peak Daily Moisture Shampoo 400ml,1100,7139.00,€,EA
+synd-Tenant_C-202503-0019,Tenant_C,syndicated,PanelOne,DE,2025-03,NS-OAT-6X250,681,4079.19,€,units
+synd-Tenant_C-202503-0020,Tenant_C,syndicated,MarketScope,DE,2025-03,Soft Peak Moisture Conditioner,177,1148.73,€,EA
+synd-Tenant_C-202503-0021,Tenant_C,syndicated,PanelOne,DE,2025-03,SP-COND-400,1175,7625.75,€,units
+synd-Tenant_C-202503-0022,Tenant_C,syndicated,PanelOne,DE,2025-03,Citrus Dishwashing Liquid,1165,4415.35,EUR,EA
+synd-Tenant_C-202503-0023,Tenant_C,syndicated,PanelOne,DE,2025-03, soft peak daily moistre hair conditioner ,1126,7307.74,€,units
+synd-Tenant_C-202503-0024,Tenant_C,syndicated,PanelOne,DE,2025-03,Green Basket Laundry Liquid,339,2878.11,€,EA
+synd-Tenant_C-202504-0001,Tenant_C,syndicated,MarketScope,DE,2025-04,GB-DISH-500,2175,8243.25,€,cases
+synd-Tenant_C-202504-0002,Tenant_C,syndicated,MarketScope,DE,2025-04,,2176,8247.04,€,units
+synd-Tenant_C-202504-0003,Tenant_C,syndicated,PanelOne,DE,2025-04,Oat Drink Barista Multipack,n/a,7810.96,€,units
+synd-Tenant_C-202504-0004,Tenant_C,syndicated,MarketScope,DE,2025-04,GB-DISH-500,714,2706.06,EUR,cases
+synd-Tenant_C-202504-0005,Tenant_C,syndicated,PanelOne,DE,2025-04,NS-OAT-6X250,1300,7787.00,€,EA
+synd-Tenant_C-202504-0006,Tenant_C,syndicated,MarketScope,DE,2025-04,Crisp Ridge Sea Salt Crisps,1938,6182.22,EUR,units
+synd-Tenant_C-202504-0007,Tenant_C,syndicated,MarketScope,DE,2025-04,Crisp Ridge Cocoa Grain Bites,2459,6860.61,EUR,cases
+synd-Tenant_C-202504-0008,Tenant_C,syndicated,PanelOne,DE,2025-04,Sea Salt Crisps,399,1272.81,€,cases
+synd-Tenant_C-202504-0009,Tenant_C,syndicated,MarketScope,DE,2025-04,Soft Peak Daily Moisture Shampoo 400ml,1553,10078.97,EUR,EA
+synd-Tenant_C-202504-0010,Tenant_C,syndicated,MarketScope,DE,2025-04,Soft Peak Moisture Conditioner,1957,12700.93,EUR,EA
+synd-Tenant_C-202504-0011,Tenant_C,syndicated,PanelOne,DE,2025-04,Daily Moisture Conditioner,830,5386.70,EUR,units
+synd-Tenant_C-202504-0012,Tenant_C,syndicated,MarketScope,DE,2025-04,Crisp Ridge Sea Salt Crisps 200g,1281,4086.39,€,cases
+synd-Tenant_C-202504-0013,Tenant_C,syndicated,MarketScope,DE,2025-04,Oat Drink Barista Multipack,1254,7511.46,EUR,cases
+synd-Tenant_C-202504-0014,Tenant_C,syndicated,MarketScope,DE,2025-04, soft peak daily moisture hair conditioner ,577,3744.73,EUR,units
+synd-Tenant_C-202504-0015,Tenant_C,syndicated,PanelOne,DE,2025-04, sea salt ridge crisps ,879,2804.01,€,cases
+synd-Tenant_C-202504-0016,Tenant_C,syndicated,PanelOne,DE,2025-04, oat drink original ,463,1615.87,EUR,units
+synd-Tenant_C-202504-0017,Tenant_C,syndicated,MarketScope,DE,2025-04,SP-SHAM-400,837,5432.13,EUR,units
+synd-Tenant_C-202504-0018,Tenant_C,syndicated,PanelOne,DE,2025-04,Green Basket Laundry Liquid,1840,15621.60,€,units
+synd-Tenant_C-202504-0019,Tenant_C,syndicated,PanelOne,DE,2025-04,Soft Peak Daily Moisture Conditioner,1775,11519.75,EUR,cases
+synd-Tenant_C-202504-0020,Tenant_C,syndicated,PanelOne,DE,2025-04,Green Basket Citrus Dish Soap,1778,6738.62,€,cases
+synd-Tenant_C-202504-0021,Tenant_C,syndicated,PanelOne,DE,2025-04,Crisp Ridge Cocoa Grain Bites,2364,6595.56,€,cases
+synd-Tenant_C-202504-0022,Tenant_C,syndicated,PanelOne,DE,2025-04,Northstar Original Oat Beverage,155,540.95,€,units
+synd-Tenant_C-202504-0023,Tenant_C,syndicated,MarketScope,DE,2025-04,Barista Oa Drink 6 Pack,637,3815.63,€,units
+synd-Tenant_C-202504-0024,Tenant_C,syndicated,MarketScope,DE,2025-04,Northstar Barista Oat Multipack,1378,8254.22,€,EA
+synd-Tenant_C-202505-0001,Tenant_C,syndicated,MarketScope,DE,2025-05,Northstar Oat Drink Original,1101,3842.49,€,units
+synd-Tenant_C-202505-0002,Tenant_C,syndicated,MarketScope,DE,2025-05,,1372,8904.28,EUR,units
+synd-Tenant_C-202505-0003,Tenant_C,syndicated,MarketScope,DE,2025-05,NS-OAT-6X250,n/a,2042.59,€,EA
+synd-Tenant_C-202505-0004,Tenant_C,syndicated,MarketScope,DE,2025-05,Soft Peak Daily Moisture Shampoo,2147,13934.03,€,cases
+synd-Tenant_C-202505-0005,Tenant_C,syndicated,MarketScope,DE,2025-05,Crisp Ridge Sea Salt Crisps,908,2896.52,EUR,units
+synd-Tenant_C-202505-0006,Tenant_C,syndicated,MarketScope,DE,2025-05,Northstar Oat Drink Original 1L,1210,4222.90,€,cases
+synd-Tenant_C-202505-0007,Tenant_C,syndicated,PanelOne,DE,2025-05,Green Basket Citrus Dishwashing Soap,654,2478.66,EUR,cases
+synd-Tenant_C-202505-0008,Tenant_C,syndicated,PanelOne,DE,2025-05,SP-COND-400,2019,13103.31,EUR,units
+synd-Tenant_C-202505-0009,Tenant_C,syndicated,PanelOne,DE,2025-05,Citrus Dishwashing Liquid,1143,4331.97,EUR,units
+synd-Tenant_C-202505-0010,Tenant_C,syndicated,PanelOne,DE,2025-05,CR-CHOC-150,2039,5688.81,EUR,units
+synd-Tenant_C-202505-0011,Tenant_C,syndicated,MarketScope,DE,2025-05,Oat Drink Original,2032,7091.68,EUR,EA
+synd-Tenant_C-202505-0012,Tenant_C,syndicated,MarketScope,DE,2025-05,Oat Drink Barista Multipack,1890,11321.10,€,EA
+synd-Tenant_C-202505-0013,Tenant_C,syndicated,MarketScope,DE,2025-05, green basket laundry liquid ,882,7488.18,€,EA
+synd-Tenant_C-202505-0014,Tenant_C,syndicated,MarketScope,DE,2025-05,Chocolate Grain Snack Bites,1226,3420.54,EUR,EA
+synd-Tenant_C-202505-0015,Tenant_C,syndicated,PanelOne,DE,2025-05,Oat Original Northstar,525,1832.25,EUR,EA
+synd-Tenant_C-202505-0016,Tenant_C,syndicated,PanelOne,DE,2025-05,Northstar Original Oat Beverage,895,3123.55,EUR,EA
+synd-Tenant_C-202505-0017,Tenant_C,syndicated,PanelOne,DE,2025-05, citrus dishwashing liquid ,1192,4517.68,€,units
+synd-Tenant_C-202505-0018,Tenant_C,syndicated,MarketScope,DE,2025-05,SP-COND-400,452,2933.48,€,units
+synd-Tenant_C-202505-0019,Tenant_C,syndicated,PanelOne,DE,2025-05, ns oat 6x250 ,882,5283.18,EUR,EA
+synd-Tenant_C-202505-0020,Tenant_C,syndicated,MarketScope,DE,2025-05,Northstar Oat Drink Original 1L,2106,7349.94,€,cases
+synd-Tenant_C-202505-0021,Tenant_C,syndicated,PanelOne,DE,2025-05,Green Basket Citrus Dish Soap,1282,4858.78,EUR,EA
+synd-Tenant_C-202505-0022,Tenant_C,syndicated,PanelOne,DE,2025-05,GB-LAUN-1.5,1647,13983.03,€,EA
+synd-Tenant_C-202505-0023,Tenant_C,syndicated,MarketScope,DE,2025-05,Barista Oa Drink 6 Pack,189,1132.11,€,cases
+synd-Tenant_C-202505-0024,Tenant_C,syndicated,PanelOne,DE,2025-05,Soft Peak Moisture Conditioner,2176,14122.24,€,EA
+synd-Tenant_C-202506-0001,Tenant_C,syndicated,PanelOne,DE,2025-06,Soft Peak Daily Moisture Shampoo,320,2076.80,EUR,EA
+synd-Tenant_C-202506-0002,Tenant_C,syndicated,PanelOne,DE,2025-06,,1102,3074.58,EUR,cases
+synd-Tenant_C-202506-0003,Tenant_C,syndicated,MarketScope,DE,2025-06,GB-DISH-500,n/a,2448.34,€,EA
+synd-Tenant_C-202506-0004,Tenant_C,syndicated,PanelOne,DE,2025-06,Green Basket Laundry Liquid,2153,18278.97,EUR,cases
+synd-Tenant_C-202506-0005,Tenant_C,syndicated,PanelOne,DE,2025-06,SP-SHAM-400,2068,13421.32,EUR,EA
+synd-Tenant_C-202506-0006,Tenant_C,syndicated,PanelOne,DE,2025-06, daily moisture shampoo ,1962,12733.38,EUR,EA
+synd-Tenant_C-202506-0007,Tenant_C,syndicated,MarketScope,DE,2025-06,Soft Peak Daily Moisture Shampoo 400ml,832,5399.68,EUR,cases
+synd-Tenant_C-202506-0008,Tenant_C,syndicated,MarketScope,DE,2025-06, soft peak moisture shampoo ,1985,12882.65,€,units
+synd-Tenant_C-202506-0009,Tenant_C,syndicated,MarketScope,DE,2025-06,Green Basket Citrus Dish Soap,557,2111.03,EUR,cases
+synd-Tenant_C-202506-0010,Tenant_C,syndicated,MarketScope,DE,2025-06,Northstar Original Oat Beverage,2244,7831.56,EUR,units
+synd-Tenant_C-202506-0011,Tenant_C,syndicated,PanelOne,DE,2025-06,Northstar Oat Drink Barista Multipack,1152,6900.48,EUR,EA
+synd-Tenant_C-202506-0012,Tenant_C,syndicated,PanelOne,DE,2025-06,Oat Drink Barista Multipack,1233,7385.67,EUR,cases
+synd-Tenant_C-202506-0013,Tenant_C,syndicated,PanelOne,DE,2025-06,Daily Moisture Shampoo,1006,6528.94,EUR,units
+synd-Tenant_C-202506-0014,Tenant_C,syndicated,MarketScope,DE,2025-06, citrus dish soap ,1518,5753.22,€,units
+synd-Tenant_C-202506-0015,Tenant_C,syndicated,MarketScope,DE,2025-06,Soft Peak Moisture Conditioner,2269,14725.81,€,EA
+synd-Tenant_C-202506-0016,Tenant_C,syndicated,MarketScope,DE,2025-06,Green Basket Plant Laundry Liquid,1061,9007.89,EUR,cases
+synd-Tenant_C-202506-0017,Tenant_C,syndicated,MarketScope,DE,2025-06,Crisp Ridge Chocolate Grain Bites 150g,2353,6564.87,€,EA
+synd-Tenant_C-202506-0018,Tenant_C,syndicated,MarketScope,DE,2025-06,Crisp Ridge Sea Salt Crisps 200g,2000,6380.00,€,EA
+synd-Tenant_C-202506-0019,Tenant_C,syndicated,PanelOne,DE,2025-06,Chocolate Grain Bites,1018,2840.22,€,cases
+synd-Tenant_C-202506-0020,Tenant_C,syndicated,PanelOne,DE,2025-06,Northstar Barista Oat Multipack,1694,10147.06,€,units
+synd-Tenant_C-202506-0021,Tenant_C,syndicated,PanelOne,DE,2025-06,Soft Peak Daily Moisture Conditioner,1090,7074.10,EUR,EA
+synd-Tenant_C-202506-0022,Tenant_C,syndicated,MarketScope,DE,2025-06,Northstar Barista Oat Multipack,2025,12129.75,EUR,units
+synd-Tenant_C-202506-0023,Tenant_C,syndicated,MarketScope,DE,2025-06,Soft Peak Moiture Shampoo,1902,12343.98,EUR,units
+synd-Tenant_C-202506-0024,Tenant_C,syndicated,PanelOne,DE,2025-06,Northstar Barista Oat Multipack,1451,8691.49,EUR,EA
+synd-Tenant_C-202507-0001,Tenant_C,syndicated,PanelOne,DE,2025-07,Daily Moisture Conditioner,206,1336.94,€,EA
+synd-Tenant_C-202507-0002,Tenant_C,syndicated,PanelOne,DE,2025-07,,1153,4369.87,€,units
+synd-Tenant_C-202507-0003,Tenant_C,syndicated,MarketScope,DE,2025-07,Crisp Ridge Sea Salt Potato Crisps,n/a,6864.88,€,cases
+synd-Tenant_C-202507-0004,Tenant_C,syndicated,PanelOne,DE,2025-07,Green Basket Citrus Dish Soap 500ml,589,2232.31,€,EA
+synd-Tenant_C-202507-0005,Tenant_C,syndicated,PanelOne,DE,2025-07,Soft Peak Daily Moisture Conditioner 400ml,2290,14862.10,EUR,units
+synd-Tenant_C-202507-0006,Tenant_C,syndicated,PanelOne,DE,2025-07,Soft Peak Daily Moisture Hair Conditioner,360,2336.40,EUR,cases
+synd-Tenant_C-202507-0007,Tenant_C,syndicated,PanelOne,DE,2025-07,GB-LAUN-1.5,2049,17396.01,€,units
+synd-Tenant_C-202507-0008,Tenant_C,syndicated,MarketScope,DE,2025-07,Crisp Ridge Sea Salt Potato Crisps,1208,3853.52,€,cases
+synd-Tenant_C-202507-0009,Tenant_C,syndicated,MarketScope,DE,2025-07,Crisp Ridge Chocolate Grain Bites,846,2360.34,€,units
+synd-Tenant_C-202507-0010,Tenant_C,syndicated,MarketScope,DE,2025-07,Green Basket Citrus Dishwashing Soap,973,3687.67,€,cases
+synd-Tenant_C-202507-0011,Tenant_C,syndicated,PanelOne,DE,2025-07,Green Basket Plant Laundry Liquid,746,6333.54,€,EA
+synd-Tenant_C-202507-0012,Tenant_C,syndicated,MarketScope,DE,2025-07,Soft Peak Moisture Conditioner,1391,9027.59,€,EA
+synd-Tenant_C-202507-0013,Tenant_C,syndicated,MarketScope,DE,2025-07,Soft Peak Daily Moisture Hair Shampoo,1148,7450.52,€,EA
+synd-Tenant_C-202507-0014,Tenant_C,syndicated,PanelOne,DE,2025-07,Northstar Oat Drink Original,2024,7063.76,EUR,cases
+synd-Tenant_C-202507-0015,Tenant_C,syndicated,PanelOne,DE,2025-07,Soft Peak Moisture Shampoo,1264,8203.36,€,EA
+synd-Tenant_C-202507-0016,Tenant_C,syndicated,MarketScope,DE,2025-07, chocolate grain snack bites ,1167,3255.93,€,cases
+synd-Tenant_C-202507-0017,Tenant_C,syndicated,MarketScope,DE,2025-07,Oat Drink Original,1160,4048.40,€,cases
+synd-Tenant_C-202507-0018,Tenant_C,syndicated,MarketScope,DE,2025-07, oat drink original ,2306,8047.94,€,EA
+synd-Tenant_C-202507-0019,Tenant_C,syndicated,MarketScope,DE,2025-07, citrus dishwashing liquid ,1234,4676.86,EUR,EA
+synd-Tenant_C-202507-0020,Tenant_C,syndicated,MarketScope,DE,2025-07,Chocolate Grain Snack Bites,1022,2851.38,€,EA
+synd-Tenant_C-202507-0021,Tenant_C,syndicated,PanelOne,DE,2025-07,Crisp Ridge Chocolate Grain Bites,843,2351.97,€,units
+synd-Tenant_C-202507-0022,Tenant_C,syndicated,MarketScope,DE,2025-07,Oat Drink Original,662,2310.38,€,units
+synd-Tenant_C-202507-0023,Tenant_C,syndicated,PanelOne,DE,2025-07,Soft Peak Daily Moiture Hair Shampoo,480,3115.20,EUR,cases
+synd-Tenant_C-202507-0024,Tenant_C,syndicated,PanelOne,DE,2025-07,Northstar Barista Oat Multipack,1971,11806.29,€,units
+synd-Tenant_C-202508-0001,Tenant_C,syndicated,PanelOne,DE,2025-08,Soft Peak Daily Moisture Shampoo 400ml,2030,13174.70,€,EA
+synd-Tenant_C-202508-0002,Tenant_C,syndicated,MarketScope,DE,2025-08,,1300,4927.00,EUR,cases
+synd-Tenant_C-202508-0003,Tenant_C,syndicated,MarketScope,DE,2025-08,Daily Moisture Shampoo,n/a,7697.14,EUR,units
+synd-Tenant_C-202508-0004,Tenant_C,syndicated,PanelOne,DE,2025-08, northstar oat drink original ,1012,3531.88,EUR,EA
+synd-Tenant_C-202508-0005,Tenant_C,syndicated,PanelOne,DE,2025-08,NS-OAT-6X250,1597,9566.03,€,EA
+synd-Tenant_C-202508-0006,Tenant_C,syndicated,PanelOne,DE,2025-08,Soft Peak Moisture Conditioner,531,3446.19,EUR,units
+synd-Tenant_C-202508-0007,Tenant_C,syndicated,PanelOne,DE,2025-08,Plant Laundry Liquid,2473,20995.77,€,cases
+synd-Tenant_C-202508-0008,Tenant_C,syndicated,MarketScope,DE,2025-08, soft peak moisture shampoo ,869,5639.81,EUR,EA
+synd-Tenant_C-202508-0009,Tenant_C,syndicated,PanelOne,DE,2025-08,Crisp Ridge Sea Salt Crisps 200g,1969,6281.11,€,cases
+synd-Tenant_C-202508-0010,Tenant_C,syndicated,MarketScope,DE,2025-08,Green Basket Citrus Dishwashing Soap,1523,5772.17,EUR,EA
+synd-Tenant_C-202508-0011,Tenant_C,syndicated,PanelOne,DE,2025-08,Soft Peak Daily Moisture Hair Shampoo,721,4679.29,EUR,cases
+synd-Tenant_C-202508-0012,Tenant_C,syndicated,PanelOne,DE,2025-08,Green Basket Citrus Dishwashing Soap,1240,4699.60,EUR,EA
+synd-Tenant_C-202508-0013,Tenant_C,syndicated,PanelOne,DE,2025-08,Green Basket Plant Laundry Liquid 1.5L,373,3166.77,€,EA
+synd-Tenant_C-202508-0014,Tenant_C,syndicated,PanelOne,DE,2025-08,Chocolate Grain Bites,1231,3434.49,EUR,EA
+synd-Tenant_C-202508-0015,Tenant_C,syndicated,PanelOne,DE,2025-08,Barista Oat Drink 6 Pack,2029,12153.71,EUR,cases
+synd-Tenant_C-202508-0016,Tenant_C,syndicated,MarketScope,DE,2025-08,Soft Peak Daily Moisture Conditioner,2010,13044.90,€,cases
+synd-Tenant_C-202508-0017,Tenant_C,syndicated,MarketScope,DE,2025-08,Chocolate Grain Snack Bites,1871,5220.09,€,units
+synd-Tenant_C-202508-0018,Tenant_C,syndicated,MarketScope,DE,2025-08,Northstar Oat Drink Barista Multipack,1094,6553.06,€,units
+synd-Tenant_C-202508-0019,Tenant_C,syndicated,PanelOne,DE,2025-08,Soft Peak Moisture Shampoo,503,3264.47,€,units
+synd-Tenant_C-202508-0020,Tenant_C,syndicated,PanelOne,DE,2025-08,Crisp Ridge Sea Salt Crisps,1868,5958.92,€,units
+synd-Tenant_C-202508-0021,Tenant_C,syndicated,MarketScope,DE,2025-08,CR-CHOC-150,1976,5513.04,€,units
+synd-Tenant_C-202508-0022,Tenant_C,syndicated,MarketScope,DE,2025-08,Crisp Ridge Sea Salt Potato Crisps,470,1499.30,€,EA
+synd-Tenant_C-202508-0023,Tenant_C,syndicated,MarketScope,DE,2025-08,Soft Peak Daily Moistre Hair Conditioner,2173,14102.77,€,cases
+synd-Tenant_C-202508-0024,Tenant_C,syndicated,PanelOne,DE,2025-08,Chocolate Grain Snack Bites,1677,4678.83,EUR,cases
+synd-Tenant_C-202509-0001,Tenant_C,syndicated,PanelOne,DE,2025-09,Green Basket Plant Based Laundry Detergent,1104,9372.96,€,EA
+synd-Tenant_C-202509-0002,Tenant_C,syndicated,MarketScope,DE,2025-09,,2457,7837.83,€,cases
+synd-Tenant_C-202509-0003,Tenant_C,syndicated,PanelOne,DE,2025-09,Green Basket Laundry Liquid,n/a,9432.39,€,units
+synd-Tenant_C-202509-0004,Tenant_C,syndicated,MarketScope,DE,2025-09,Soft Peak Daily Moisture Hair Conditioner,1893,12285.57,EUR,cases
+synd-Tenant_C-202509-0005,Tenant_C,syndicated,MarketScope,DE,2025-09,SP-SHAM-400,212,1375.88,€,EA
+synd-Tenant_C-202509-0006,Tenant_C,syndicated,PanelOne,DE,2025-09,Crisp Ridge Chocolate Grain Bites 150g,1567,4371.93,€,units
+synd-Tenant_C-202509-0007,Tenant_C,syndicated,MarketScope,DE,2025-09,Northstar Barista Oat Multipack,2451,14681.49,EUR,EA
+synd-Tenant_C-202509-0008,Tenant_C,syndicated,PanelOne,DE,2025-09,Soft Peak Moisture Shampoo,1538,9981.62,EUR,EA
+synd-Tenant_C-202509-0009,Tenant_C,syndicated,PanelOne,DE,2025-09,SP COND 400,1354,8787.46,EUR,cases
+synd-Tenant_C-202509-0010,Tenant_C,syndicated,PanelOne,DE,2025-09,GB-DISH-500,1905,7219.95,€,cases
+synd-Tenant_C-202509-0011,Tenant_C,syndicated,MarketScope,DE,2025-09, crisp ridge chocolate grain bites 150g ,1481,4131.99,EUR,cases
+synd-Tenant_C-202509-0012,Tenant_C,syndicated,PanelOne,DE,2025-09,Soft Peak Daily Moisture Shampoo 400ml,2067,13414.83,€,cases
+synd-Tenant_C-202509-0013,Tenant_C,syndicated,PanelOne,DE,2025-09,Barista Oat Drink 6 Pack,1644,9847.56,€,EA
+synd-Tenant_C-202509-0014,Tenant_C,syndicated,PanelOne,DE,2025-09, northstar oat drink original 1l ,2439,8512.11,€,cases
+synd-Tenant_C-202509-0015,Tenant_C,syndicated,PanelOne,DE,2025-09, citrus dishwashing liquid ,978,3706.62,€,EA
+synd-Tenant_C-202509-0016,Tenant_C,syndicated,MarketScope,DE,2025-09,Chocolate Grain Bites,1084,3024.36,€,units
+synd-Tenant_C-202509-0017,Tenant_C,syndicated,MarketScope,DE,2025-09,Daily Moisture Shampoo,1216,7891.84,EUR,cases
+synd-Tenant_C-202509-0018,Tenant_C,syndicated,PanelOne,DE,2025-09,Northstar Oat Drink Original 1L,568,1982.32,EUR,units
+synd-Tenant_C-202509-0019,Tenant_C,syndicated,PanelOne,DE,2025-09, sp-cond-400 ,927,6016.23,€,cases
+synd-Tenant_C-202509-0020,Tenant_C,syndicated,MarketScope,DE,2025-09, daily moisture conditioner ,1885,12233.65,€,EA
+synd-Tenant_C-202509-0021,Tenant_C,syndicated,PanelOne,DE,2025-09,Crisp Ridge Chocolate Grain Bites 150g,921,2569.59,EUR,EA
+synd-Tenant_C-202509-0022,Tenant_C,syndicated,PanelOne,DE,2025-09,Daily Moisture Shampoo,2380,15446.20,EUR,units
+synd-Tenant_C-202509-0023,Tenant_C,syndicated,PanelOne,DE,2025-09, green basket citru dishwashing soap ,114,432.06,EUR,EA
+synd-Tenant_C-202509-0024,Tenant_C,syndicated,MarketScope,DE,2025-09,Northstar Barista Oat Multipack,1124,6732.76,EUR,cases
+synd-Tenant_C-202510-0001,Tenant_C,syndicated,PanelOne,DE,2025-10,Soft Peak Daily Moisture Conditioner 400ml,1328,8618.72,€,units
+synd-Tenant_C-202510-0002,Tenant_C,syndicated,MarketScope,DE,2025-10,,1998,12967.02,€,EA
+synd-Tenant_C-202510-0003,Tenant_C,syndicated,MarketScope,DE,2025-10,Citrus Dishwashing Liquid,n/a,6196.65,EUR,units
+synd-Tenant_C-202510-0004,Tenant_C,syndicated,PanelOne,DE,2025-10,Daily Moisture Shampoo,1914,12421.86,€,cases
+synd-Tenant_C-202510-0005,Tenant_C,syndicated,MarketScope,DE,2025-10,Crisp Ridge Sea Salt Crisps 200g,2093,6676.67,EUR,cases
+synd-Tenant_C-202510-0006,Tenant_C,syndicated,MarketScope,DE,2025-10, oat original northstar ,1392,4858.08,EUR,EA
+synd-Tenant_C-202510-0007,Tenant_C,syndicated,PanelOne,DE,2025-10, citrus dishwashing liquid ,1251,4741.29,EUR,units
+synd-Tenant_C-202510-0008,Tenant_C,syndicated,MarketScope,DE,2025-10, crisp ridge chocolate grain bites 150g ,181,504.99,€,cases
+synd-Tenant_C-202510-0009,Tenant_C,syndicated,MarketScope,DE,2025-10,Green Basket Citrus Dish Soap,440,1667.60,EUR,cases
+synd-Tenant_C-202510-0010,Tenant_C,syndicated,MarketScope,DE,2025-10,SP-COND-400,1078,6996.22,€,EA
+synd-Tenant_C-202510-0011,Tenant_C,syndicated,MarketScope,DE,2025-10,Soft Peak Daily Moisture Conditioner 400ml,917,5951.33,€,EA
+synd-Tenant_C-202510-0012,Tenant_C,syndicated,MarketScope,DE,2025-10,SP-SHAM-400,1253,8131.97,€,units
+synd-Tenant_C-202510-0013,Tenant_C,syndicated,PanelOne,DE,2025-10, soft peak moisture conditioner ,457,2965.93,EUR,units
+synd-Tenant_C-202510-0014,Tenant_C,syndicated,PanelOne,DE,2025-10,Oat Original Northstar,917,3200.33,EUR,units
+synd-Tenant_C-202510-0015,Tenant_C,syndicated,PanelOne,DE,2025-10,Barista Oat Drink 6 Pack,2128,12746.72,EUR,EA
+synd-Tenant_C-202510-0016,Tenant_C,syndicated,PanelOne,DE,2025-10,Green Basket Laundry Liquid,875,7428.75,€,cases
+synd-Tenant_C-202510-0017,Tenant_C,syndicated,PanelOne,DE,2025-10, oat drink barista multipack ,1086,6505.14,EUR,cases
+synd-Tenant_C-202510-0018,Tenant_C,syndicated,PanelOne,DE,2025-10,Green Basket Plant Laundry Liquid,1580,13414.20,€,cases
+synd-Tenant_C-202510-0019,Tenant_C,syndicated,MarketScope,DE,2025-10,Green Basket Laundry Liquid,1545,13117.05,€,EA
+synd-Tenant_C-202510-0020,Tenant_C,syndicated,MarketScope,DE,2025-10,Soft Peak Daily Moisture Conditioner,711,4614.39,€,EA
+synd-Tenant_C-202510-0021,Tenant_C,syndicated,MarketScope,DE,2025-10,Northstar Oat Drink Original 1L,2137,7458.13,EUR,units
+synd-Tenant_C-202510-0022,Tenant_C,syndicated,PanelOne,DE,2025-10,Green Basket Plant Based Laundry Detergent,1285,10909.65,€,units
+synd-Tenant_C-202510-0023,Tenant_C,syndicated,MarketScope,DE,2025-10,Soft Peak Daily Moistre Hair Conditioner,624,4049.76,EUR,cases
+synd-Tenant_C-202510-0024,Tenant_C,syndicated,MarketScope,DE,2025-10, soft peak daily moisture hair conditioner ,620,4023.80,EUR,cases
+synd-Tenant_C-202511-0001,Tenant_C,syndicated,MarketScope,DE,2025-11,Sea Salt Ridge Crisps,433,1381.27,EUR,EA
+synd-Tenant_C-202511-0002,Tenant_C,syndicated,PanelOne,DE,2025-11,,2076,17625.24,€,EA
+synd-Tenant_C-202511-0003,Tenant_C,syndicated,MarketScope,DE,2025-11,Green Basket Citrus Dish Soap 500ml,n/a,8201.56,EUR,units
+synd-Tenant_C-202511-0004,Tenant_C,syndicated,MarketScope,DE,2025-11,Soft Peak Daily Moisture Shampoo 400ml,704,4568.96,€,cases
+synd-Tenant_C-202511-0005,Tenant_C,syndicated,PanelOne,DE,2025-11, soft peak daily moisture hair shampoo ,169,1096.81,EUR,units
+synd-Tenant_C-202511-0006,Tenant_C,syndicated,MarketScope,DE,2025-11,Green Basket Citrus Dishwashing Soap,1258,4767.82,€,cases
+synd-Tenant_C-202511-0007,Tenant_C,syndicated,MarketScope,DE,2025-11, northstar original oat beverage ,1562,5451.38,€,units
+synd-Tenant_C-202511-0008,Tenant_C,syndicated,PanelOne,DE,2025-11,Soft Peak Daily Moisture Shampoo,1168,7580.32,EUR,units
+synd-Tenant_C-202511-0009,Tenant_C,syndicated,PanelOne,DE,2025-11,Oat Original Northstar,1721,6006.29,EUR,cases
+synd-Tenant_C-202511-0010,Tenant_C,syndicated,PanelOne,DE,2025-11, green basket plant laundry liquid 1.5l ,1607,13643.43,EUR,EA
+synd-Tenant_C-202511-0011,Tenant_C,syndicated,MarketScope,DE,2025-11,Sea Salt Crisps,1439,4590.41,€,EA
+synd-Tenant_C-202511-0012,Tenant_C,syndicated,PanelOne,DE,2025-11,Barista Oat Drink 6 Pack,1323,7924.77,€,cases
+synd-Tenant_C-202511-0013,Tenant_C,syndicated,MarketScope,DE,2025-11,Green Basket Plant Laundry Liquid,1691,14356.59,€,EA
+synd-Tenant_C-202511-0014,Tenant_C,syndicated,MarketScope,DE,2025-11,Soft Peak Daily Moisture Hair Shampoo,1342,8709.58,€,EA
+synd-Tenant_C-202511-0015,Tenant_C,syndicated,PanelOne,DE,2025-11, cr-choc-150 ,1337,3730.23,€,EA
+synd-Tenant_C-202511-0016,Tenant_C,syndicated,MarketScope,DE,2025-11, daily moisture conditioner ,1218,7904.82,EUR,units
+synd-Tenant_C-202511-0017,Tenant_C,syndicated,PanelOne,DE,2025-11,SP-COND-400,280,1817.20,€,EA
+synd-Tenant_C-202511-0018,Tenant_C,syndicated,PanelOne,DE,2025-11,Green Basket Laundry Liquid,2101,17837.49,€,cases
+synd-Tenant_C-202511-0019,Tenant_C,syndicated,MarketScope,DE,2025-11,Northstar Oat Drink Original,812,2833.88,€,EA
+synd-Tenant_C-202511-0020,Tenant_C,syndicated,PanelOne,DE,2025-11,Soft Peak Daily Moisture Conditioner,1946,12629.54,€,units
+synd-Tenant_C-202511-0021,Tenant_C,syndicated,PanelOne,DE,2025-11,Green Basket Citrus Dishwashing Soap,2153,8159.87,€,cases
+synd-Tenant_C-202511-0022,Tenant_C,syndicated,MarketScope,DE,2025-11, northstar barista oat multipack ,1717,10284.83,EUR,units
+synd-Tenant_C-202511-0023,Tenant_C,syndicated,MarketScope,DE,2025-11,Citrus Dishwshing Liquid,1090,4131.10,€,EA
+synd-Tenant_C-202511-0024,Tenant_C,syndicated,PanelOne,DE,2025-11,Crisp Ridge Sea Salt Potato Crisps,1750,5582.50,EUR,cases
+synd-Tenant_C-202512-0001,Tenant_C,syndicated,MarketScope,DE,2025-12,Green Basket Plant Laundry Liquid,2039,17311.11,€,cases
+synd-Tenant_C-202512-0002,Tenant_C,syndicated,MarketScope,DE,2025-12,,485,2905.15,€,EA
+synd-Tenant_C-202512-0003,Tenant_C,syndicated,MarketScope,DE,2025-12,Citrus Dish Soap,n/a,8235.67,€,units
+synd-Tenant_C-202512-0004,Tenant_C,syndicated,MarketScope,DE,2025-12,Crisp Ridge Chocolate Grain Bites 150g,1457,4065.03,EUR,units
+synd-Tenant_C-202512-0005,Tenant_C,syndicated,PanelOne,DE,2025-12, cr-choc-150 ,2120,5914.80,€,cases
+synd-Tenant_C-202512-0006,Tenant_C,syndicated,MarketScope,DE,2025-12,Soft Peak Moisture Conditioner,2251,14608.99,EUR,cases
+synd-Tenant_C-202512-0007,Tenant_C,syndicated,PanelOne,DE,2025-12,Northstar Oat Drink Barista Multipack 6x250ml,763,4570.37,€,cases
+synd-Tenant_C-202512-0008,Tenant_C,syndicated,MarketScope,DE,2025-12, chocolate grain snack bites ,703,1961.37,€,units
+synd-Tenant_C-202512-0009,Tenant_C,syndicated,MarketScope,DE,2025-12,SP-SHAM-400,872,5659.28,EUR,EA
+synd-Tenant_C-202512-0010,Tenant_C,syndicated,MarketScope,DE,2025-12, daily moisture conditioner ,1793,11636.57,EUR,units
+synd-Tenant_C-202512-0011,Tenant_C,syndicated,MarketScope,DE,2025-12, green basket plant laundry liquid 1.5l ,2187,18567.63,€,cases
+synd-Tenant_C-202512-0012,Tenant_C,syndicated,MarketScope,DE,2025-12,Chocolate Grain Bites,263,733.77,EUR,EA
+synd-Tenant_C-202512-0013,Tenant_C,syndicated,PanelOne,DE,2025-12,Soft Peak Daily Moisture Shampoo,2394,15537.06,€,EA
+synd-Tenant_C-202512-0014,Tenant_C,syndicated,PanelOne,DE,2025-12,GB-DISH-500,2418,9164.22,EUR,EA
+synd-Tenant_C-202512-0015,Tenant_C,syndicated,MarketScope,DE,2025-12,Plant Laundry Liquid,2323,19722.27,€,units
+synd-Tenant_C-202512-0016,Tenant_C,syndicated,MarketScope,DE,2025-12,Soft Peak Daily Moisture Hair Conditioner,1208,7839.92,€,cases
+synd-Tenant_C-202512-0017,Tenant_C,syndicated,MarketScope,DE,2025-12,Citrus Dish Soap,2193,8311.47,€,units
+synd-Tenant_C-202512-0018,Tenant_C,syndicated,PanelOne,DE,2025-12,GB-LAUN-1.5,323,2742.27,EUR,units
+synd-Tenant_C-202512-0019,Tenant_C,syndicated,MarketScope,DE,2025-12,GB-LAUN-1.5,1264,10731.36,EUR,units
+synd-Tenant_C-202512-0020,Tenant_C,syndicated,PanelOne,DE,2025-12,Sea Salt Crisps,171,545.49,€,units
+synd-Tenant_C-202512-0021,Tenant_C,syndicated,MarketScope,DE,2025-12, green basket plant laundry liquid 1.5l ,1882,15978.18,EUR,EA
+synd-Tenant_C-202512-0022,Tenant_C,syndicated,MarketScope,DE,2025-12, sea salt crisps ,2113,6740.47,€,cases
+synd-Tenant_C-202512-0023,Tenant_C,syndicated,MarketScope,DE,2025-12, citrus dishwshing liquid ,1387,5256.73,€,EA
+synd-Tenant_C-202512-0024,Tenant_C,syndicated,MarketScope,DE,2025-12,Green Basket Plant Based Laundry Detergent,183,1553.67,€,EA

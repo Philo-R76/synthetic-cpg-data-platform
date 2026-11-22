@@ -1,0 +1,96 @@
+{
+  "ontology_version": "1.0",
+  "relationships": [
+    "Brand HAS_PRODUCT Product",
+    "Product BELONGS_TO Category",
+    "Product HAS_PACK Pack"
+  ],
+  "entities": {
+    "SKU-1001": {
+      "synonyms": [
+        "Northstar Original Oat Beverage",
+        "Oat Original Northstar"
+      ]
+    },
+    "SKU-1002": {
+      "synonyms": [
+        "Northstar Barista Oat Multipack",
+        "Barista Oat Drink 6 Pack"
+      ]
+    },
+    "SKU-2001": {
+      "synonyms": [
+        "Crisp Ridge Cocoa Grain Bites",
+        "Chocolate Grain Snack Bites"
+      ]
+    },
+    "SKU-2002": {
+      "synonyms": [
+        "Crisp Ridge Sea Salt Potato Crisps",
+        "Sea Salt Ridge Crisps"
+      ]
+    },
+    "SKU-3001": {
+      "synonyms": [
+        "Green Basket Plant Based Laundry Detergent",
+        "Green Basket Laundry Liquid"
+      ]
+    },
+    "SKU-3002": {
+      "synonyms": [
+        "Green Basket Citrus Dishwashing Soap",
+        "Citrus Dishwashing Liquid"
+      ]
+    },
+    "SKU-4001": {
+      "synonyms": [
+        "Soft Peak Daily Moisture Hair Shampoo",
+        "Soft Peak Moisture Shampoo"
+      ]
+    },
+    "SKU-4002": {
+      "synonyms": [
+        "Soft Peak Daily Moisture Hair Conditioner",
+        "Soft Peak Moisture Conditioner"
+      ]
+    }
+  },
+  "mapping_releases": [
+    {
+      "version": "v1.0",
+      "features": ["canonical_sku"],
+      "description": "Canonical SKU exact match"
+    },
+    {
+      "version": "v1.1",
+      "features": ["canonical_sku", "product_name"],
+      "description": "Adds exact product-name matching"
+    },
+    {
+      "version": "v1.2",
+      "features": [
+        "canonical_sku",
+        "product_name",
+        "brand_product",
+        "branded_pack"
+      ],
+      "description": "Adds brand and pack-aware aliases"
+    },
+    {
+      "version": "v1.3",
+      "features": [
+        "canonical_sku",
+        "product_name",
+        "brand_product",
+        "branded_pack",
+        "ontology_synonyms",
+        "fuzzy_lexical"
+      ],
+      "description": "Adds curated ontology synonyms and cautious lexical matching"
+    }
+  ],
+  "fuzzy_lexical": {
+    "minimum_confidence": 0.88,
+    "minimum_margin": 0.06
+  }
+}

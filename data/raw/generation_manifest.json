@@ -1,0 +1,19 @@
+{
+  "feed_row_counts": {
+    "pos.csv": 864,
+    "promotions.csv": 864,
+    "shipments.csv": 864,
+    "syndicated.csv": 864
+  },
+  "ground_truth_label_count": 3456,
+  "injected_anomalies": {
+    "invalid_dates": 108,
+    "invalid_numeric_values": 108,
+    "missing_product_values": 144
+  },
+  "months": 12,
+  "product_count": 8,
+  "records_per_month_per_tenant_per_feed": 24,
+  "seed": 42,
+  "tenant_count": 3
+}
